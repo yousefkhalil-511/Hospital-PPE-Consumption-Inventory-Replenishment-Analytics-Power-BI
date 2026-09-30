@@ -1,0 +1,2 @@
+# Hospital-PPE-Consumption-Inventory-Replenishment-Analytics-Power-BI
+An end-to-end healthcare analytics Power BI dashboard tracking hospital PPE consumption velocity, on-hand inventory valuation, and replenishment capital across clinical departments. Features dynamic DAX time intelligence, 7-day moving averages, inbound order pipeline tracking, and proactive restocking alerts to prevent critical clinical stock-outs.
