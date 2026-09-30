@@ -1,0 +1,3896 @@
+TransactionDate,ItemID,Department,QtyConsumed
+2026-04-01,PPE-001,General Wards,42
+2026-04-01,PPE-001,Medical-Surgical units,119
+2026-04-01,PPE-001,Oncology units,293
+2026-04-01,PPE-001,Cardiology units,41
+2026-04-01,PPE-001,Pediatrics units,34
+2026-04-01,PPE-001,Geriatrics units,220
+2026-04-01,PPE-001,Emergency Department,905
+2026-04-01,PPE-001,Isolation units,581
+2026-04-01,PPE-001,Medical ICU,847
+2026-04-01,PPE-001,Surgical ICU,319
+2026-04-01,PPE-001,Cardiac Care Unit,49
+2026-04-01,PPE-001,NICU,109
+2026-04-01,PPE-001,PICU,180
+2026-04-01,PPE-002,General Wards,526
+2026-04-01,PPE-002,Medical-Surgical units,848
+2026-04-01,PPE-002,Oncology units,1129
+2026-04-01,PPE-002,Cardiology units,727
+2026-04-01,PPE-002,Pediatrics units,997
+2026-04-01,PPE-002,Geriatrics units,1229
+2026-04-01,PPE-002,Emergency Department,400
+2026-04-01,PPE-002,Isolation units,158
+2026-04-01,PPE-002,Medical ICU,312
+2026-04-01,PPE-002,Surgical ICU,622
+2026-04-01,PPE-002,Cardiac Care Unit,764
+2026-04-01,PPE-002,NICU,1420
+2026-04-01,PPE-002,PICU,1380
+2026-04-01,PPE-003,General Wards,139
+2026-04-01,PPE-003,Medical-Surgical units,89
+2026-04-01,PPE-003,Oncology units,247
+2026-04-01,PPE-003,Cardiology units,76
+2026-04-01,PPE-003,Pediatrics units,77
+2026-04-01,PPE-003,Geriatrics units,99
+2026-04-01,PPE-003,Emergency Department,119
+2026-04-01,PPE-003,Isolation units,101
+2026-04-01,PPE-003,Medical ICU,120
+2026-04-01,PPE-003,Surgical ICU,156
+2026-04-01,PPE-003,Cardiac Care Unit,184
+2026-04-01,PPE-003,NICU,214
+2026-04-01,PPE-003,PICU,270
+2026-04-01,PPE-004,General Wards,14
+2026-04-01,PPE-004,Medical-Surgical units,196
+2026-04-01,PPE-004,Oncology units,79
+2026-04-01,PPE-004,Cardiology units,11
+2026-04-01,PPE-004,Pediatrics units,11
+2026-04-01,PPE-004,Geriatrics units,25
+2026-04-01,PPE-004,Emergency Department,18
+2026-04-01,PPE-004,Isolation units,38
+2026-04-01,PPE-004,Medical ICU,72
+2026-04-01,PPE-004,Surgical ICU,228
+2026-04-01,PPE-004,Cardiac Care Unit,14
+2026-04-01,PPE-004,NICU,59
+2026-04-01,PPE-004,PICU,50
+2026-04-01,PPE-005,General Wards,531
+2026-04-01,PPE-005,Medical-Surgical units,143
+2026-04-01,PPE-005,Oncology units,310
+2026-04-01,PPE-005,Cardiology units,302
+2026-04-01,PPE-005,Pediatrics units,505
+2026-04-01,PPE-005,Geriatrics units,602
+2026-04-01,PPE-005,Emergency Department,846
+2026-04-01,PPE-005,Isolation units,1050
+2026-04-01,PPE-005,Medical ICU,1343
+2026-04-01,PPE-005,Surgical ICU,105
+2026-04-01,PPE-005,Cardiac Care Unit,377
+2026-04-01,PPE-005,NICU,656
+2026-04-01,PPE-005,PICU,405
+2026-04-01,PPE-006,General Wards,8
+2026-04-01,PPE-006,Medical-Surgical units,100
+2026-04-01,PPE-006,Oncology units,48
+2026-04-01,PPE-006,Cardiology units,3
+2026-04-01,PPE-006,Pediatrics units,6
+2026-04-01,PPE-006,Geriatrics units,14
+2026-04-01,PPE-006,Emergency Department,31
+2026-04-01,PPE-006,Isolation units,19
+2026-04-01,PPE-006,Medical ICU,35
+2026-04-01,PPE-006,Surgical ICU,160
+2026-04-01,PPE-006,Cardiac Care Unit,7
+2026-04-01,PPE-006,NICU,23
+2026-04-01,PPE-006,PICU,44
+2026-04-01,PPE-007,General Wards,3
+2026-04-01,PPE-007,Medical-Surgical units,9
+2026-04-01,PPE-007,Oncology units,19
+2026-04-01,PPE-007,Cardiology units,3
+2026-04-01,PPE-007,Pediatrics units,4
+2026-04-01,PPE-007,Geriatrics units,19
+2026-04-01,PPE-007,Emergency Department,40
+2026-04-01,PPE-007,Isolation units,46
+2026-04-01,PPE-007,Medical ICU,86
+2026-04-01,PPE-007,Surgical ICU,11
+2026-04-01,PPE-007,Cardiac Care Unit,2
+2026-04-01,PPE-007,NICU,9
+2026-04-01,PPE-007,PICU,11
+2026-04-01,PPE-008,General Wards,3
+2026-04-01,PPE-008,Medical-Surgical units,11
+2026-04-01,PPE-008,Oncology units,11
+2026-04-01,PPE-008,Cardiology units,1
+2026-04-01,PPE-008,Pediatrics units,1
+2026-04-01,PPE-008,Geriatrics units,10
+2026-04-01,PPE-008,Emergency Department,4
+2026-04-01,PPE-008,Isolation units,10
+2026-04-01,PPE-008,Medical ICU,7
+2026-04-01,PPE-008,Surgical ICU,7
+2026-04-01,PPE-008,Cardiac Care Unit,1
+2026-04-01,PPE-008,NICU,8
+2026-04-01,PPE-008,PICU,8
+2026-04-01,PPE-009,General Wards,86
+2026-04-01,PPE-009,Medical-Surgical units,157
+2026-04-01,PPE-009,Oncology units,29
+2026-04-01,PPE-009,Cardiology units,62
+2026-04-01,PPE-009,Pediatrics units,80
+2026-04-01,PPE-009,Geriatrics units,51
+2026-04-01,PPE-009,Emergency Department,37
+2026-04-01,PPE-009,Isolation units,23
+2026-04-01,PPE-009,Medical ICU,31
+2026-04-01,PPE-009,Surgical ICU,209
+2026-04-01,PPE-009,Cardiac Care Unit,40
+2026-04-01,PPE-009,NICU,39
+2026-04-01,PPE-009,PICU,23
+2026-04-01,PPE-010,General Wards,131
+2026-04-01,PPE-010,Medical-Surgical units,226
+2026-04-01,PPE-010,Oncology units,72
+2026-04-01,PPE-010,Cardiology units,103
+2026-04-01,PPE-010,Pediatrics units,93
+2026-04-01,PPE-010,Geriatrics units,55
+2026-04-01,PPE-010,Emergency Department,55
+2026-04-01,PPE-010,Isolation units,75
+2026-04-01,PPE-010,Medical ICU,82
+2026-04-01,PPE-010,Surgical ICU,261
+2026-04-01,PPE-010,Cardiac Care Unit,46
+2026-04-01,PPE-010,NICU,46
+2026-04-01,PPE-010,PICU,87
+2026-04-02,PPE-001,General Wards,48
+2026-04-02,PPE-001,Medical-Surgical units,230
+2026-04-02,PPE-001,Oncology units,278
+2026-04-02,PPE-001,Cardiology units,41
+2026-04-02,PPE-001,Pediatrics units,56
+2026-04-02,PPE-001,Geriatrics units,207
+2026-04-02,PPE-001,Emergency Department,384
+2026-04-02,PPE-001,Isolation units,420
+2026-04-02,PPE-001,Medical ICU,459
+2026-04-02,PPE-001,Surgical ICU,280
+2026-04-02,PPE-001,Cardiac Care Unit,28
+2026-04-02,PPE-001,NICU,141
+2026-04-02,PPE-001,PICU,127
+2026-04-02,PPE-002,General Wards,747
+2026-04-02,PPE-002,Medical-Surgical units,723
+2026-04-02,PPE-002,Oncology units,1226
+2026-04-02,PPE-002,Cardiology units,839
+2026-04-02,PPE-002,Pediatrics units,985
+2026-04-02,PPE-002,Geriatrics units,872
+2026-04-02,PPE-002,Emergency Department,198
+2026-04-02,PPE-002,Isolation units,360
+2026-04-02,PPE-002,Medical ICU,221
+2026-04-02,PPE-002,Surgical ICU,416
+2026-04-02,PPE-002,Cardiac Care Unit,1286
+2026-04-02,PPE-002,NICU,775
+2026-04-02,PPE-002,PICU,869
+2026-04-02,PPE-003,General Wards,125
+2026-04-02,PPE-003,Medical-Surgical units,66
+2026-04-02,PPE-003,Oncology units,145
+2026-04-02,PPE-003,Cardiology units,218
+2026-04-02,PPE-003,Pediatrics units,114
+2026-04-02,PPE-003,Geriatrics units,196
+2026-04-02,PPE-003,Emergency Department,96
+2026-04-02,PPE-003,Isolation units,140
+2026-04-02,PPE-003,Medical ICU,79
+2026-04-02,PPE-003,Surgical ICU,56
+2026-04-02,PPE-003,Cardiac Care Unit,132
+2026-04-02,PPE-003,NICU,118
+2026-04-02,PPE-003,PICU,118
+2026-04-02,PPE-004,General Wards,13
+2026-04-02,PPE-004,Medical-Surgical units,190
+2026-04-02,PPE-004,Oncology units,51
+2026-04-02,PPE-004,Cardiology units,7
+2026-04-02,PPE-004,Pediatrics units,15
+2026-04-02,PPE-004,Geriatrics units,41
+2026-04-02,PPE-004,Emergency Department,38
+2026-04-02,PPE-004,Isolation units,64
+2026-04-02,PPE-004,Medical ICU,73
+2026-04-02,PPE-004,Surgical ICU,224
+2026-04-02,PPE-004,Cardiac Care Unit,13
+2026-04-02,PPE-004,NICU,64
+2026-04-02,PPE-004,PICU,24
+2026-04-02,PPE-005,General Wards,227
+2026-04-02,PPE-005,Medical-Surgical units,266
+2026-04-02,PPE-005,Oncology units,465
+2026-04-02,PPE-005,Cardiology units,390
+2026-04-02,PPE-005,Pediatrics units,554
+2026-04-02,PPE-005,Geriatrics units,614
+2026-04-02,PPE-005,Emergency Department,1304
+2026-04-02,PPE-005,Isolation units,745
+2026-04-02,PPE-005,Medical ICU,345
+2026-04-02,PPE-005,Surgical ICU,196
+2026-04-02,PPE-005,Cardiac Care Unit,206
+2026-04-02,PPE-005,NICU,642
+2026-04-02,PPE-005,PICU,744
+2026-04-02,PPE-006,General Wards,2
+2026-04-02,PPE-006,Medical-Surgical units,45
+2026-04-02,PPE-006,Oncology units,23
+2026-04-02,PPE-006,Cardiology units,5
+2026-04-02,PPE-006,Pediatrics units,4
+2026-04-02,PPE-006,Geriatrics units,41
+2026-04-02,PPE-006,Emergency Department,13
+2026-04-02,PPE-006,Isolation units,36
+2026-04-02,PPE-006,Medical ICU,29
+2026-04-02,PPE-006,Surgical ICU,166
+2026-04-02,PPE-006,Cardiac Care Unit,9
+2026-04-02,PPE-006,NICU,20
+2026-04-02,PPE-006,PICU,40
+2026-04-02,PPE-007,General Wards,3
+2026-04-02,PPE-007,Medical-Surgical units,10
+2026-04-02,PPE-007,Oncology units,20
+2026-04-02,PPE-007,Cardiology units,5
+2026-04-02,PPE-007,Pediatrics units,5
+2026-04-02,PPE-007,Geriatrics units,29
+2026-04-02,PPE-007,Emergency Department,95
+2026-04-02,PPE-007,Isolation units,34
+2026-04-02,PPE-007,Medical ICU,104
+2026-04-02,PPE-007,Surgical ICU,20
+2026-04-02,PPE-007,Cardiac Care Unit,2
+2026-04-02,PPE-007,NICU,18
+2026-04-02,PPE-007,PICU,20
+2026-04-02,PPE-008,General Wards,1
+2026-04-02,PPE-008,Medical-Surgical units,6
+2026-04-02,PPE-008,Oncology units,5
+2026-04-02,PPE-008,Cardiology units,2
+2026-04-02,PPE-008,Pediatrics units,1
+2026-04-02,PPE-008,Geriatrics units,10
+2026-04-02,PPE-008,Emergency Department,8
+2026-04-02,PPE-008,Isolation units,12
+2026-04-02,PPE-008,Medical ICU,9
+2026-04-02,PPE-008,Surgical ICU,7
+2026-04-02,PPE-008,Cardiac Care Unit,2
+2026-04-02,PPE-008,NICU,7
+2026-04-02,PPE-008,PICU,7
+2026-04-02,PPE-009,General Wards,88
+2026-04-02,PPE-009,Medical-Surgical units,182
+2026-04-02,PPE-009,Oncology units,53
+2026-04-02,PPE-009,Cardiology units,50
+2026-04-02,PPE-009,Pediatrics units,74
+2026-04-02,PPE-009,Geriatrics units,36
+2026-04-02,PPE-009,Emergency Department,41
+2026-04-02,PPE-009,Isolation units,39
+2026-04-02,PPE-009,Medical ICU,37
+2026-04-02,PPE-009,Surgical ICU,135
+2026-04-02,PPE-009,Cardiac Care Unit,52
+2026-04-02,PPE-009,NICU,28
+2026-04-02,PPE-009,PICU,54
+2026-04-02,PPE-010,General Wards,71
+2026-04-02,PPE-010,Medical-Surgical units,178
+2026-04-02,PPE-010,Oncology units,65
+2026-04-02,PPE-010,Cardiology units,125
+2026-04-02,PPE-010,Pediatrics units,106
+2026-04-02,PPE-010,Geriatrics units,47
+2026-04-02,PPE-010,Emergency Department,80
+2026-04-02,PPE-010,Isolation units,79
+2026-04-02,PPE-010,Medical ICU,54
+2026-04-02,PPE-010,Surgical ICU,275
+2026-04-02,PPE-010,Cardiac Care Unit,112
+2026-04-02,PPE-010,NICU,70
+2026-04-02,PPE-010,PICU,41
+2026-04-03,PPE-001,General Wards,44
+2026-04-03,PPE-001,Medical-Surgical units,104
+2026-04-03,PPE-001,Oncology units,244
+2026-04-03,PPE-001,Cardiology units,59
+2026-04-03,PPE-001,Pediatrics units,53
+2026-04-03,PPE-001,Geriatrics units,249
+2026-04-03,PPE-001,Emergency Department,801
+2026-04-03,PPE-001,Isolation units,617
+2026-04-03,PPE-001,Medical ICU,930
+2026-04-03,PPE-001,Surgical ICU,151
+2026-04-03,PPE-001,Cardiac Care Unit,35
+2026-04-03,PPE-001,NICU,124
+2026-04-03,PPE-001,PICU,292
+2026-04-03,PPE-002,General Wards,812
+2026-04-03,PPE-002,Medical-Surgical units,333
+2026-04-03,PPE-002,Oncology units,851
+2026-04-03,PPE-002,Cardiology units,789
+2026-04-03,PPE-002,Pediatrics units,619
+2026-04-03,PPE-002,Geriatrics units,1311
+2026-04-03,PPE-002,Emergency Department,378
+2026-04-03,PPE-002,Isolation units,360
+2026-04-03,PPE-002,Medical ICU,243
+2026-04-03,PPE-002,Surgical ICU,760
+2026-04-03,PPE-002,Cardiac Care Unit,1067
+2026-04-03,PPE-002,NICU,644
+2026-04-03,PPE-002,PICU,928
+2026-04-03,PPE-003,General Wards,155
+2026-04-03,PPE-003,Medical-Surgical units,147
+2026-04-03,PPE-003,Oncology units,171
+2026-04-03,PPE-003,Cardiology units,94
+2026-04-03,PPE-003,Pediatrics units,147
+2026-04-03,PPE-003,Geriatrics units,120
+2026-04-03,PPE-003,Emergency Department,51
+2026-04-03,PPE-003,Isolation units,56
+2026-04-03,PPE-003,Medical ICU,114
+2026-04-03,PPE-003,Surgical ICU,134
+2026-04-03,PPE-003,Cardiac Care Unit,177
+2026-04-03,PPE-003,NICU,149
+2026-04-03,PPE-003,PICU,106
+2026-04-03,PPE-004,General Wards,10
+2026-04-03,PPE-004,Medical-Surgical units,291
+2026-04-03,PPE-004,Oncology units,43
+2026-04-03,PPE-004,Cardiology units,11
+2026-04-03,PPE-004,Pediatrics units,9
+2026-04-03,PPE-004,Geriatrics units,34
+2026-04-03,PPE-004,Emergency Department,76
+2026-04-03,PPE-004,Isolation units,44
+2026-04-03,PPE-004,Medical ICU,34
+2026-04-03,PPE-004,Surgical ICU,108
+2026-04-03,PPE-004,Cardiac Care Unit,4
+2026-04-03,PPE-004,NICU,19
+2026-04-03,PPE-004,PICU,52
+2026-04-03,PPE-005,General Wards,141
+2026-04-03,PPE-005,Medical-Surgical units,409
+2026-04-03,PPE-005,Oncology units,537
+2026-04-03,PPE-005,Cardiology units,403
+2026-04-03,PPE-005,Pediatrics units,557
+2026-04-03,PPE-005,Geriatrics units,774
+2026-04-03,PPE-005,Emergency Department,625
+2026-04-03,PPE-005,Isolation units,381
+2026-04-03,PPE-005,Medical ICU,1139
+2026-04-03,PPE-005,Surgical ICU,361
+2026-04-03,PPE-005,Cardiac Care Unit,248
+2026-04-03,PPE-005,NICU,345
+2026-04-03,PPE-005,PICU,333
+2026-04-03,PPE-006,General Wards,2
+2026-04-03,PPE-006,Medical-Surgical units,82
+2026-04-03,PPE-006,Oncology units,10
+2026-04-03,PPE-006,Cardiology units,7
+2026-04-03,PPE-006,Pediatrics units,7
+2026-04-03,PPE-006,Geriatrics units,34
+2026-04-03,PPE-006,Emergency Department,12
+2026-04-03,PPE-006,Isolation units,22
+2026-04-03,PPE-006,Medical ICU,12
+2026-04-03,PPE-006,Surgical ICU,96
+2026-04-03,PPE-006,Cardiac Care Unit,6
+2026-04-03,PPE-006,NICU,30
+2026-04-03,PPE-006,PICU,18
+2026-04-03,PPE-007,General Wards,3
+2026-04-03,PPE-007,Medical-Surgical units,10
+2026-04-03,PPE-007,Oncology units,11
+2026-04-03,PPE-007,Cardiology units,4
+2026-04-03,PPE-007,Pediatrics units,2
+2026-04-03,PPE-007,Geriatrics units,14
+2026-04-03,PPE-007,Emergency Department,82
+2026-04-03,PPE-007,Isolation units,71
+2026-04-03,PPE-007,Medical ICU,51
+2026-04-03,PPE-007,Surgical ICU,20
+2026-04-03,PPE-007,Cardiac Care Unit,4
+2026-04-03,PPE-007,NICU,28
+2026-04-03,PPE-007,PICU,11
+2026-04-03,PPE-008,General Wards,1
+2026-04-03,PPE-008,Medical-Surgical units,7
+2026-04-03,PPE-008,Oncology units,10
+2026-04-03,PPE-008,Cardiology units,2
+2026-04-03,PPE-008,Pediatrics units,1
+2026-04-03,PPE-008,Geriatrics units,11
+2026-04-03,PPE-008,Emergency Department,7
+2026-04-03,PPE-008,Isolation units,6
+2026-04-03,PPE-008,Medical ICU,6
+2026-04-03,PPE-008,Surgical ICU,8
+2026-04-03,PPE-008,Cardiac Care Unit,2
+2026-04-03,PPE-008,NICU,9
+2026-04-03,PPE-008,PICU,8
+2026-04-03,PPE-009,General Wards,72
+2026-04-03,PPE-009,Medical-Surgical units,127
+2026-04-03,PPE-009,Oncology units,41
+2026-04-03,PPE-009,Cardiology units,56
+2026-04-03,PPE-009,Pediatrics units,68
+2026-04-03,PPE-009,Geriatrics units,34
+2026-04-03,PPE-009,Emergency Department,18
+2026-04-03,PPE-009,Isolation units,50
+2026-04-03,PPE-009,Medical ICU,34
+2026-04-03,PPE-009,Surgical ICU,155
+2026-04-03,PPE-009,Cardiac Care Unit,68
+2026-04-03,PPE-009,NICU,44
+2026-04-03,PPE-009,PICU,40
+2026-04-03,PPE-010,General Wards,118
+2026-04-03,PPE-010,Medical-Surgical units,138
+2026-04-03,PPE-010,Oncology units,78
+2026-04-03,PPE-010,Cardiology units,123
+2026-04-03,PPE-010,Pediatrics units,126
+2026-04-03,PPE-010,Geriatrics units,75
+2026-04-03,PPE-010,Emergency Department,56
+2026-04-03,PPE-010,Isolation units,51
+2026-04-03,PPE-010,Medical ICU,91
+2026-04-03,PPE-010,Surgical ICU,196
+2026-04-03,PPE-010,Cardiac Care Unit,103
+2026-04-03,PPE-010,NICU,42
+2026-04-03,PPE-010,PICU,32
+2026-04-04,PPE-001,General Wards,41
+2026-04-04,PPE-001,Medical-Surgical units,219
+2026-04-04,PPE-001,Oncology units,220
+2026-04-04,PPE-001,Cardiology units,42
+2026-04-04,PPE-001,Pediatrics units,26
+2026-04-04,PPE-001,Geriatrics units,113
+2026-04-04,PPE-001,Emergency Department,578
+2026-04-04,PPE-001,Isolation units,990
+2026-04-04,PPE-001,Medical ICU,1061
+2026-04-04,PPE-001,Surgical ICU,118
+2026-04-04,PPE-001,Cardiac Care Unit,22
+2026-04-04,PPE-001,NICU,196
+2026-04-04,PPE-001,PICU,159
+2026-04-04,PPE-002,General Wards,909
+2026-04-04,PPE-002,Medical-Surgical units,651
+2026-04-04,PPE-002,Oncology units,1378
+2026-04-04,PPE-002,Cardiology units,528
+2026-04-04,PPE-002,Pediatrics units,978
+2026-04-04,PPE-002,Geriatrics units,1260
+2026-04-04,PPE-002,Emergency Department,200
+2026-04-04,PPE-002,Isolation units,237
+2026-04-04,PPE-002,Medical ICU,183
+2026-04-04,PPE-002,Surgical ICU,781
+2026-04-04,PPE-002,Cardiac Care Unit,747
+2026-04-04,PPE-002,NICU,1375
+2026-04-04,PPE-002,PICU,994
+2026-04-04,PPE-003,General Wards,195
+2026-04-04,PPE-003,Medical-Surgical units,115
+2026-04-04,PPE-003,Oncology units,305
+2026-04-04,PPE-003,Cardiology units,84
+2026-04-04,PPE-003,Pediatrics units,219
+2026-04-04,PPE-003,Geriatrics units,176
+2026-04-04,PPE-003,Emergency Department,65
+2026-04-04,PPE-003,Isolation units,126
+2026-04-04,PPE-003,Medical ICU,79
+2026-04-04,PPE-003,Surgical ICU,59
+2026-04-04,PPE-003,Cardiac Care Unit,97
+2026-04-04,PPE-003,NICU,128
+2026-04-04,PPE-003,PICU,252
+2026-04-04,PPE-004,General Wards,10
+2026-04-04,PPE-004,Medical-Surgical units,114
+2026-04-04,PPE-004,Oncology units,43
+2026-04-04,PPE-004,Cardiology units,10
+2026-04-04,PPE-004,Pediatrics units,14
+2026-04-04,PPE-004,Geriatrics units,86
+2026-04-04,PPE-004,Emergency Department,35
+2026-04-04,PPE-004,Isolation units,32
+2026-04-04,PPE-004,Medical ICU,30
+2026-04-04,PPE-004,Surgical ICU,83
+2026-04-04,PPE-004,Cardiac Care Unit,7
+2026-04-04,PPE-004,NICU,44
+2026-04-04,PPE-004,PICU,63
+2026-04-04,PPE-005,General Wards,615
+2026-04-04,PPE-005,Medical-Surgical units,280
+2026-04-04,PPE-005,Oncology units,355
+2026-04-04,PPE-005,Cardiology units,333
+2026-04-04,PPE-005,Pediatrics units,206
+2026-04-04,PPE-005,Geriatrics units,782
+2026-04-04,PPE-005,Emergency Department,693
+2026-04-04,PPE-005,Isolation units,997
+2026-04-04,PPE-005,Medical ICU,421
+2026-04-04,PPE-005,Surgical ICU,244
+2026-04-04,PPE-005,Cardiac Care Unit,287
+2026-04-04,PPE-005,NICU,254
+2026-04-04,PPE-005,PICU,450
+2026-04-04,PPE-006,General Wards,3
+2026-04-04,PPE-006,Medical-Surgical units,103
+2026-04-04,PPE-006,Oncology units,42
+2026-04-04,PPE-006,Cardiology units,9
+2026-04-04,PPE-006,Pediatrics units,7
+2026-04-04,PPE-006,Geriatrics units,43
+2026-04-04,PPE-006,Emergency Department,37
+2026-04-04,PPE-006,Isolation units,13
+2026-04-04,PPE-006,Medical ICU,18
+2026-04-04,PPE-006,Surgical ICU,73
+2026-04-04,PPE-006,Cardiac Care Unit,9
+2026-04-04,PPE-006,NICU,44
+2026-04-04,PPE-006,PICU,25
+2026-04-04,PPE-007,General Wards,2
+2026-04-04,PPE-007,Medical-Surgical units,13
+2026-04-04,PPE-007,Oncology units,9
+2026-04-04,PPE-007,Cardiology units,5
+2026-04-04,PPE-007,Pediatrics units,2
+2026-04-04,PPE-007,Geriatrics units,14
+2026-04-04,PPE-007,Emergency Department,64
+2026-04-04,PPE-007,Isolation units,51
+2026-04-04,PPE-007,Medical ICU,80
+2026-04-04,PPE-007,Surgical ICU,18
+2026-04-04,PPE-007,Cardiac Care Unit,4
+2026-04-04,PPE-007,NICU,27
+2026-04-04,PPE-007,PICU,25
+2026-04-04,PPE-008,General Wards,1
+2026-04-04,PPE-008,Medical-Surgical units,9
+2026-04-04,PPE-008,Oncology units,12
+2026-04-04,PPE-008,Cardiology units,1
+2026-04-04,PPE-008,Pediatrics units,2
+2026-04-04,PPE-008,Geriatrics units,7
+2026-04-04,PPE-008,Emergency Department,12
+2026-04-04,PPE-008,Isolation units,10
+2026-04-04,PPE-008,Medical ICU,9
+2026-04-04,PPE-008,Surgical ICU,7
+2026-04-04,PPE-008,Cardiac Care Unit,2
+2026-04-04,PPE-008,NICU,10
+2026-04-04,PPE-008,PICU,12
+2026-04-04,PPE-009,General Wards,44
+2026-04-04,PPE-009,Medical-Surgical units,123
+2026-04-04,PPE-009,Oncology units,43
+2026-04-04,PPE-009,Cardiology units,70
+2026-04-04,PPE-009,Pediatrics units,82
+2026-04-04,PPE-009,Geriatrics units,36
+2026-04-04,PPE-009,Emergency Department,45
+2026-04-04,PPE-009,Isolation units,43
+2026-04-04,PPE-009,Medical ICU,22
+2026-04-04,PPE-009,Surgical ICU,202
+2026-04-04,PPE-009,Cardiac Care Unit,58
+2026-04-04,PPE-009,NICU,40
+2026-04-04,PPE-009,PICU,39
+2026-04-04,PPE-010,General Wards,118
+2026-04-04,PPE-010,Medical-Surgical units,187
+2026-04-04,PPE-010,Oncology units,69
+2026-04-04,PPE-010,Cardiology units,43
+2026-04-04,PPE-010,Pediatrics units,92
+2026-04-04,PPE-010,Geriatrics units,93
+2026-04-04,PPE-010,Emergency Department,60
+2026-04-04,PPE-010,Isolation units,70
+2026-04-04,PPE-010,Medical ICU,62
+2026-04-04,PPE-010,Surgical ICU,175
+2026-04-04,PPE-010,Cardiac Care Unit,67
+2026-04-04,PPE-010,NICU,79
+2026-04-04,PPE-010,PICU,56
+2026-04-05,PPE-001,General Wards,55
+2026-04-05,PPE-001,Medical-Surgical units,216
+2026-04-05,PPE-001,Oncology units,234
+2026-04-05,PPE-001,Cardiology units,44
+2026-04-05,PPE-001,Pediatrics units,42
+2026-04-05,PPE-001,Geriatrics units,203
+2026-04-05,PPE-001,Emergency Department,478
+2026-04-05,PPE-001,Isolation units,659
+2026-04-05,PPE-001,Medical ICU,515
+2026-04-05,PPE-001,Surgical ICU,286
+2026-04-05,PPE-001,Cardiac Care Unit,31
+2026-04-05,PPE-001,NICU,178
+2026-04-05,PPE-001,PICU,180
+2026-04-05,PPE-002,General Wards,1141
+2026-04-05,PPE-002,Medical-Surgical units,404
+2026-04-05,PPE-002,Oncology units,889
+2026-04-05,PPE-002,Cardiology units,1026
+2026-04-05,PPE-002,Pediatrics units,646
+2026-04-05,PPE-002,Geriatrics units,1336
+2026-04-05,PPE-002,Emergency Department,335
+2026-04-05,PPE-002,Isolation units,288
+2026-04-05,PPE-002,Medical ICU,240
+2026-04-05,PPE-002,Surgical ICU,384
+2026-04-05,PPE-002,Cardiac Care Unit,516
+2026-04-05,PPE-002,NICU,821
+2026-04-05,PPE-002,PICU,1234
+2026-04-05,PPE-003,General Wards,85
+2026-04-05,PPE-003,Medical-Surgical units,49
+2026-04-05,PPE-003,Oncology units,130
+2026-04-05,PPE-003,Cardiology units,126
+2026-04-05,PPE-003,Pediatrics units,208
+2026-04-05,PPE-003,Geriatrics units,195
+2026-04-05,PPE-003,Emergency Department,142
+2026-04-05,PPE-003,Isolation units,139
+2026-04-05,PPE-003,Medical ICU,116
+2026-04-05,PPE-003,Surgical ICU,142
+2026-04-05,PPE-003,Cardiac Care Unit,185
+2026-04-05,PPE-003,NICU,185
+2026-04-05,PPE-003,PICU,140
+2026-04-05,PPE-004,General Wards,15
+2026-04-05,PPE-004,Medical-Surgical units,285
+2026-04-05,PPE-004,Oncology units,83
+2026-04-05,PPE-004,Cardiology units,10
+2026-04-05,PPE-004,Pediatrics units,6
+2026-04-05,PPE-004,Geriatrics units,42
+2026-04-05,PPE-004,Emergency Department,57
+2026-04-05,PPE-004,Isolation units,35
+2026-04-05,PPE-004,Medical ICU,60
+2026-04-05,PPE-004,Surgical ICU,154
+2026-04-05,PPE-004,Cardiac Care Unit,7
+2026-04-05,PPE-004,NICU,72
+2026-04-05,PPE-004,PICU,46
+2026-04-05,PPE-005,General Wards,565
+2026-04-05,PPE-005,Medical-Surgical units,290
+2026-04-05,PPE-005,Oncology units,580
+2026-04-05,PPE-005,Cardiology units,237
+2026-04-05,PPE-005,Pediatrics units,401
+2026-04-05,PPE-005,Geriatrics units,824
+2026-04-05,PPE-005,Emergency Department,438
+2026-04-05,PPE-005,Isolation units,1365
+2026-04-05,PPE-005,Medical ICU,960
+2026-04-05,PPE-005,Surgical ICU,402
+2026-04-05,PPE-005,Cardiac Care Unit,289
+2026-04-05,PPE-005,NICU,545
+2026-04-05,PPE-005,PICU,334
+2026-04-05,PPE-006,General Wards,9
+2026-04-05,PPE-006,Medical-Surgical units,114
+2026-04-05,PPE-006,Oncology units,25
+2026-04-05,PPE-006,Cardiology units,8
+2026-04-05,PPE-006,Pediatrics units,2
+2026-04-05,PPE-006,Geriatrics units,17
+2026-04-05,PPE-006,Emergency Department,9
+2026-04-05,PPE-006,Isolation units,48
+2026-04-05,PPE-006,Medical ICU,43
+2026-04-05,PPE-006,Surgical ICU,165
+2026-04-05,PPE-006,Cardiac Care Unit,7
+2026-04-05,PPE-006,NICU,20
+2026-04-05,PPE-006,PICU,28
+2026-04-05,PPE-007,General Wards,4
+2026-04-05,PPE-007,Medical-Surgical units,26
+2026-04-05,PPE-007,Oncology units,17
+2026-04-05,PPE-007,Cardiology units,5
+2026-04-05,PPE-007,Pediatrics units,5
+2026-04-05,PPE-007,Geriatrics units,26
+2026-04-05,PPE-007,Emergency Department,87
+2026-04-05,PPE-007,Isolation units,68
+2026-04-05,PPE-007,Medical ICU,76
+2026-04-05,PPE-007,Surgical ICU,27
+2026-04-05,PPE-007,Cardiac Care Unit,2
+2026-04-05,PPE-007,NICU,15
+2026-04-05,PPE-007,PICU,23
+2026-04-05,PPE-008,General Wards,2
+2026-04-05,PPE-008,Medical-Surgical units,8
+2026-04-05,PPE-008,Oncology units,6
+2026-04-05,PPE-008,Cardiology units,1
+2026-04-05,PPE-008,Pediatrics units,2
+2026-04-05,PPE-008,Geriatrics units,6
+2026-04-05,PPE-008,Emergency Department,11
+2026-04-05,PPE-008,Isolation units,10
+2026-04-05,PPE-008,Medical ICU,12
+2026-04-05,PPE-008,Surgical ICU,9
+2026-04-05,PPE-008,Cardiac Care Unit,1
+2026-04-05,PPE-008,NICU,15
+2026-04-05,PPE-008,PICU,5
+2026-04-05,PPE-009,General Wards,71
+2026-04-05,PPE-009,Medical-Surgical units,128
+2026-04-05,PPE-009,Oncology units,55
+2026-04-05,PPE-009,Cardiology units,78
+2026-04-05,PPE-009,Pediatrics units,75
+2026-04-05,PPE-009,Geriatrics units,43
+2026-04-05,PPE-009,Emergency Department,37
+2026-04-05,PPE-009,Isolation units,26
+2026-04-05,PPE-009,Medical ICU,58
+2026-04-05,PPE-009,Surgical ICU,75
+2026-04-05,PPE-009,Cardiac Care Unit,32
+2026-04-05,PPE-009,NICU,52
+2026-04-05,PPE-009,PICU,35
+2026-04-05,PPE-010,General Wards,77
+2026-04-05,PPE-010,Medical-Surgical units,359
+2026-04-05,PPE-010,Oncology units,35
+2026-04-05,PPE-010,Cardiology units,133
+2026-04-05,PPE-010,Pediatrics units,67
+2026-04-05,PPE-010,Geriatrics units,69
+2026-04-05,PPE-010,Emergency Department,73
+2026-04-05,PPE-010,Isolation units,73
+2026-04-05,PPE-010,Medical ICU,76
+2026-04-05,PPE-010,Surgical ICU,184
+2026-04-05,PPE-010,Cardiac Care Unit,59
+2026-04-05,PPE-010,NICU,86
+2026-04-05,PPE-010,PICU,59
+2026-04-06,PPE-001,General Wards,46
+2026-04-06,PPE-001,Medical-Surgical units,197
+2026-04-06,PPE-001,Oncology units,147
+2026-04-06,PPE-001,Cardiology units,21
+2026-04-06,PPE-001,Pediatrics units,18
+2026-04-06,PPE-001,Geriatrics units,137
+2026-04-06,PPE-001,Emergency Department,410
+2026-04-06,PPE-001,Isolation units,777
+2026-04-06,PPE-001,Medical ICU,760
+2026-04-06,PPE-001,Surgical ICU,276
+2026-04-06,PPE-001,Cardiac Care Unit,45
+2026-04-06,PPE-001,NICU,257
+2026-04-06,PPE-001,PICU,105
+2026-04-06,PPE-002,General Wards,1080
+2026-04-06,PPE-002,Medical-Surgical units,372
+2026-04-06,PPE-002,Oncology units,787
+2026-04-06,PPE-002,Cardiology units,1056
+2026-04-06,PPE-002,Pediatrics units,1157
+2026-04-06,PPE-002,Geriatrics units,1078
+2026-04-06,PPE-002,Emergency Department,286
+2026-04-06,PPE-002,Isolation units,392
+2026-04-06,PPE-002,Medical ICU,293
+2026-04-06,PPE-002,Surgical ICU,515
+2026-04-06,PPE-002,Cardiac Care Unit,1029
+2026-04-06,PPE-002,NICU,1149
+2026-04-06,PPE-002,PICU,783
+2026-04-06,PPE-003,General Wards,121
+2026-04-06,PPE-003,Medical-Surgical units,135
+2026-04-06,PPE-003,Oncology units,269
+2026-04-06,PPE-003,Cardiology units,143
+2026-04-06,PPE-003,Pediatrics units,169
+2026-04-06,PPE-003,Geriatrics units,217
+2026-04-06,PPE-003,Emergency Department,92
+2026-04-06,PPE-003,Isolation units,150
+2026-04-06,PPE-003,Medical ICU,88
+2026-04-06,PPE-003,Surgical ICU,73
+2026-04-06,PPE-003,Cardiac Care Unit,226
+2026-04-06,PPE-003,NICU,201
+2026-04-06,PPE-003,PICU,132
+2026-04-06,PPE-004,General Wards,9
+2026-04-06,PPE-004,Medical-Surgical units,225
+2026-04-06,PPE-004,Oncology units,53
+2026-04-06,PPE-004,Cardiology units,5
+2026-04-06,PPE-004,Pediatrics units,15
+2026-04-06,PPE-004,Geriatrics units,53
+2026-04-06,PPE-004,Emergency Department,30
+2026-04-06,PPE-004,Isolation units,75
+2026-04-06,PPE-004,Medical ICU,45
+2026-04-06,PPE-004,Surgical ICU,89
+2026-04-06,PPE-004,Cardiac Care Unit,9
+2026-04-06,PPE-004,NICU,20
+2026-04-06,PPE-004,PICU,62
+2026-04-06,PPE-005,General Wards,511
+2026-04-06,PPE-005,Medical-Surgical units,314
+2026-04-06,PPE-005,Oncology units,485
+2026-04-06,PPE-005,Cardiology units,255
+2026-04-06,PPE-005,Pediatrics units,223
+2026-04-06,PPE-005,Geriatrics units,250
+2026-04-06,PPE-005,Emergency Department,965
+2026-04-06,PPE-005,Isolation units,1300
+2026-04-06,PPE-005,Medical ICU,1060
+2026-04-06,PPE-005,Surgical ICU,266
+2026-04-06,PPE-005,Cardiac Care Unit,298
+2026-04-06,PPE-005,NICU,807
+2026-04-06,PPE-005,PICU,759
+2026-04-06,PPE-006,General Wards,8
+2026-04-06,PPE-006,Medical-Surgical units,76
+2026-04-06,PPE-006,Oncology units,21
+2026-04-06,PPE-006,Cardiology units,5
+2026-04-06,PPE-006,Pediatrics units,4
+2026-04-06,PPE-006,Geriatrics units,32
+2026-04-06,PPE-006,Emergency Department,47
+2026-04-06,PPE-006,Isolation units,23
+2026-04-06,PPE-006,Medical ICU,48
+2026-04-06,PPE-006,Surgical ICU,157
+2026-04-06,PPE-006,Cardiac Care Unit,7
+2026-04-06,PPE-006,NICU,21
+2026-04-06,PPE-006,PICU,19
+2026-04-06,PPE-007,General Wards,5
+2026-04-06,PPE-007,Medical-Surgical units,23
+2026-04-06,PPE-007,Oncology units,28
+2026-04-06,PPE-007,Cardiology units,3
+2026-04-06,PPE-007,Pediatrics units,1
+2026-04-06,PPE-007,Geriatrics units,14
+2026-04-06,PPE-007,Emergency Department,38
+2026-04-06,PPE-007,Isolation units,74
+2026-04-06,PPE-007,Medical ICU,73
+2026-04-06,PPE-007,Surgical ICU,15
+2026-04-06,PPE-007,Cardiac Care Unit,4
+2026-04-06,PPE-007,NICU,17
+2026-04-06,PPE-007,PICU,23
+2026-04-06,PPE-008,General Wards,2
+2026-04-06,PPE-008,Medical-Surgical units,9
+2026-04-06,PPE-008,Oncology units,14
+2026-04-06,PPE-008,Cardiology units,2
+2026-04-06,PPE-008,Pediatrics units,2
+2026-04-06,PPE-008,Geriatrics units,7
+2026-04-06,PPE-008,Emergency Department,9
+2026-04-06,PPE-008,Isolation units,10
+2026-04-06,PPE-008,Medical ICU,9
+2026-04-06,PPE-008,Surgical ICU,11
+2026-04-06,PPE-008,NICU,6
+2026-04-06,PPE-008,PICU,5
+2026-04-06,PPE-009,General Wards,78
+2026-04-06,PPE-009,Medical-Surgical units,124
+2026-04-06,PPE-009,Oncology units,56
+2026-04-06,PPE-009,Cardiology units,42
+2026-04-06,PPE-009,Pediatrics units,59
+2026-04-06,PPE-009,Geriatrics units,34
+2026-04-06,PPE-009,Emergency Department,46
+2026-04-06,PPE-009,Isolation units,38
+2026-04-06,PPE-009,Medical ICU,52
+2026-04-06,PPE-009,Surgical ICU,222
+2026-04-06,PPE-009,Cardiac Care Unit,78
+2026-04-06,PPE-009,NICU,55
+2026-04-06,PPE-009,PICU,44
+2026-04-06,PPE-010,General Wards,118
+2026-04-06,PPE-010,Medical-Surgical units,252
+2026-04-06,PPE-010,Oncology units,63
+2026-04-06,PPE-010,Cardiology units,138
+2026-04-06,PPE-010,Pediatrics units,85
+2026-04-06,PPE-010,Geriatrics units,67
+2026-04-06,PPE-010,Emergency Department,36
+2026-04-06,PPE-010,Isolation units,79
+2026-04-06,PPE-010,Medical ICU,35
+2026-04-06,PPE-010,Surgical ICU,241
+2026-04-06,PPE-010,Cardiac Care Unit,128
+2026-04-06,PPE-010,NICU,38
+2026-04-06,PPE-010,PICU,47
+2026-04-07,PPE-001,General Wards,41
+2026-04-07,PPE-001,Medical-Surgical units,184
+2026-04-07,PPE-001,Oncology units,247
+2026-04-07,PPE-001,Cardiology units,50
+2026-04-07,PPE-001,Pediatrics units,45
+2026-04-07,PPE-001,Geriatrics units,202
+2026-04-07,PPE-001,Emergency Department,368
+2026-04-07,PPE-001,Isolation units,836
+2026-04-07,PPE-001,Medical ICU,747
+2026-04-07,PPE-001,Surgical ICU,208
+2026-04-07,PPE-001,Cardiac Care Unit,43
+2026-04-07,PPE-001,NICU,130
+2026-04-07,PPE-001,PICU,163
+2026-04-07,PPE-002,General Wards,723
+2026-04-07,PPE-002,Medical-Surgical units,656
+2026-04-07,PPE-002,Oncology units,737
+2026-04-07,PPE-002,Cardiology units,736
+2026-04-07,PPE-002,Pediatrics units,1020
+2026-04-07,PPE-002,Geriatrics units,1403
+2026-04-07,PPE-002,Emergency Department,342
+2026-04-07,PPE-002,Isolation units,354
+2026-04-07,PPE-002,Medical ICU,388
+2026-04-07,PPE-002,Surgical ICU,721
+2026-04-07,PPE-002,Cardiac Care Unit,758
+2026-04-07,PPE-002,NICU,638
+2026-04-07,PPE-002,PICU,749
+2026-04-07,PPE-003,General Wards,221
+2026-04-07,PPE-003,Medical-Surgical units,146
+2026-04-07,PPE-003,Oncology units,234
+2026-04-07,PPE-003,Cardiology units,125
+2026-04-07,PPE-003,Pediatrics units,149
+2026-04-07,PPE-003,Geriatrics units,231
+2026-04-07,PPE-003,Emergency Department,59
+2026-04-07,PPE-003,Isolation units,68
+2026-04-07,PPE-003,Medical ICU,60
+2026-04-07,PPE-003,Surgical ICU,78
+2026-04-07,PPE-003,Cardiac Care Unit,200
+2026-04-07,PPE-003,NICU,181
+2026-04-07,PPE-003,PICU,95
+2026-04-07,PPE-004,General Wards,4
+2026-04-07,PPE-004,Medical-Surgical units,227
+2026-04-07,PPE-004,Oncology units,77
+2026-04-07,PPE-004,Cardiology units,6
+2026-04-07,PPE-004,Pediatrics units,9
+2026-04-07,PPE-004,Geriatrics units,54
+2026-04-07,PPE-004,Emergency Department,75
+2026-04-07,PPE-004,Isolation units,44
+2026-04-07,PPE-004,Medical ICU,50
+2026-04-07,PPE-004,Surgical ICU,84
+2026-04-07,PPE-004,Cardiac Care Unit,14
+2026-04-07,PPE-004,NICU,41
+2026-04-07,PPE-004,PICU,32
+2026-04-07,PPE-005,General Wards,304
+2026-04-07,PPE-005,Medical-Surgical units,185
+2026-04-07,PPE-005,Oncology units,704
+2026-04-07,PPE-005,Cardiology units,557
+2026-04-07,PPE-005,Pediatrics units,142
+2026-04-07,PPE-005,Geriatrics units,695
+2026-04-07,PPE-005,Emergency Department,990
+2026-04-07,PPE-005,Isolation units,976
+2026-04-07,PPE-005,Medical ICU,813
+2026-04-07,PPE-005,Surgical ICU,273
+2026-04-07,PPE-005,Cardiac Care Unit,312
+2026-04-07,PPE-005,NICU,423
+2026-04-07,PPE-005,PICU,852
+2026-04-07,PPE-006,General Wards,7
+2026-04-07,PPE-006,Medical-Surgical units,174
+2026-04-07,PPE-006,Oncology units,12
+2026-04-07,PPE-006,Cardiology units,4
+2026-04-07,PPE-006,Pediatrics units,6
+2026-04-07,PPE-006,Geriatrics units,34
+2026-04-07,PPE-006,Emergency Department,41
+2026-04-07,PPE-006,Isolation units,40
+2026-04-07,PPE-006,Medical ICU,38
+2026-04-07,PPE-006,Surgical ICU,132
+2026-04-07,PPE-006,Cardiac Care Unit,5
+2026-04-07,PPE-006,NICU,27
+2026-04-07,PPE-006,PICU,18
+2026-04-07,PPE-007,General Wards,2
+2026-04-07,PPE-007,Medical-Surgical units,16
+2026-04-07,PPE-007,Oncology units,24
+2026-04-07,PPE-007,Cardiology units,4
+2026-04-07,PPE-007,Pediatrics units,5
+2026-04-07,PPE-007,Geriatrics units,18
+2026-04-07,PPE-007,Emergency Department,82
+2026-04-07,PPE-007,Isolation units,63
+2026-04-07,PPE-007,Medical ICU,47
+2026-04-07,PPE-007,Surgical ICU,30
+2026-04-07,PPE-007,Cardiac Care Unit,4
+2026-04-07,PPE-007,NICU,14
+2026-04-07,PPE-007,PICU,12
+2026-04-07,PPE-008,General Wards,1
+2026-04-07,PPE-008,Medical-Surgical units,4
+2026-04-07,PPE-008,Oncology units,11
+2026-04-07,PPE-008,Cardiology units,2
+2026-04-07,PPE-008,Pediatrics units,1
+2026-04-07,PPE-008,Geriatrics units,8
+2026-04-07,PPE-008,Emergency Department,10
+2026-04-07,PPE-008,Isolation units,12
+2026-04-07,PPE-008,Medical ICU,4
+2026-04-07,PPE-008,Surgical ICU,10
+2026-04-07,PPE-008,Cardiac Care Unit,1
+2026-04-07,PPE-008,NICU,13
+2026-04-07,PPE-008,PICU,8
+2026-04-07,PPE-009,General Wards,71
+2026-04-07,PPE-009,Medical-Surgical units,198
+2026-04-07,PPE-009,Oncology units,52
+2026-04-07,PPE-009,Cardiology units,75
+2026-04-07,PPE-009,Pediatrics units,50
+2026-04-07,PPE-009,Geriatrics units,27
+2026-04-07,PPE-009,Emergency Department,49
+2026-04-07,PPE-009,Isolation units,20
+2026-04-07,PPE-009,Medical ICU,46
+2026-04-07,PPE-009,Surgical ICU,115
+2026-04-07,PPE-009,Cardiac Care Unit,79
+2026-04-07,PPE-009,NICU,56
+2026-04-07,PPE-009,PICU,44
+2026-04-07,PPE-010,General Wards,123
+2026-04-07,PPE-010,Medical-Surgical units,260
+2026-04-07,PPE-010,Oncology units,51
+2026-04-07,PPE-010,Cardiology units,69
+2026-04-07,PPE-010,Pediatrics units,145
+2026-04-07,PPE-010,Geriatrics units,70
+2026-04-07,PPE-010,Emergency Department,41
+2026-04-07,PPE-010,Isolation units,40
+2026-04-07,PPE-010,Medical ICU,58
+2026-04-07,PPE-010,Surgical ICU,125
+2026-04-07,PPE-010,Cardiac Care Unit,125
+2026-04-07,PPE-010,NICU,61
+2026-04-07,PPE-010,PICU,65
+2026-04-08,PPE-001,General Wards,41
+2026-04-08,PPE-001,Medical-Surgical units,240
+2026-04-08,PPE-001,Oncology units,172
+2026-04-08,PPE-001,Cardiology units,37
+2026-04-08,PPE-001,Pediatrics units,21
+2026-04-08,PPE-001,Geriatrics units,183
+2026-04-08,PPE-001,Emergency Department,940
+2026-04-08,PPE-001,Isolation units,574
+2026-04-08,PPE-001,Medical ICU,958
+2026-04-08,PPE-001,Surgical ICU,132
+2026-04-08,PPE-001,Cardiac Care Unit,46
+2026-04-08,PPE-001,NICU,222
+2026-04-08,PPE-001,PICU,279
+2026-04-08,PPE-002,General Wards,915
+2026-04-08,PPE-002,Medical-Surgical units,750
+2026-04-08,PPE-002,Oncology units,1045
+2026-04-08,PPE-002,Cardiology units,459
+2026-04-08,PPE-002,Pediatrics units,433
+2026-04-08,PPE-002,Geriatrics units,897
+2026-04-08,PPE-002,Emergency Department,195
+2026-04-08,PPE-002,Isolation units,164
+2026-04-08,PPE-002,Medical ICU,284
+2026-04-08,PPE-002,Surgical ICU,480
+2026-04-08,PPE-002,Cardiac Care Unit,556
+2026-04-08,PPE-002,NICU,1183
+2026-04-08,PPE-002,PICU,861
+2026-04-08,PPE-003,General Wards,158
+2026-04-08,PPE-003,Medical-Surgical units,90
+2026-04-08,PPE-003,Oncology units,292
+2026-04-08,PPE-003,Cardiology units,96
+2026-04-08,PPE-003,Pediatrics units,140
+2026-04-08,PPE-003,Geriatrics units,171
+2026-04-08,PPE-003,Emergency Department,83
+2026-04-08,PPE-003,Isolation units,119
+2026-04-08,PPE-003,Medical ICU,105
+2026-04-08,PPE-003,Surgical ICU,48
+2026-04-08,PPE-003,Cardiac Care Unit,87
+2026-04-08,PPE-003,NICU,229
+2026-04-08,PPE-003,PICU,183
+2026-04-08,PPE-004,General Wards,6
+2026-04-08,PPE-004,Medical-Surgical units,336
+2026-04-08,PPE-004,Oncology units,24
+2026-04-08,PPE-004,Cardiology units,13
+2026-04-08,PPE-004,Pediatrics units,11
+2026-04-08,PPE-004,Geriatrics units,60
+2026-04-08,PPE-004,Emergency Department,51
+2026-04-08,PPE-004,Isolation units,26
+2026-04-08,PPE-004,Medical ICU,24
+2026-04-08,PPE-004,Surgical ICU,90
+2026-04-08,PPE-004,Cardiac Care Unit,14
+2026-04-08,PPE-004,NICU,21
+2026-04-08,PPE-004,PICU,51
+2026-04-08,PPE-005,General Wards,502
+2026-04-08,PPE-005,Medical-Surgical units,167
+2026-04-08,PPE-005,Oncology units,303
+2026-04-08,PPE-005,Cardiology units,377
+2026-04-08,PPE-005,Pediatrics units,520
+2026-04-08,PPE-005,Geriatrics units,815
+2026-04-08,PPE-005,Emergency Department,1302
+2026-04-08,PPE-005,Isolation units,882
+2026-04-08,PPE-005,Medical ICU,516
+2026-04-08,PPE-005,Surgical ICU,405
+2026-04-08,PPE-005,Cardiac Care Unit,452
+2026-04-08,PPE-005,NICU,508
+2026-04-08,PPE-005,PICU,215
+2026-04-08,PPE-006,General Wards,4
+2026-04-08,PPE-006,Medical-Surgical units,52
+2026-04-08,PPE-006,Oncology units,31
+2026-04-08,PPE-006,Cardiology units,8
+2026-04-08,PPE-006,Pediatrics units,6
+2026-04-08,PPE-006,Geriatrics units,10
+2026-04-08,PPE-006,Emergency Department,27
+2026-04-08,PPE-006,Isolation units,28
+2026-04-08,PPE-006,Medical ICU,51
+2026-04-08,PPE-006,Surgical ICU,100
+2026-04-08,PPE-006,Cardiac Care Unit,7
+2026-04-08,PPE-006,NICU,43
+2026-04-08,PPE-006,PICU,10
+2026-04-08,PPE-007,General Wards,2
+2026-04-08,PPE-007,Medical-Surgical units,18
+2026-04-08,PPE-007,Oncology units,11
+2026-04-08,PPE-007,Cardiology units,2
+2026-04-08,PPE-007,Pediatrics units,3
+2026-04-08,PPE-007,Geriatrics units,20
+2026-04-08,PPE-007,Emergency Department,47
+2026-04-08,PPE-007,Isolation units,79
+2026-04-08,PPE-007,Medical ICU,67
+2026-04-08,PPE-007,Surgical ICU,21
+2026-04-08,PPE-007,Cardiac Care Unit,4
+2026-04-08,PPE-007,NICU,13
+2026-04-08,PPE-007,PICU,15
+2026-04-08,PPE-008,General Wards,2
+2026-04-08,PPE-008,Medical-Surgical units,6
+2026-04-08,PPE-008,Oncology units,5
+2026-04-08,PPE-008,Cardiology units,1
+2026-04-08,PPE-008,Pediatrics units,2
+2026-04-08,PPE-008,Geriatrics units,12
+2026-04-08,PPE-008,Emergency Department,5
+2026-04-08,PPE-008,Isolation units,5
+2026-04-08,PPE-008,Medical ICU,10
+2026-04-08,PPE-008,Surgical ICU,8
+2026-04-08,PPE-008,Cardiac Care Unit,2
+2026-04-08,PPE-008,NICU,8
+2026-04-08,PPE-008,PICU,8
+2026-04-08,PPE-009,General Wards,62
+2026-04-08,PPE-009,Medical-Surgical units,135
+2026-04-08,PPE-009,Oncology units,51
+2026-04-08,PPE-009,Cardiology units,75
+2026-04-08,PPE-009,Pediatrics units,53
+2026-04-08,PPE-009,Geriatrics units,22
+2026-04-08,PPE-009,Emergency Department,21
+2026-04-08,PPE-009,Isolation units,37
+2026-04-08,PPE-009,Medical ICU,25
+2026-04-08,PPE-009,Surgical ICU,109
+2026-04-08,PPE-009,Cardiac Care Unit,47
+2026-04-08,PPE-009,NICU,51
+2026-04-08,PPE-009,PICU,27
+2026-04-08,PPE-010,General Wards,52
+2026-04-08,PPE-010,Medical-Surgical units,160
+2026-04-08,PPE-010,Oncology units,69
+2026-04-08,PPE-010,Cardiology units,70
+2026-04-08,PPE-010,Pediatrics units,93
+2026-04-08,PPE-010,Geriatrics units,64
+2026-04-08,PPE-010,Emergency Department,67
+2026-04-08,PPE-010,Isolation units,75
+2026-04-08,PPE-010,Medical ICU,65
+2026-04-08,PPE-010,Surgical ICU,284
+2026-04-08,PPE-010,Cardiac Care Unit,106
+2026-04-08,PPE-010,NICU,62
+2026-04-08,PPE-010,PICU,56
+2026-04-09,PPE-001,General Wards,62
+2026-04-09,PPE-001,Medical-Surgical units,202
+2026-04-09,PPE-001,Oncology units,277
+2026-04-09,PPE-001,Cardiology units,44
+2026-04-09,PPE-001,Pediatrics units,36
+2026-04-09,PPE-001,Geriatrics units,147
+2026-04-09,PPE-001,Emergency Department,765
+2026-04-09,PPE-001,Isolation units,1039
+2026-04-09,PPE-001,Medical ICU,864
+2026-04-09,PPE-001,Surgical ICU,295
+2026-04-09,PPE-001,Cardiac Care Unit,53
+2026-04-09,PPE-001,NICU,262
+2026-04-09,PPE-001,PICU,316
+2026-04-09,PPE-002,General Wards,645
+2026-04-09,PPE-002,Medical-Surgical units,563
+2026-04-09,PPE-002,Oncology units,1018
+2026-04-09,PPE-002,Cardiology units,1058
+2026-04-09,PPE-002,Pediatrics units,551
+2026-04-09,PPE-002,Geriatrics units,743
+2026-04-09,PPE-002,Emergency Department,201
+2026-04-09,PPE-002,Isolation units,227
+2026-04-09,PPE-002,Medical ICU,164
+2026-04-09,PPE-002,Surgical ICU,335
+2026-04-09,PPE-002,Cardiac Care Unit,1177
+2026-04-09,PPE-002,NICU,1197
+2026-04-09,PPE-002,PICU,1151
+2026-04-09,PPE-003,General Wards,208
+2026-04-09,PPE-003,Medical-Surgical units,137
+2026-04-09,PPE-003,Oncology units,273
+2026-04-09,PPE-003,Cardiology units,182
+2026-04-09,PPE-003,Pediatrics units,139
+2026-04-09,PPE-003,Geriatrics units,103
+2026-04-09,PPE-003,Emergency Department,141
+2026-04-09,PPE-003,Isolation units,91
+2026-04-09,PPE-003,Medical ICU,66
+2026-04-09,PPE-003,Surgical ICU,72
+2026-04-09,PPE-003,Cardiac Care Unit,159
+2026-04-09,PPE-003,NICU,289
+2026-04-09,PPE-003,PICU,139
+2026-04-09,PPE-004,General Wards,13
+2026-04-09,PPE-004,Medical-Surgical units,243
+2026-04-09,PPE-004,Oncology units,24
+2026-04-09,PPE-004,Cardiology units,9
+2026-04-09,PPE-004,Pediatrics units,5
+2026-04-09,PPE-004,Geriatrics units,51
+2026-04-09,PPE-004,Emergency Department,34
+2026-04-09,PPE-004,Isolation units,60
+2026-04-09,PPE-004,Medical ICU,21
+2026-04-09,PPE-004,Surgical ICU,81
+2026-04-09,PPE-004,Cardiac Care Unit,4
+2026-04-09,PPE-004,NICU,65
+2026-04-09,PPE-004,PICU,67
+2026-04-09,PPE-005,General Wards,580
+2026-04-09,PPE-005,Medical-Surgical units,237
+2026-04-09,PPE-005,Oncology units,728
+2026-04-09,PPE-005,Cardiology units,455
+2026-04-09,PPE-005,Pediatrics units,594
+2026-04-09,PPE-005,Geriatrics units,601
+2026-04-09,PPE-005,Emergency Department,1194
+2026-04-09,PPE-005,Isolation units,907
+2026-04-09,PPE-005,Medical ICU,763
+2026-04-09,PPE-005,Surgical ICU,231
+2026-04-09,PPE-005,Cardiac Care Unit,484
+2026-04-09,PPE-005,NICU,492
+2026-04-09,PPE-005,PICU,469
+2026-04-09,PPE-006,General Wards,10
+2026-04-09,PPE-006,Medical-Surgical units,110
+2026-04-09,PPE-006,Oncology units,32
+2026-04-09,PPE-006,Cardiology units,9
+2026-04-09,PPE-006,Pediatrics units,6
+2026-04-09,PPE-006,Geriatrics units,19
+2026-04-09,PPE-006,Emergency Department,34
+2026-04-09,PPE-006,Isolation units,31
+2026-04-09,PPE-006,Medical ICU,20
+2026-04-09,PPE-006,Surgical ICU,157
+2026-04-09,PPE-006,Cardiac Care Unit,7
+2026-04-09,PPE-006,NICU,24
+2026-04-09,PPE-006,PICU,31
+2026-04-09,PPE-007,General Wards,4
+2026-04-09,PPE-007,Medical-Surgical units,10
+2026-04-09,PPE-007,Oncology units,26
+2026-04-09,PPE-007,Cardiology units,3
+2026-04-09,PPE-007,Pediatrics units,2
+2026-04-09,PPE-007,Geriatrics units,19
+2026-04-09,PPE-007,Emergency Department,56
+2026-04-09,PPE-007,Isolation units,52
+2026-04-09,PPE-007,Medical ICU,41
+2026-04-09,PPE-007,Surgical ICU,19
+2026-04-09,PPE-007,Cardiac Care Unit,3
+2026-04-09,PPE-007,NICU,23
+2026-04-09,PPE-007,PICU,10
+2026-04-09,PPE-008,General Wards,2
+2026-04-09,PPE-008,Medical-Surgical units,10
+2026-04-09,PPE-008,Oncology units,12
+2026-04-09,PPE-008,Pediatrics units,2
+2026-04-09,PPE-008,Geriatrics units,13
+2026-04-09,PPE-008,Emergency Department,7
+2026-04-09,PPE-008,Isolation units,10
+2026-04-09,PPE-008,Medical ICU,8
+2026-04-09,PPE-008,Surgical ICU,8
+2026-04-09,PPE-008,Cardiac Care Unit,2
+2026-04-09,PPE-008,NICU,13
+2026-04-09,PPE-008,PICU,8
+2026-04-09,PPE-009,General Wards,78
+2026-04-09,PPE-009,Medical-Surgical units,212
+2026-04-09,PPE-009,Oncology units,38
+2026-04-09,PPE-009,Cardiology units,38
+2026-04-09,PPE-009,Pediatrics units,51
+2026-04-09,PPE-009,Geriatrics units,56
+2026-04-09,PPE-009,Emergency Department,20
+2026-04-09,PPE-009,Isolation units,44
+2026-04-09,PPE-009,Medical ICU,37
+2026-04-09,PPE-009,Surgical ICU,151
+2026-04-09,PPE-009,Cardiac Care Unit,51
+2026-04-09,PPE-009,NICU,32
+2026-04-09,PPE-009,PICU,53
+2026-04-09,PPE-010,General Wards,97
+2026-04-09,PPE-010,Medical-Surgical units,300
+2026-04-09,PPE-010,Oncology units,56
+2026-04-09,PPE-010,Cardiology units,119
+2026-04-09,PPE-010,Pediatrics units,110
+2026-04-09,PPE-010,Geriatrics units,59
+2026-04-09,PPE-010,Emergency Department,41
+2026-04-09,PPE-010,Isolation units,85
+2026-04-09,PPE-010,Medical ICU,47
+2026-04-09,PPE-010,Surgical ICU,207
+2026-04-09,PPE-010,Cardiac Care Unit,87
+2026-04-09,PPE-010,NICU,81
+2026-04-09,PPE-010,PICU,41
+2026-04-10,PPE-001,General Wards,38
+2026-04-10,PPE-001,Medical-Surgical units,175
+2026-04-10,PPE-001,Oncology units,92
+2026-04-10,PPE-001,Cardiology units,43
+2026-04-10,PPE-001,Pediatrics units,41
+2026-04-10,PPE-001,Geriatrics units,195
+2026-04-10,PPE-001,Emergency Department,571
+2026-04-10,PPE-001,Isolation units,1007
+2026-04-10,PPE-001,Medical ICU,951
+2026-04-10,PPE-001,Surgical ICU,190
+2026-04-10,PPE-001,Cardiac Care Unit,29
+2026-04-10,PPE-001,NICU,290
+2026-04-10,PPE-001,PICU,173
+2026-04-10,PPE-002,General Wards,666
+2026-04-10,PPE-002,Medical-Surgical units,862
+2026-04-10,PPE-002,Oncology units,1211
+2026-04-10,PPE-002,Cardiology units,854
+2026-04-10,PPE-002,Pediatrics units,725
+2026-04-10,PPE-002,Geriatrics units,954
+2026-04-10,PPE-002,Emergency Department,197
+2026-04-10,PPE-002,Isolation units,151
+2026-04-10,PPE-002,Medical ICU,322
+2026-04-10,PPE-002,Surgical ICU,646
+2026-04-10,PPE-002,Cardiac Care Unit,982
+2026-04-10,PPE-002,NICU,1097
+2026-04-10,PPE-002,PICU,1322
+2026-04-10,PPE-003,General Wards,152
+2026-04-10,PPE-003,Medical-Surgical units,145
+2026-04-10,PPE-003,Oncology units,173
+2026-04-10,PPE-003,Cardiology units,202
+2026-04-10,PPE-003,Pediatrics units,204
+2026-04-10,PPE-003,Geriatrics units,205
+2026-04-10,PPE-003,Emergency Department,97
+2026-04-10,PPE-003,Isolation units,51
+2026-04-10,PPE-003,Medical ICU,57
+2026-04-10,PPE-003,Surgical ICU,135
+2026-04-10,PPE-003,Cardiac Care Unit,103
+2026-04-10,PPE-003,NICU,127
+2026-04-10,PPE-003,PICU,131
+2026-04-10,PPE-004,General Wards,16
+2026-04-10,PPE-004,Medical-Surgical units,98
+2026-04-10,PPE-004,Oncology units,42
+2026-04-10,PPE-004,Cardiology units,13
+2026-04-10,PPE-004,Pediatrics units,9
+2026-04-10,PPE-004,Geriatrics units,30
+2026-04-10,PPE-004,Emergency Department,54
+2026-04-10,PPE-004,Isolation units,68
+2026-04-10,PPE-004,Medical ICU,55
+2026-04-10,PPE-004,Surgical ICU,166
+2026-04-10,PPE-004,Cardiac Care Unit,7
+2026-04-10,PPE-004,NICU,51
+2026-04-10,PPE-004,PICU,56
+2026-04-10,PPE-005,General Wards,280
+2026-04-10,PPE-005,Medical-Surgical units,180
+2026-04-10,PPE-005,Oncology units,635
+2026-04-10,PPE-005,Cardiology units,169
+2026-04-10,PPE-005,Pediatrics units,298
+2026-04-10,PPE-005,Geriatrics units,422
+2026-04-10,PPE-005,Emergency Department,823
+2026-04-10,PPE-005,Isolation units,558
+2026-04-10,PPE-005,Medical ICU,1459
+2026-04-10,PPE-005,Surgical ICU,259
+2026-04-10,PPE-005,Cardiac Care Unit,542
+2026-04-10,PPE-005,NICU,249
+2026-04-10,PPE-005,PICU,240
+2026-04-10,PPE-006,General Wards,2
+2026-04-10,PPE-006,Medical-Surgical units,112
+2026-04-10,PPE-006,Oncology units,52
+2026-04-10,PPE-006,Cardiology units,5
+2026-04-10,PPE-006,Pediatrics units,4
+2026-04-10,PPE-006,Geriatrics units,53
+2026-04-10,PPE-006,Emergency Department,35
+2026-04-10,PPE-006,Isolation units,10
+2026-04-10,PPE-006,Medical ICU,12
+2026-04-10,PPE-006,Surgical ICU,164
+2026-04-10,PPE-006,Cardiac Care Unit,8
+2026-04-10,PPE-006,NICU,34
+2026-04-10,PPE-006,PICU,27
+2026-04-10,PPE-007,General Wards,3
+2026-04-10,PPE-007,Medical-Surgical units,17
+2026-04-10,PPE-007,Oncology units,18
+2026-04-10,PPE-007,Cardiology units,3
+2026-04-10,PPE-007,Pediatrics units,4
+2026-04-10,PPE-007,Geriatrics units,23
+2026-04-10,PPE-007,Emergency Department,65
+2026-04-10,PPE-007,Isolation units,55
+2026-04-10,PPE-007,Medical ICU,57
+2026-04-10,PPE-007,Surgical ICU,23
+2026-04-10,PPE-007,Cardiac Care Unit,5
+2026-04-10,PPE-007,NICU,13
+2026-04-10,PPE-007,PICU,9
+2026-04-10,PPE-008,General Wards,2
+2026-04-10,PPE-008,Medical-Surgical units,8
+2026-04-10,PPE-008,Oncology units,10
+2026-04-10,PPE-008,Cardiology units,1
+2026-04-10,PPE-008,Pediatrics units,2
+2026-04-10,PPE-008,Geriatrics units,10
+2026-04-10,PPE-008,Emergency Department,5
+2026-04-10,PPE-008,Isolation units,10
+2026-04-10,PPE-008,Medical ICU,10
+2026-04-10,PPE-008,Surgical ICU,9
+2026-04-10,PPE-008,NICU,8
+2026-04-10,PPE-008,PICU,9
+2026-04-10,PPE-009,General Wards,75
+2026-04-10,PPE-009,Medical-Surgical units,229
+2026-04-10,PPE-009,Oncology units,39
+2026-04-10,PPE-009,Cardiology units,48
+2026-04-10,PPE-009,Pediatrics units,40
+2026-04-10,PPE-009,Geriatrics units,56
+2026-04-10,PPE-009,Emergency Department,29
+2026-04-10,PPE-009,Isolation units,42
+2026-04-10,PPE-009,Medical ICU,50
+2026-04-10,PPE-009,Surgical ICU,197
+2026-04-10,PPE-009,Cardiac Care Unit,77
+2026-04-10,PPE-009,NICU,38
+2026-04-10,PPE-009,PICU,43
+2026-04-10,PPE-010,General Wards,80
+2026-04-10,PPE-010,Medical-Surgical units,290
+2026-04-10,PPE-010,Oncology units,41
+2026-04-10,PPE-010,Cardiology units,86
+2026-04-10,PPE-010,Pediatrics units,62
+2026-04-10,PPE-010,Geriatrics units,66
+2026-04-10,PPE-010,Emergency Department,59
+2026-04-10,PPE-010,Isolation units,37
+2026-04-10,PPE-010,Medical ICU,97
+2026-04-10,PPE-010,Surgical ICU,321
+2026-04-10,PPE-010,Cardiac Care Unit,49
+2026-04-10,PPE-010,NICU,50
+2026-04-10,PPE-010,PICU,41
+2026-04-11,PPE-001,General Wards,29
+2026-04-11,PPE-001,Medical-Surgical units,152
+2026-04-11,PPE-001,Oncology units,256
+2026-04-11,PPE-001,Cardiology units,36
+2026-04-11,PPE-001,Pediatrics units,46
+2026-04-11,PPE-001,Geriatrics units,233
+2026-04-11,PPE-001,Emergency Department,682
+2026-04-11,PPE-001,Isolation units,453
+2026-04-11,PPE-001,Medical ICU,554
+2026-04-11,PPE-001,Surgical ICU,269
+2026-04-11,PPE-001,Cardiac Care Unit,35
+2026-04-11,PPE-001,NICU,192
+2026-04-11,PPE-001,PICU,169
+2026-04-11,PPE-002,General Wards,575
+2026-04-11,PPE-002,Medical-Surgical units,761
+2026-04-11,PPE-002,Oncology units,885
+2026-04-11,PPE-002,Cardiology units,1130
+2026-04-11,PPE-002,Pediatrics units,790
+2026-04-11,PPE-002,Geriatrics units,1282
+2026-04-11,PPE-002,Emergency Department,178
+2026-04-11,PPE-002,Isolation units,339
+2026-04-11,PPE-002,Medical ICU,308
+2026-04-11,PPE-002,Surgical ICU,657
+2026-04-11,PPE-002,Cardiac Care Unit,1112
+2026-04-11,PPE-002,NICU,1377
+2026-04-11,PPE-002,PICU,1017
+2026-04-11,PPE-003,General Wards,145
+2026-04-11,PPE-003,Medical-Surgical units,113
+2026-04-11,PPE-003,Oncology units,225
+2026-04-11,PPE-003,Cardiology units,122
+2026-04-11,PPE-003,Pediatrics units,188
+2026-04-11,PPE-003,Geriatrics units,105
+2026-04-11,PPE-003,Emergency Department,145
+2026-04-11,PPE-003,Isolation units,104
+2026-04-11,PPE-003,Medical ICU,117
+2026-04-11,PPE-003,Surgical ICU,77
+2026-04-11,PPE-003,Cardiac Care Unit,98
+2026-04-11,PPE-003,NICU,200
+2026-04-11,PPE-003,PICU,127
+2026-04-11,PPE-004,General Wards,7
+2026-04-11,PPE-004,Medical-Surgical units,232
+2026-04-11,PPE-004,Oncology units,30
+2026-04-11,PPE-004,Cardiology units,4
+2026-04-11,PPE-004,Pediatrics units,11
+2026-04-11,PPE-004,Geriatrics units,18
+2026-04-11,PPE-004,Emergency Department,41
+2026-04-11,PPE-004,Isolation units,33
+2026-04-11,PPE-004,Medical ICU,68
+2026-04-11,PPE-004,Surgical ICU,232
+2026-04-11,PPE-004,Cardiac Care Unit,14
+2026-04-11,PPE-004,NICU,64
+2026-04-11,PPE-004,PICU,58
+2026-04-11,PPE-005,General Wards,394
+2026-04-11,PPE-005,Medical-Surgical units,120
+2026-04-11,PPE-005,Oncology units,349
+2026-04-11,PPE-005,Cardiology units,419
+2026-04-11,PPE-005,Pediatrics units,509
+2026-04-11,PPE-005,Geriatrics units,778
+2026-04-11,PPE-005,Emergency Department,1051
+2026-04-11,PPE-005,Isolation units,1311
+2026-04-11,PPE-005,Medical ICU,1240
+2026-04-11,PPE-005,Surgical ICU,190
+2026-04-11,PPE-005,Cardiac Care Unit,369
+2026-04-11,PPE-005,NICU,668
+2026-04-11,PPE-005,PICU,553
+2026-04-11,PPE-006,General Wards,10
+2026-04-11,PPE-006,Medical-Surgical units,61
+2026-04-11,PPE-006,Oncology units,40
+2026-04-11,PPE-006,Cardiology units,5
+2026-04-11,PPE-006,Pediatrics units,3
+2026-04-11,PPE-006,Geriatrics units,23
+2026-04-11,PPE-006,Emergency Department,48
+2026-04-11,PPE-006,Isolation units,47
+2026-04-11,PPE-006,Medical ICU,18
+2026-04-11,PPE-006,Surgical ICU,74
+2026-04-11,PPE-006,Cardiac Care Unit,1
+2026-04-11,PPE-006,NICU,27
+2026-04-11,PPE-006,PICU,17
+2026-04-11,PPE-007,General Wards,4
+2026-04-11,PPE-007,Medical-Surgical units,23
+2026-04-11,PPE-007,Oncology units,17
+2026-04-11,PPE-007,Cardiology units,2
+2026-04-11,PPE-007,Pediatrics units,4
+2026-04-11,PPE-007,Geriatrics units,23
+2026-04-11,PPE-007,Emergency Department,92
+2026-04-11,PPE-007,Isolation units,89
+2026-04-11,PPE-007,Medical ICU,44
+2026-04-11,PPE-007,Surgical ICU,12
+2026-04-11,PPE-007,Cardiac Care Unit,5
+2026-04-11,PPE-007,NICU,17
+2026-04-11,PPE-007,PICU,9
+2026-04-11,PPE-008,General Wards,1
+2026-04-11,PPE-008,Medical-Surgical units,10
+2026-04-11,PPE-008,Oncology units,13
+2026-04-11,PPE-008,Cardiology units,1
+2026-04-11,PPE-008,Pediatrics units,2
+2026-04-11,PPE-008,Geriatrics units,7
+2026-04-11,PPE-008,Emergency Department,12
+2026-04-11,PPE-008,Isolation units,7
+2026-04-11,PPE-008,Medical ICU,9
+2026-04-11,PPE-008,Surgical ICU,10
+2026-04-11,PPE-008,Cardiac Care Unit,2
+2026-04-11,PPE-008,NICU,12
+2026-04-11,PPE-008,PICU,6
+2026-04-11,PPE-009,General Wards,46
+2026-04-11,PPE-009,Medical-Surgical units,169
+2026-04-11,PPE-009,Oncology units,49
+2026-04-11,PPE-009,Cardiology units,66
+2026-04-11,PPE-009,Pediatrics units,68
+2026-04-11,PPE-009,Geriatrics units,36
+2026-04-11,PPE-009,Emergency Department,26
+2026-04-11,PPE-009,Isolation units,48
+2026-04-11,PPE-009,Medical ICU,51
+2026-04-11,PPE-009,Surgical ICU,94
+2026-04-11,PPE-009,Cardiac Care Unit,53
+2026-04-11,PPE-009,NICU,40
+2026-04-11,PPE-009,PICU,49
+2026-04-11,PPE-010,General Wards,116
+2026-04-11,PPE-010,Medical-Surgical units,369
+2026-04-11,PPE-010,Oncology units,68
+2026-04-11,PPE-010,Cardiology units,84
+2026-04-11,PPE-010,Pediatrics units,44
+2026-04-11,PPE-010,Geriatrics units,29
+2026-04-11,PPE-010,Emergency Department,47
+2026-04-11,PPE-010,Isolation units,40
+2026-04-11,PPE-010,Medical ICU,51
+2026-04-11,PPE-010,Surgical ICU,277
+2026-04-11,PPE-010,Cardiac Care Unit,57
+2026-04-11,PPE-010,NICU,71
+2026-04-11,PPE-010,PICU,35
+2026-04-12,PPE-001,General Wards,43
+2026-04-12,PPE-001,Medical-Surgical units,151
+2026-04-12,PPE-001,Oncology units,196
+2026-04-12,PPE-001,Cardiology units,31
+2026-04-12,PPE-001,Pediatrics units,37
+2026-04-12,PPE-001,Geriatrics units,161
+2026-04-12,PPE-001,Emergency Department,803
+2026-04-12,PPE-001,Isolation units,704
+2026-04-12,PPE-001,Medical ICU,474
+2026-04-12,PPE-001,Surgical ICU,146
+2026-04-12,PPE-001,Cardiac Care Unit,23
+2026-04-12,PPE-001,NICU,204
+2026-04-12,PPE-001,PICU,262
+2026-04-12,PPE-002,General Wards,539
+2026-04-12,PPE-002,Medical-Surgical units,543
+2026-04-12,PPE-002,Oncology units,1096
+2026-04-12,PPE-002,Cardiology units,576
+2026-04-12,PPE-002,Pediatrics units,623
+2026-04-12,PPE-002,Geriatrics units,892
+2026-04-12,PPE-002,Emergency Department,290
+2026-04-12,PPE-002,Isolation units,230
+2026-04-12,PPE-002,Medical ICU,350
+2026-04-12,PPE-002,Surgical ICU,608
+2026-04-12,PPE-002,Cardiac Care Unit,951
+2026-04-12,PPE-002,NICU,726
+2026-04-12,PPE-002,PICU,766
+2026-04-12,PPE-003,General Wards,194
+2026-04-12,PPE-003,Medical-Surgical units,76
+2026-04-12,PPE-003,Oncology units,226
+2026-04-12,PPE-003,Cardiology units,215
+2026-04-12,PPE-003,Pediatrics units,206
+2026-04-12,PPE-003,Geriatrics units,293
+2026-04-12,PPE-003,Emergency Department,105
+2026-04-12,PPE-003,Isolation units,159
+2026-04-12,PPE-003,Medical ICU,136
+2026-04-12,PPE-003,Surgical ICU,63
+2026-04-12,PPE-003,Cardiac Care Unit,186
+2026-04-12,PPE-003,NICU,107
+2026-04-12,PPE-003,PICU,183
+2026-04-12,PPE-004,General Wards,9
+2026-04-12,PPE-004,Medical-Surgical units,116
+2026-04-12,PPE-004,Oncology units,70
+2026-04-12,PPE-004,Cardiology units,8
+2026-04-12,PPE-004,Pediatrics units,10
+2026-04-12,PPE-004,Geriatrics units,37
+2026-04-12,PPE-004,Emergency Department,64
+2026-04-12,PPE-004,Isolation units,33
+2026-04-12,PPE-004,Medical ICU,69
+2026-04-12,PPE-004,Surgical ICU,246
+2026-04-12,PPE-004,Cardiac Care Unit,15
+2026-04-12,PPE-004,NICU,72
+2026-04-12,PPE-004,PICU,57
+2026-04-12,PPE-005,General Wards,466
+2026-04-12,PPE-005,Medical-Surgical units,327
+2026-04-12,PPE-005,Oncology units,712
+2026-04-12,PPE-005,Cardiology units,468
+2026-04-12,PPE-005,Pediatrics units,432
+2026-04-12,PPE-005,Geriatrics units,762
+2026-04-12,PPE-005,Emergency Department,862
+2026-04-12,PPE-005,Isolation units,677
+2026-04-12,PPE-005,Medical ICU,1223
+2026-04-12,PPE-005,Surgical ICU,236
+2026-04-12,PPE-005,Cardiac Care Unit,183
+2026-04-12,PPE-005,NICU,625
+2026-04-12,PPE-005,PICU,646
+2026-04-12,PPE-006,General Wards,6
+2026-04-12,PPE-006,Medical-Surgical units,49
+2026-04-12,PPE-006,Oncology units,29
+2026-04-12,PPE-006,Cardiology units,2
+2026-04-12,PPE-006,Pediatrics units,8
+2026-04-12,PPE-006,Geriatrics units,35
+2026-04-12,PPE-006,Emergency Department,26
+2026-04-12,PPE-006,Isolation units,37
+2026-04-12,PPE-006,Medical ICU,14
+2026-04-12,PPE-006,Surgical ICU,50
+2026-04-12,PPE-006,Cardiac Care Unit,6
+2026-04-12,PPE-006,NICU,22
+2026-04-12,PPE-006,PICU,53
+2026-04-12,PPE-007,General Wards,3
+2026-04-12,PPE-007,Medical-Surgical units,13
+2026-04-12,PPE-007,Oncology units,16
+2026-04-12,PPE-007,Cardiology units,2
+2026-04-12,PPE-007,Pediatrics units,2
+2026-04-12,PPE-007,Geriatrics units,14
+2026-04-12,PPE-007,Emergency Department,54
+2026-04-12,PPE-007,Isolation units,83
+2026-04-12,PPE-007,Medical ICU,34
+2026-04-12,PPE-007,Surgical ICU,28
+2026-04-12,PPE-007,Cardiac Care Unit,5
+2026-04-12,PPE-007,NICU,26
+2026-04-12,PPE-007,PICU,18
+2026-04-12,PPE-008,General Wards,1
+2026-04-12,PPE-008,Medical-Surgical units,6
+2026-04-12,PPE-008,Oncology units,11
+2026-04-12,PPE-008,Cardiology units,1
+2026-04-12,PPE-008,Pediatrics units,2
+2026-04-12,PPE-008,Geriatrics units,11
+2026-04-12,PPE-008,Emergency Department,9
+2026-04-12,PPE-008,Isolation units,9
+2026-04-12,PPE-008,Medical ICU,5
+2026-04-12,PPE-008,Surgical ICU,8
+2026-04-12,PPE-008,Cardiac Care Unit,1
+2026-04-12,PPE-008,NICU,13
+2026-04-12,PPE-008,PICU,5
+2026-04-12,PPE-009,General Wards,75
+2026-04-12,PPE-009,Medical-Surgical units,123
+2026-04-12,PPE-009,Oncology units,40
+2026-04-12,PPE-009,Cardiology units,49
+2026-04-12,PPE-009,Pediatrics units,61
+2026-04-12,PPE-009,Geriatrics units,49
+2026-04-12,PPE-009,Emergency Department,34
+2026-04-12,PPE-009,Isolation units,25
+2026-04-12,PPE-009,Medical ICU,47
+2026-04-12,PPE-009,Surgical ICU,157
+2026-04-12,PPE-009,Cardiac Care Unit,42
+2026-04-12,PPE-009,NICU,31
+2026-04-12,PPE-009,PICU,43
+2026-04-12,PPE-010,General Wards,93
+2026-04-12,PPE-010,Medical-Surgical units,167
+2026-04-12,PPE-010,Oncology units,78
+2026-04-12,PPE-010,Cardiology units,49
+2026-04-12,PPE-010,Pediatrics units,118
+2026-04-12,PPE-010,Geriatrics units,52
+2026-04-12,PPE-010,Emergency Department,27
+2026-04-12,PPE-010,Isolation units,40
+2026-04-12,PPE-010,Medical ICU,74
+2026-04-12,PPE-010,Surgical ICU,202
+2026-04-12,PPE-010,Cardiac Care Unit,62
+2026-04-12,PPE-010,NICU,34
+2026-04-12,PPE-010,PICU,42
+2026-04-13,PPE-001,General Wards,50
+2026-04-13,PPE-001,Medical-Surgical units,250
+2026-04-13,PPE-001,Oncology units,226
+2026-04-13,PPE-001,Cardiology units,51
+2026-04-13,PPE-001,Pediatrics units,53
+2026-04-13,PPE-001,Geriatrics units,218
+2026-04-13,PPE-001,Emergency Department,670
+2026-04-13,PPE-001,Isolation units,1074
+2026-04-13,PPE-001,Medical ICU,644
+2026-04-13,PPE-001,Surgical ICU,193
+2026-04-13,PPE-001,Cardiac Care Unit,52
+2026-04-13,PPE-001,NICU,237
+2026-04-13,PPE-001,PICU,143
+2026-04-13,PPE-002,General Wards,507
+2026-04-13,PPE-002,Medical-Surgical units,748
+2026-04-13,PPE-002,Oncology units,1604
+2026-04-13,PPE-002,Cardiology units,901
+2026-04-13,PPE-002,Pediatrics units,1107
+2026-04-13,PPE-002,Geriatrics units,1124
+2026-04-13,PPE-002,Emergency Department,172
+2026-04-13,PPE-002,Isolation units,224
+2026-04-13,PPE-002,Medical ICU,396
+2026-04-13,PPE-002,Surgical ICU,725
+2026-04-13,PPE-002,Cardiac Care Unit,643
+2026-04-13,PPE-002,NICU,1028
+2026-04-13,PPE-002,PICU,1118
+2026-04-13,PPE-003,General Wards,133
+2026-04-13,PPE-003,Medical-Surgical units,84
+2026-04-13,PPE-003,Oncology units,182
+2026-04-13,PPE-003,Cardiology units,145
+2026-04-13,PPE-003,Pediatrics units,204
+2026-04-13,PPE-003,Geriatrics units,305
+2026-04-13,PPE-003,Emergency Department,90
+2026-04-13,PPE-003,Isolation units,59
+2026-04-13,PPE-003,Medical ICU,102
+2026-04-13,PPE-003,Surgical ICU,90
+2026-04-13,PPE-003,Cardiac Care Unit,116
+2026-04-13,PPE-003,NICU,240
+2026-04-13,PPE-003,PICU,106
+2026-04-13,PPE-004,General Wards,4
+2026-04-13,PPE-004,Medical-Surgical units,155
+2026-04-13,PPE-004,Oncology units,64
+2026-04-13,PPE-004,Cardiology units,13
+2026-04-13,PPE-004,Pediatrics units,15
+2026-04-13,PPE-004,Geriatrics units,59
+2026-04-13,PPE-004,Emergency Department,78
+2026-04-13,PPE-004,Isolation units,62
+2026-04-13,PPE-004,Medical ICU,51
+2026-04-13,PPE-004,Surgical ICU,186
+2026-04-13,PPE-004,Cardiac Care Unit,12
+2026-04-13,PPE-004,NICU,47
+2026-04-13,PPE-004,PICU,53
+2026-04-13,PPE-005,General Wards,464
+2026-04-13,PPE-005,Medical-Surgical units,138
+2026-04-13,PPE-005,Oncology units,205
+2026-04-13,PPE-005,Cardiology units,342
+2026-04-13,PPE-005,Pediatrics units,442
+2026-04-13,PPE-005,Geriatrics units,503
+2026-04-13,PPE-005,Emergency Department,978
+2026-04-13,PPE-005,Isolation units,1158
+2026-04-13,PPE-005,Medical ICU,493
+2026-04-13,PPE-005,Surgical ICU,249
+2026-04-13,PPE-005,Cardiac Care Unit,364
+2026-04-13,PPE-005,NICU,638
+2026-04-13,PPE-005,PICU,644
+2026-04-13,PPE-006,General Wards,10
+2026-04-13,PPE-006,Medical-Surgical units,56
+2026-04-13,PPE-006,Oncology units,29
+2026-04-13,PPE-006,Cardiology units,4
+2026-04-13,PPE-006,Pediatrics units,6
+2026-04-13,PPE-006,Geriatrics units,32
+2026-04-13,PPE-006,Emergency Department,37
+2026-04-13,PPE-006,Isolation units,26
+2026-04-13,PPE-006,Medical ICU,17
+2026-04-13,PPE-006,Surgical ICU,165
+2026-04-13,PPE-006,Cardiac Care Unit,1
+2026-04-13,PPE-006,NICU,45
+2026-04-13,PPE-006,PICU,41
+2026-04-13,PPE-007,General Wards,5
+2026-04-13,PPE-007,Medical-Surgical units,24
+2026-04-13,PPE-007,Oncology units,27
+2026-04-13,PPE-007,Cardiology units,2
+2026-04-13,PPE-007,Pediatrics units,2
+2026-04-13,PPE-007,Geriatrics units,21
+2026-04-13,PPE-007,Emergency Department,57
+2026-04-13,PPE-007,Isolation units,95
+2026-04-13,PPE-007,Medical ICU,79
+2026-04-13,PPE-007,Surgical ICU,11
+2026-04-13,PPE-007,Cardiac Care Unit,3
+2026-04-13,PPE-007,NICU,20
+2026-04-13,PPE-007,PICU,28
+2026-04-13,PPE-008,General Wards,1
+2026-04-13,PPE-008,Medical-Surgical units,9
+2026-04-13,PPE-008,Oncology units,8
+2026-04-13,PPE-008,Cardiology units,2
+2026-04-13,PPE-008,Pediatrics units,2
+2026-04-13,PPE-008,Geriatrics units,8
+2026-04-13,PPE-008,Emergency Department,6
+2026-04-13,PPE-008,Isolation units,10
+2026-04-13,PPE-008,Medical ICU,12
+2026-04-13,PPE-008,Surgical ICU,7
+2026-04-13,PPE-008,Cardiac Care Unit,1
+2026-04-13,PPE-008,NICU,9
+2026-04-13,PPE-008,PICU,6
+2026-04-13,PPE-009,General Wards,51
+2026-04-13,PPE-009,Medical-Surgical units,204
+2026-04-13,PPE-009,Oncology units,50
+2026-04-13,PPE-009,Cardiology units,91
+2026-04-13,PPE-009,Pediatrics units,59
+2026-04-13,PPE-009,Geriatrics units,43
+2026-04-13,PPE-009,Emergency Department,29
+2026-04-13,PPE-009,Isolation units,53
+2026-04-13,PPE-009,Medical ICU,44
+2026-04-13,PPE-009,Surgical ICU,151
+2026-04-13,PPE-009,Cardiac Care Unit,94
+2026-04-13,PPE-009,NICU,28
+2026-04-13,PPE-009,PICU,40
+2026-04-13,PPE-010,General Wards,126
+2026-04-13,PPE-010,Medical-Surgical units,301
+2026-04-13,PPE-010,Oncology units,42
+2026-04-13,PPE-010,Cardiology units,121
+2026-04-13,PPE-010,Pediatrics units,91
+2026-04-13,PPE-010,Geriatrics units,27
+2026-04-13,PPE-010,Emergency Department,57
+2026-04-13,PPE-010,Isolation units,31
+2026-04-13,PPE-010,Medical ICU,74
+2026-04-13,PPE-010,Surgical ICU,279
+2026-04-13,PPE-010,Cardiac Care Unit,80
+2026-04-13,PPE-010,NICU,48
+2026-04-13,PPE-010,PICU,79
+2026-04-14,PPE-001,General Wards,54
+2026-04-14,PPE-001,Medical-Surgical units,178
+2026-04-14,PPE-001,Oncology units,93
+2026-04-14,PPE-001,Cardiology units,45
+2026-04-14,PPE-001,Pediatrics units,37
+2026-04-14,PPE-001,Geriatrics units,127
+2026-04-14,PPE-001,Emergency Department,844
+2026-04-14,PPE-001,Isolation units,454
+2026-04-14,PPE-001,Medical ICU,1022
+2026-04-14,PPE-001,Surgical ICU,308
+2026-04-14,PPE-001,Cardiac Care Unit,31
+2026-04-14,PPE-001,NICU,191
+2026-04-14,PPE-001,PICU,204
+2026-04-14,PPE-002,General Wards,720
+2026-04-14,PPE-002,Medical-Surgical units,669
+2026-04-14,PPE-002,Oncology units,850
+2026-04-14,PPE-002,Cardiology units,688
+2026-04-14,PPE-002,Pediatrics units,574
+2026-04-14,PPE-002,Geriatrics units,780
+2026-04-14,PPE-002,Emergency Department,323
+2026-04-14,PPE-002,Isolation units,227
+2026-04-14,PPE-002,Medical ICU,162
+2026-04-14,PPE-002,Surgical ICU,707
+2026-04-14,PPE-002,Cardiac Care Unit,919
+2026-04-14,PPE-002,NICU,1343
+2026-04-14,PPE-002,PICU,1233
+2026-04-14,PPE-003,General Wards,162
+2026-04-14,PPE-003,Medical-Surgical units,155
+2026-04-14,PPE-003,Oncology units,150
+2026-04-14,PPE-003,Cardiology units,174
+2026-04-14,PPE-003,Pediatrics units,148
+2026-04-14,PPE-003,Geriatrics units,156
+2026-04-14,PPE-003,Emergency Department,133
+2026-04-14,PPE-003,Isolation units,111
+2026-04-14,PPE-003,Medical ICU,109
+2026-04-14,PPE-003,Surgical ICU,116
+2026-04-14,PPE-003,Cardiac Care Unit,79
+2026-04-14,PPE-003,NICU,257
+2026-04-14,PPE-003,PICU,111
+2026-04-14,PPE-004,General Wards,8
+2026-04-14,PPE-004,Medical-Surgical units,180
+2026-04-14,PPE-004,Oncology units,72
+2026-04-14,PPE-004,Cardiology units,12
+2026-04-14,PPE-004,Pediatrics units,6
+2026-04-14,PPE-004,Geriatrics units,74
+2026-04-14,PPE-004,Emergency Department,58
+2026-04-14,PPE-004,Isolation units,43
+2026-04-14,PPE-004,Medical ICU,74
+2026-04-14,PPE-004,Surgical ICU,343
+2026-04-14,PPE-004,Cardiac Care Unit,12
+2026-04-14,PPE-004,NICU,78
+2026-04-14,PPE-004,PICU,74
+2026-04-14,PPE-005,General Wards,497
+2026-04-14,PPE-005,Medical-Surgical units,405
+2026-04-14,PPE-005,Oncology units,244
+2026-04-14,PPE-005,Cardiology units,532
+2026-04-14,PPE-005,Pediatrics units,366
+2026-04-14,PPE-005,Geriatrics units,596
+2026-04-14,PPE-005,Emergency Department,493
+2026-04-14,PPE-005,Isolation units,816
+2026-04-14,PPE-005,Medical ICU,742
+2026-04-14,PPE-005,Surgical ICU,290
+2026-04-14,PPE-005,Cardiac Care Unit,641
+2026-04-14,PPE-005,NICU,348
+2026-04-14,PPE-005,PICU,771
+2026-04-14,PPE-006,General Wards,3
+2026-04-14,PPE-006,Medical-Surgical units,118
+2026-04-14,PPE-006,Oncology units,23
+2026-04-14,PPE-006,Cardiology units,7
+2026-04-14,PPE-006,Pediatrics units,2
+2026-04-14,PPE-006,Geriatrics units,11
+2026-04-14,PPE-006,Emergency Department,21
+2026-04-14,PPE-006,Isolation units,9
+2026-04-14,PPE-006,Medical ICU,32
+2026-04-14,PPE-006,Surgical ICU,160
+2026-04-14,PPE-006,Cardiac Care Unit,2
+2026-04-14,PPE-006,NICU,29
+2026-04-14,PPE-006,PICU,39
+2026-04-14,PPE-007,General Wards,2
+2026-04-14,PPE-007,Medical-Surgical units,13
+2026-04-14,PPE-007,Oncology units,29
+2026-04-14,PPE-007,Cardiology units,2
+2026-04-14,PPE-007,Pediatrics units,5
+2026-04-14,PPE-007,Geriatrics units,14
+2026-04-14,PPE-007,Emergency Department,48
+2026-04-14,PPE-007,Isolation units,92
+2026-04-14,PPE-007,Medical ICU,45
+2026-04-14,PPE-007,Surgical ICU,23
+2026-04-14,PPE-007,Cardiac Care Unit,4
+2026-04-14,PPE-007,NICU,13
+2026-04-14,PPE-007,PICU,11
+2026-04-14,PPE-008,General Wards,1
+2026-04-14,PPE-008,Medical-Surgical units,11
+2026-04-14,PPE-008,Oncology units,13
+2026-04-14,PPE-008,Cardiology units,1
+2026-04-14,PPE-008,Pediatrics units,1
+2026-04-14,PPE-008,Geriatrics units,8
+2026-04-14,PPE-008,Emergency Department,5
+2026-04-14,PPE-008,Isolation units,8
+2026-04-14,PPE-008,Medical ICU,5
+2026-04-14,PPE-008,Surgical ICU,9
+2026-04-14,PPE-008,Cardiac Care Unit,1
+2026-04-14,PPE-008,NICU,4
+2026-04-14,PPE-008,PICU,13
+2026-04-14,PPE-009,General Wards,32
+2026-04-14,PPE-009,Medical-Surgical units,191
+2026-04-14,PPE-009,Oncology units,25
+2026-04-14,PPE-009,Cardiology units,60
+2026-04-14,PPE-009,Pediatrics units,47
+2026-04-14,PPE-009,Geriatrics units,41
+2026-04-14,PPE-009,Emergency Department,44
+2026-04-14,PPE-009,Isolation units,46
+2026-04-14,PPE-009,Medical ICU,31
+2026-04-14,PPE-009,Surgical ICU,98
+2026-04-14,PPE-009,Cardiac Care Unit,78
+2026-04-14,PPE-009,NICU,22
+2026-04-14,PPE-009,PICU,26
+2026-04-14,PPE-010,General Wards,109
+2026-04-14,PPE-010,Medical-Surgical units,223
+2026-04-14,PPE-010,Oncology units,75
+2026-04-14,PPE-010,Cardiology units,56
+2026-04-14,PPE-010,Pediatrics units,45
+2026-04-14,PPE-010,Geriatrics units,56
+2026-04-14,PPE-010,Emergency Department,29
+2026-04-14,PPE-010,Isolation units,40
+2026-04-14,PPE-010,Medical ICU,56
+2026-04-14,PPE-010,Surgical ICU,254
+2026-04-14,PPE-010,Cardiac Care Unit,124
+2026-04-14,PPE-010,NICU,55
+2026-04-14,PPE-010,PICU,49
+2026-04-15,PPE-001,General Wards,33
+2026-04-15,PPE-001,Medical-Surgical units,157
+2026-04-15,PPE-001,Oncology units,138
+2026-04-15,PPE-001,Cardiology units,44
+2026-04-15,PPE-001,Pediatrics units,21
+2026-04-15,PPE-001,Geriatrics units,199
+2026-04-15,PPE-001,Emergency Department,955
+2026-04-15,PPE-001,Isolation units,379
+2026-04-15,PPE-001,Medical ICU,530
+2026-04-15,PPE-001,Surgical ICU,111
+2026-04-15,PPE-001,Cardiac Care Unit,33
+2026-04-15,PPE-001,NICU,132
+2026-04-15,PPE-001,PICU,124
+2026-04-15,PPE-002,General Wards,1108
+2026-04-15,PPE-002,Medical-Surgical units,597
+2026-04-15,PPE-002,Oncology units,1219
+2026-04-15,PPE-002,Cardiology units,913
+2026-04-15,PPE-002,Pediatrics units,625
+2026-04-15,PPE-002,Geriatrics units,1502
+2026-04-15,PPE-002,Emergency Department,161
+2026-04-15,PPE-002,Isolation units,276
+2026-04-15,PPE-002,Medical ICU,213
+2026-04-15,PPE-002,Surgical ICU,701
+2026-04-15,PPE-002,Cardiac Care Unit,657
+2026-04-15,PPE-002,NICU,1386
+2026-04-15,PPE-002,PICU,1524
+2026-04-15,PPE-003,General Wards,78
+2026-04-15,PPE-003,Medical-Surgical units,120
+2026-04-15,PPE-003,Oncology units,138
+2026-04-15,PPE-003,Cardiology units,99
+2026-04-15,PPE-003,Pediatrics units,128
+2026-04-15,PPE-003,Geriatrics units,250
+2026-04-15,PPE-003,Emergency Department,82
+2026-04-15,PPE-003,Isolation units,65
+2026-04-15,PPE-003,Medical ICU,91
+2026-04-15,PPE-003,Surgical ICU,108
+2026-04-15,PPE-003,Cardiac Care Unit,162
+2026-04-15,PPE-003,NICU,151
+2026-04-15,PPE-003,PICU,216
+2026-04-15,PPE-004,General Wards,15
+2026-04-15,PPE-004,Medical-Surgical units,128
+2026-04-15,PPE-004,Oncology units,64
+2026-04-15,PPE-004,Cardiology units,7
+2026-04-15,PPE-004,Pediatrics units,7
+2026-04-15,PPE-004,Geriatrics units,33
+2026-04-15,PPE-004,Emergency Department,22
+2026-04-15,PPE-004,Isolation units,19
+2026-04-15,PPE-004,Medical ICU,46
+2026-04-15,PPE-004,Surgical ICU,295
+2026-04-15,PPE-004,Cardiac Care Unit,7
+2026-04-15,PPE-004,NICU,26
+2026-04-15,PPE-004,PICU,55
+2026-04-15,PPE-005,General Wards,622
+2026-04-15,PPE-005,Medical-Surgical units,140
+2026-04-15,PPE-005,Oncology units,327
+2026-04-15,PPE-005,Cardiology units,549
+2026-04-15,PPE-005,Pediatrics units,346
+2026-04-15,PPE-005,Geriatrics units,527
+2026-04-15,PPE-005,Emergency Department,1141
+2026-04-15,PPE-005,Isolation units,657
+2026-04-15,PPE-005,Medical ICU,543
+2026-04-15,PPE-005,Surgical ICU,242
+2026-04-15,PPE-005,Cardiac Care Unit,437
+2026-04-15,PPE-005,NICU,696
+2026-04-15,PPE-005,PICU,405
+2026-04-15,PPE-006,General Wards,4
+2026-04-15,PPE-006,Medical-Surgical units,47
+2026-04-15,PPE-006,Oncology units,10
+2026-04-15,PPE-006,Cardiology units,5
+2026-04-15,PPE-006,Pediatrics units,2
+2026-04-15,PPE-006,Geriatrics units,38
+2026-04-15,PPE-006,Emergency Department,16
+2026-04-15,PPE-006,Isolation units,28
+2026-04-15,PPE-006,Medical ICU,12
+2026-04-15,PPE-006,Surgical ICU,56
+2026-04-15,PPE-006,Cardiac Care Unit,7
+2026-04-15,PPE-006,NICU,30
+2026-04-15,PPE-006,PICU,34
+2026-04-15,PPE-007,General Wards,4
+2026-04-15,PPE-007,Medical-Surgical units,13
+2026-04-15,PPE-007,Oncology units,18
+2026-04-15,PPE-007,Cardiology units,3
+2026-04-15,PPE-007,Pediatrics units,4
+2026-04-15,PPE-007,Geriatrics units,16
+2026-04-15,PPE-007,Emergency Department,77
+2026-04-15,PPE-007,Isolation units,67
+2026-04-15,PPE-007,Medical ICU,71
+2026-04-15,PPE-007,Surgical ICU,22
+2026-04-15,PPE-007,Cardiac Care Unit,2
+2026-04-15,PPE-007,NICU,16
+2026-04-15,PPE-007,PICU,13
+2026-04-15,PPE-008,General Wards,1
+2026-04-15,PPE-008,Medical-Surgical units,10
+2026-04-15,PPE-008,Oncology units,9
+2026-04-15,PPE-008,Cardiology units,1
+2026-04-15,PPE-008,Pediatrics units,1
+2026-04-15,PPE-008,Geriatrics units,9
+2026-04-15,PPE-008,Emergency Department,4
+2026-04-15,PPE-008,Isolation units,15
+2026-04-15,PPE-008,Medical ICU,13
+2026-04-15,PPE-008,Surgical ICU,6
+2026-04-15,PPE-008,Cardiac Care Unit,2
+2026-04-15,PPE-008,NICU,10
+2026-04-15,PPE-008,PICU,9
+2026-04-15,PPE-009,General Wards,53
+2026-04-15,PPE-009,Medical-Surgical units,176
+2026-04-15,PPE-009,Oncology units,27
+2026-04-15,PPE-009,Cardiology units,78
+2026-04-15,PPE-009,Pediatrics units,42
+2026-04-15,PPE-009,Geriatrics units,18
+2026-04-15,PPE-009,Emergency Department,52
+2026-04-15,PPE-009,Isolation units,20
+2026-04-15,PPE-009,Medical ICU,33
+2026-04-15,PPE-009,Surgical ICU,189
+2026-04-15,PPE-009,Cardiac Care Unit,66
+2026-04-15,PPE-009,NICU,23
+2026-04-15,PPE-009,PICU,48
+2026-04-15,PPE-010,General Wards,56
+2026-04-15,PPE-010,Medical-Surgical units,267
+2026-04-15,PPE-010,Oncology units,79
+2026-04-15,PPE-010,Cardiology units,98
+2026-04-15,PPE-010,Pediatrics units,48
+2026-04-15,PPE-010,Geriatrics units,77
+2026-04-15,PPE-010,Emergency Department,52
+2026-04-15,PPE-010,Isolation units,56
+2026-04-15,PPE-010,Medical ICU,38
+2026-04-15,PPE-010,Surgical ICU,119
+2026-04-15,PPE-010,Cardiac Care Unit,81
+2026-04-15,PPE-010,NICU,74
+2026-04-15,PPE-010,PICU,87
+2026-04-16,PPE-001,General Wards,47
+2026-04-16,PPE-001,Medical-Surgical units,287
+2026-04-16,PPE-001,Oncology units,113
+2026-04-16,PPE-001,Cardiology units,54
+2026-04-16,PPE-001,Pediatrics units,33
+2026-04-16,PPE-001,Geriatrics units,265
+2026-04-16,PPE-001,Emergency Department,936
+2026-04-16,PPE-001,Isolation units,421
+2026-04-16,PPE-001,Medical ICU,1042
+2026-04-16,PPE-001,Surgical ICU,162
+2026-04-16,PPE-001,Cardiac Care Unit,34
+2026-04-16,PPE-001,NICU,176
+2026-04-16,PPE-001,PICU,158
+2026-04-16,PPE-002,General Wards,526
+2026-04-16,PPE-002,Medical-Surgical units,383
+2026-04-16,PPE-002,Oncology units,1174
+2026-04-16,PPE-002,Cardiology units,754
+2026-04-16,PPE-002,Pediatrics units,464
+2026-04-16,PPE-002,Geriatrics units,703
+2026-04-16,PPE-002,Emergency Department,187
+2026-04-16,PPE-002,Isolation units,204
+2026-04-16,PPE-002,Medical ICU,178
+2026-04-16,PPE-002,Surgical ICU,569
+2026-04-16,PPE-002,Cardiac Care Unit,829
+2026-04-16,PPE-002,NICU,1328
+2026-04-16,PPE-002,PICU,1647
+2026-04-16,PPE-003,General Wards,174
+2026-04-16,PPE-003,Medical-Surgical units,89
+2026-04-16,PPE-003,Oncology units,226
+2026-04-16,PPE-003,Cardiology units,136
+2026-04-16,PPE-003,Pediatrics units,218
+2026-04-16,PPE-003,Geriatrics units,234
+2026-04-16,PPE-003,Emergency Department,135
+2026-04-16,PPE-003,Isolation units,76
+2026-04-16,PPE-003,Medical ICU,132
+2026-04-16,PPE-003,Surgical ICU,137
+2026-04-16,PPE-003,Cardiac Care Unit,173
+2026-04-16,PPE-003,NICU,277
+2026-04-16,PPE-003,PICU,144
+2026-04-16,PPE-004,General Wards,11
+2026-04-16,PPE-004,Medical-Surgical units,295
+2026-04-16,PPE-004,Oncology units,58
+2026-04-16,PPE-004,Cardiology units,6
+2026-04-16,PPE-004,Pediatrics units,6
+2026-04-16,PPE-004,Geriatrics units,73
+2026-04-16,PPE-004,Emergency Department,60
+2026-04-16,PPE-004,Isolation units,52
+2026-04-16,PPE-004,Medical ICU,29
+2026-04-16,PPE-004,Surgical ICU,137
+2026-04-16,PPE-004,Cardiac Care Unit,9
+2026-04-16,PPE-004,NICU,30
+2026-04-16,PPE-004,PICU,43
+2026-04-16,PPE-005,General Wards,477
+2026-04-16,PPE-005,Medical-Surgical units,167
+2026-04-16,PPE-005,Oncology units,694
+2026-04-16,PPE-005,Cardiology units,455
+2026-04-16,PPE-005,Pediatrics units,434
+2026-04-16,PPE-005,Geriatrics units,394
+2026-04-16,PPE-005,Emergency Department,1204
+2026-04-16,PPE-005,Isolation units,1130
+2026-04-16,PPE-005,Medical ICU,1450
+2026-04-16,PPE-005,Surgical ICU,281
+2026-04-16,PPE-005,Cardiac Care Unit,530
+2026-04-16,PPE-005,NICU,219
+2026-04-16,PPE-005,PICU,369
+2026-04-16,PPE-006,General Wards,2
+2026-04-16,PPE-006,Medical-Surgical units,59
+2026-04-16,PPE-006,Oncology units,51
+2026-04-16,PPE-006,Cardiology units,3
+2026-04-16,PPE-006,Pediatrics units,8
+2026-04-16,PPE-006,Geriatrics units,16
+2026-04-16,PPE-006,Emergency Department,43
+2026-04-16,PPE-006,Isolation units,31
+2026-04-16,PPE-006,Medical ICU,42
+2026-04-16,PPE-006,Surgical ICU,68
+2026-04-16,PPE-006,Cardiac Care Unit,6
+2026-04-16,PPE-006,NICU,23
+2026-04-16,PPE-006,PICU,20
+2026-04-16,PPE-007,General Wards,6
+2026-04-16,PPE-007,Medical-Surgical units,27
+2026-04-16,PPE-007,Oncology units,24
+2026-04-16,PPE-007,Cardiology units,2
+2026-04-16,PPE-007,Pediatrics units,5
+2026-04-16,PPE-007,Geriatrics units,11
+2026-04-16,PPE-007,Emergency Department,84
+2026-04-16,PPE-007,Isolation units,45
+2026-04-16,PPE-007,Medical ICU,52
+2026-04-16,PPE-007,Surgical ICU,18
+2026-04-16,PPE-007,Cardiac Care Unit,2
+2026-04-16,PPE-007,NICU,27
+2026-04-16,PPE-007,PICU,17
+2026-04-16,PPE-008,General Wards,2
+2026-04-16,PPE-008,Medical-Surgical units,7
+2026-04-16,PPE-008,Oncology units,5
+2026-04-16,PPE-008,Cardiology units,1
+2026-04-16,PPE-008,Pediatrics units,1
+2026-04-16,PPE-008,Geriatrics units,6
+2026-04-16,PPE-008,Emergency Department,4
+2026-04-16,PPE-008,Isolation units,10
+2026-04-16,PPE-008,Medical ICU,5
+2026-04-16,PPE-008,Surgical ICU,9
+2026-04-16,PPE-008,Cardiac Care Unit,2
+2026-04-16,PPE-008,NICU,8
+2026-04-16,PPE-008,PICU,13
+2026-04-16,PPE-009,General Wards,43
+2026-04-16,PPE-009,Medical-Surgical units,82
+2026-04-16,PPE-009,Oncology units,22
+2026-04-16,PPE-009,Cardiology units,92
+2026-04-16,PPE-009,Pediatrics units,62
+2026-04-16,PPE-009,Geriatrics units,38
+2026-04-16,PPE-009,Emergency Department,30
+2026-04-16,PPE-009,Isolation units,53
+2026-04-16,PPE-009,Medical ICU,36
+2026-04-16,PPE-009,Surgical ICU,170
+2026-04-16,PPE-009,Cardiac Care Unit,33
+2026-04-16,PPE-009,NICU,44
+2026-04-16,PPE-009,PICU,32
+2026-04-16,PPE-010,General Wards,111
+2026-04-16,PPE-010,Medical-Surgical units,238
+2026-04-16,PPE-010,Oncology units,40
+2026-04-16,PPE-010,Cardiology units,105
+2026-04-16,PPE-010,Pediatrics units,66
+2026-04-16,PPE-010,Geriatrics units,65
+2026-04-16,PPE-010,Emergency Department,46
+2026-04-16,PPE-010,Isolation units,76
+2026-04-16,PPE-010,Medical ICU,77
+2026-04-16,PPE-010,Surgical ICU,144
+2026-04-16,PPE-010,Cardiac Care Unit,142
+2026-04-16,PPE-010,NICU,75
+2026-04-16,PPE-010,PICU,49
+2026-04-17,PPE-001,General Wards,37
+2026-04-17,PPE-001,Medical-Surgical units,146
+2026-04-17,PPE-001,Oncology units,223
+2026-04-17,PPE-001,Cardiology units,40
+2026-04-17,PPE-001,Pediatrics units,40
+2026-04-17,PPE-001,Geriatrics units,166
+2026-04-17,PPE-001,Emergency Department,998
+2026-04-17,PPE-001,Isolation units,536
+2026-04-17,PPE-001,Medical ICU,869
+2026-04-17,PPE-001,Surgical ICU,180
+2026-04-17,PPE-001,Cardiac Care Unit,38
+2026-04-17,PPE-001,NICU,108
+2026-04-17,PPE-001,PICU,216
+2026-04-17,PPE-002,General Wards,794
+2026-04-17,PPE-002,Medical-Surgical units,752
+2026-04-17,PPE-002,Oncology units,1098
+2026-04-17,PPE-002,Cardiology units,766
+2026-04-17,PPE-002,Pediatrics units,930
+2026-04-17,PPE-002,Geriatrics units,942
+2026-04-17,PPE-002,Emergency Department,293
+2026-04-17,PPE-002,Isolation units,207
+2026-04-17,PPE-002,Medical ICU,168
+2026-04-17,PPE-002,Surgical ICU,284
+2026-04-17,PPE-002,Cardiac Care Unit,560
+2026-04-17,PPE-002,NICU,563
+2026-04-17,PPE-002,PICU,1367
+2026-04-17,PPE-003,General Wards,191
+2026-04-17,PPE-003,Medical-Surgical units,125
+2026-04-17,PPE-003,Oncology units,153
+2026-04-17,PPE-003,Cardiology units,216
+2026-04-17,PPE-003,Pediatrics units,154
+2026-04-17,PPE-003,Geriatrics units,118
+2026-04-17,PPE-003,Emergency Department,74
+2026-04-17,PPE-003,Isolation units,108
+2026-04-17,PPE-003,Medical ICU,65
+2026-04-17,PPE-003,Surgical ICU,138
+2026-04-17,PPE-003,Cardiac Care Unit,165
+2026-04-17,PPE-003,NICU,200
+2026-04-17,PPE-003,PICU,108
+2026-04-17,PPE-004,General Wards,8
+2026-04-17,PPE-004,Medical-Surgical units,307
+2026-04-17,PPE-004,Oncology units,38
+2026-04-17,PPE-004,Cardiology units,6
+2026-04-17,PPE-004,Pediatrics units,15
+2026-04-17,PPE-004,Geriatrics units,37
+2026-04-17,PPE-004,Emergency Department,57
+2026-04-17,PPE-004,Isolation units,46
+2026-04-17,PPE-004,Medical ICU,33
+2026-04-17,PPE-004,Surgical ICU,123
+2026-04-17,PPE-004,Cardiac Care Unit,7
+2026-04-17,PPE-004,NICU,81
+2026-04-17,PPE-004,PICU,34
+2026-04-17,PPE-005,General Wards,585
+2026-04-17,PPE-005,Medical-Surgical units,298
+2026-04-17,PPE-005,Oncology units,657
+2026-04-17,PPE-005,Cardiology units,268
+2026-04-17,PPE-005,Pediatrics units,569
+2026-04-17,PPE-005,Geriatrics units,505
+2026-04-17,PPE-005,Emergency Department,583
+2026-04-17,PPE-005,Isolation units,866
+2026-04-17,PPE-005,Medical ICU,1029
+2026-04-17,PPE-005,Surgical ICU,297
+2026-04-17,PPE-005,Cardiac Care Unit,323
+2026-04-17,PPE-005,NICU,702
+2026-04-17,PPE-005,PICU,423
+2026-04-17,PPE-006,General Wards,3
+2026-04-17,PPE-006,Medical-Surgical units,58
+2026-04-17,PPE-006,Oncology units,47
+2026-04-17,PPE-006,Cardiology units,4
+2026-04-17,PPE-006,Pediatrics units,8
+2026-04-17,PPE-006,Geriatrics units,13
+2026-04-17,PPE-006,Emergency Department,30
+2026-04-17,PPE-006,Isolation units,37
+2026-04-17,PPE-006,Medical ICU,27
+2026-04-17,PPE-006,Surgical ICU,130
+2026-04-17,PPE-006,Cardiac Care Unit,5
+2026-04-17,PPE-006,NICU,24
+2026-04-17,PPE-006,PICU,42
+2026-04-17,PPE-007,General Wards,4
+2026-04-17,PPE-007,Medical-Surgical units,18
+2026-04-17,PPE-007,Oncology units,23
+2026-04-17,PPE-007,Cardiology units,3
+2026-04-17,PPE-007,Pediatrics units,5
+2026-04-17,PPE-007,Geriatrics units,14
+2026-04-17,PPE-007,Emergency Department,89
+2026-04-17,PPE-007,Isolation units,94
+2026-04-17,PPE-007,Medical ICU,60
+2026-04-17,PPE-007,Surgical ICU,26
+2026-04-17,PPE-007,Cardiac Care Unit,5
+2026-04-17,PPE-007,NICU,24
+2026-04-17,PPE-007,PICU,16
+2026-04-17,PPE-008,General Wards,2
+2026-04-17,PPE-008,Medical-Surgical units,8
+2026-04-17,PPE-008,Oncology units,7
+2026-04-17,PPE-008,Cardiology units,2
+2026-04-17,PPE-008,Pediatrics units,2
+2026-04-17,PPE-008,Geriatrics units,7
+2026-04-17,PPE-008,Emergency Department,12
+2026-04-17,PPE-008,Isolation units,5
+2026-04-17,PPE-008,Medical ICU,13
+2026-04-17,PPE-008,Surgical ICU,13
+2026-04-17,PPE-008,Cardiac Care Unit,1
+2026-04-17,PPE-008,NICU,13
+2026-04-17,PPE-008,PICU,10
+2026-04-17,PPE-009,General Wards,50
+2026-04-17,PPE-009,Medical-Surgical units,205
+2026-04-17,PPE-009,Oncology units,64
+2026-04-17,PPE-009,Cardiology units,36
+2026-04-17,PPE-009,Pediatrics units,77
+2026-04-17,PPE-009,Geriatrics units,28
+2026-04-17,PPE-009,Emergency Department,53
+2026-04-17,PPE-009,Isolation units,38
+2026-04-17,PPE-009,Medical ICU,21
+2026-04-17,PPE-009,Surgical ICU,156
+2026-04-17,PPE-009,Cardiac Care Unit,55
+2026-04-17,PPE-009,NICU,54
+2026-04-17,PPE-009,PICU,62
+2026-04-17,PPE-010,General Wards,120
+2026-04-17,PPE-010,Medical-Surgical units,194
+2026-04-17,PPE-010,Oncology units,69
+2026-04-17,PPE-010,Cardiology units,56
+2026-04-17,PPE-010,Pediatrics units,92
+2026-04-17,PPE-010,Geriatrics units,66
+2026-04-17,PPE-010,Emergency Department,79
+2026-04-17,PPE-010,Isolation units,86
+2026-04-17,PPE-010,Medical ICU,66
+2026-04-17,PPE-010,Surgical ICU,217
+2026-04-17,PPE-010,Cardiac Care Unit,77
+2026-04-17,PPE-010,NICU,67
+2026-04-17,PPE-010,PICU,40
+2026-04-18,PPE-001,General Wards,46
+2026-04-18,PPE-001,Medical-Surgical units,233
+2026-04-18,PPE-001,Oncology units,253
+2026-04-18,PPE-001,Cardiology units,24
+2026-04-18,PPE-001,Pediatrics units,47
+2026-04-18,PPE-001,Geriatrics units,124
+2026-04-18,PPE-001,Emergency Department,873
+2026-04-18,PPE-001,Isolation units,632
+2026-04-18,PPE-001,Medical ICU,972
+2026-04-18,PPE-001,Surgical ICU,159
+2026-04-18,PPE-001,Cardiac Care Unit,61
+2026-04-18,PPE-001,NICU,191
+2026-04-18,PPE-001,PICU,210
+2026-04-18,PPE-002,General Wards,909
+2026-04-18,PPE-002,Medical-Surgical units,829
+2026-04-18,PPE-002,Oncology units,1343
+2026-04-18,PPE-002,Cardiology units,622
+2026-04-18,PPE-002,Pediatrics units,666
+2026-04-18,PPE-002,Geriatrics units,1022
+2026-04-18,PPE-002,Emergency Department,248
+2026-04-18,PPE-002,Isolation units,220
+2026-04-18,PPE-002,Medical ICU,389
+2026-04-18,PPE-002,Surgical ICU,804
+2026-04-18,PPE-002,Cardiac Care Unit,1080
+2026-04-18,PPE-002,NICU,1102
+2026-04-18,PPE-002,PICU,1018
+2026-04-18,PPE-003,General Wards,189
+2026-04-18,PPE-003,Medical-Surgical units,71
+2026-04-18,PPE-003,Oncology units,104
+2026-04-18,PPE-003,Cardiology units,130
+2026-04-18,PPE-003,Pediatrics units,228
+2026-04-18,PPE-003,Geriatrics units,303
+2026-04-18,PPE-003,Emergency Department,74
+2026-04-18,PPE-003,Isolation units,87
+2026-04-18,PPE-003,Medical ICU,150
+2026-04-18,PPE-003,Surgical ICU,128
+2026-04-18,PPE-003,Cardiac Care Unit,174
+2026-04-18,PPE-003,NICU,202
+2026-04-18,PPE-003,PICU,192
+2026-04-18,PPE-004,General Wards,10
+2026-04-18,PPE-004,Medical-Surgical units,120
+2026-04-18,PPE-004,Oncology units,22
+2026-04-18,PPE-004,Cardiology units,16
+2026-04-18,PPE-004,Pediatrics units,6
+2026-04-18,PPE-004,Geriatrics units,33
+2026-04-18,PPE-004,Emergency Department,32
+2026-04-18,PPE-004,Isolation units,71
+2026-04-18,PPE-004,Medical ICU,46
+2026-04-18,PPE-004,Surgical ICU,211
+2026-04-18,PPE-004,Cardiac Care Unit,14
+2026-04-18,PPE-004,NICU,68
+2026-04-18,PPE-004,PICU,45
+2026-04-18,PPE-005,General Wards,534
+2026-04-18,PPE-005,Medical-Surgical units,213
+2026-04-18,PPE-005,Oncology units,706
+2026-04-18,PPE-005,Cardiology units,455
+2026-04-18,PPE-005,Pediatrics units,422
+2026-04-18,PPE-005,Geriatrics units,384
+2026-04-18,PPE-005,Emergency Department,348
+2026-04-18,PPE-005,Isolation units,1257
+2026-04-18,PPE-005,Medical ICU,615
+2026-04-18,PPE-005,Surgical ICU,263
+2026-04-18,PPE-005,Cardiac Care Unit,287
+2026-04-18,PPE-005,NICU,494
+2026-04-18,PPE-005,PICU,627
+2026-04-18,PPE-006,General Wards,5
+2026-04-18,PPE-006,Medical-Surgical units,152
+2026-04-18,PPE-006,Oncology units,38
+2026-04-18,PPE-006,Cardiology units,7
+2026-04-18,PPE-006,Pediatrics units,3
+2026-04-18,PPE-006,Geriatrics units,32
+2026-04-18,PPE-006,Emergency Department,38
+2026-04-18,PPE-006,Isolation units,34
+2026-04-18,PPE-006,Medical ICU,15
+2026-04-18,PPE-006,Surgical ICU,104
+2026-04-18,PPE-006,Cardiac Care Unit,4
+2026-04-18,PPE-006,NICU,15
+2026-04-18,PPE-006,PICU,24
+2026-04-18,PPE-007,General Wards,3
+2026-04-18,PPE-007,Medical-Surgical units,10
+2026-04-18,PPE-007,Oncology units,26
+2026-04-18,PPE-007,Cardiology units,2
+2026-04-18,PPE-007,Pediatrics units,4
+2026-04-18,PPE-007,Geriatrics units,28
+2026-04-18,PPE-007,Emergency Department,87
+2026-04-18,PPE-007,Isolation units,44
+2026-04-18,PPE-007,Medical ICU,76
+2026-04-18,PPE-007,Surgical ICU,23
+2026-04-18,PPE-007,Cardiac Care Unit,2
+2026-04-18,PPE-007,NICU,26
+2026-04-18,PPE-007,PICU,12
+2026-04-18,PPE-008,General Wards,1
+2026-04-18,PPE-008,Medical-Surgical units,9
+2026-04-18,PPE-008,Oncology units,12
+2026-04-18,PPE-008,Cardiology units,1
+2026-04-18,PPE-008,Pediatrics units,2
+2026-04-18,PPE-008,Geriatrics units,11
+2026-04-18,PPE-008,Emergency Department,12
+2026-04-18,PPE-008,Isolation units,13
+2026-04-18,PPE-008,Medical ICU,6
+2026-04-18,PPE-008,Surgical ICU,11
+2026-04-18,PPE-008,Cardiac Care Unit,2
+2026-04-18,PPE-008,NICU,10
+2026-04-18,PPE-008,PICU,8
+2026-04-18,PPE-009,General Wards,35
+2026-04-18,PPE-009,Medical-Surgical units,140
+2026-04-18,PPE-009,Oncology units,48
+2026-04-18,PPE-009,Cardiology units,44
+2026-04-18,PPE-009,Pediatrics units,35
+2026-04-18,PPE-009,Geriatrics units,37
+2026-04-18,PPE-009,Emergency Department,21
+2026-04-18,PPE-009,Isolation units,36
+2026-04-18,PPE-009,Medical ICU,43
+2026-04-18,PPE-009,Surgical ICU,235
+2026-04-18,PPE-009,Cardiac Care Unit,57
+2026-04-18,PPE-009,NICU,29
+2026-04-18,PPE-009,PICU,24
+2026-04-18,PPE-010,General Wards,63
+2026-04-18,PPE-010,Medical-Surgical units,244
+2026-04-18,PPE-010,Oncology units,95
+2026-04-18,PPE-010,Cardiology units,71
+2026-04-18,PPE-010,Pediatrics units,112
+2026-04-18,PPE-010,Geriatrics units,81
+2026-04-18,PPE-010,Emergency Department,62
+2026-04-18,PPE-010,Isolation units,58
+2026-04-18,PPE-010,Medical ICU,76
+2026-04-18,PPE-010,Surgical ICU,168
+2026-04-18,PPE-010,Cardiac Care Unit,133
+2026-04-18,PPE-010,NICU,54
+2026-04-18,PPE-010,PICU,63
+2026-04-19,PPE-001,General Wards,40
+2026-04-19,PPE-001,Medical-Surgical units,103
+2026-04-19,PPE-001,Oncology units,117
+2026-04-19,PPE-001,Cardiology units,52
+2026-04-19,PPE-001,Pediatrics units,55
+2026-04-19,PPE-001,Geriatrics units,109
+2026-04-19,PPE-001,Emergency Department,535
+2026-04-19,PPE-001,Isolation units,599
+2026-04-19,PPE-001,Medical ICU,438
+2026-04-19,PPE-001,Surgical ICU,290
+2026-04-19,PPE-001,Cardiac Care Unit,22
+2026-04-19,PPE-001,NICU,260
+2026-04-19,PPE-001,PICU,143
+2026-04-19,PPE-002,General Wards,960
+2026-04-19,PPE-002,Medical-Surgical units,549
+2026-04-19,PPE-002,Oncology units,1236
+2026-04-19,PPE-002,Cardiology units,541
+2026-04-19,PPE-002,Pediatrics units,780
+2026-04-19,PPE-002,Geriatrics units,1361
+2026-04-19,PPE-002,Emergency Department,361
+2026-04-19,PPE-002,Isolation units,234
+2026-04-19,PPE-002,Medical ICU,149
+2026-04-19,PPE-002,Surgical ICU,722
+2026-04-19,PPE-002,Cardiac Care Unit,1056
+2026-04-19,PPE-002,NICU,715
+2026-04-19,PPE-002,PICU,1061
+2026-04-19,PPE-003,General Wards,154
+2026-04-19,PPE-003,Medical-Surgical units,75
+2026-04-19,PPE-003,Oncology units,132
+2026-04-19,PPE-003,Cardiology units,151
+2026-04-19,PPE-003,Pediatrics units,134
+2026-04-19,PPE-003,Geriatrics units,125
+2026-04-19,PPE-003,Emergency Department,96
+2026-04-19,PPE-003,Isolation units,127
+2026-04-19,PPE-003,Medical ICU,108
+2026-04-19,PPE-003,Surgical ICU,96
+2026-04-19,PPE-003,Cardiac Care Unit,108
+2026-04-19,PPE-003,NICU,217
+2026-04-19,PPE-003,PICU,131
+2026-04-19,PPE-004,General Wards,6
+2026-04-19,PPE-004,Medical-Surgical units,223
+2026-04-19,PPE-004,Oncology units,39
+2026-04-19,PPE-004,Cardiology units,6
+2026-04-19,PPE-004,Pediatrics units,13
+2026-04-19,PPE-004,Geriatrics units,39
+2026-04-19,PPE-004,Emergency Department,63
+2026-04-19,PPE-004,Isolation units,53
+2026-04-19,PPE-004,Medical ICU,54
+2026-04-19,PPE-004,Surgical ICU,279
+2026-04-19,PPE-004,Cardiac Care Unit,8
+2026-04-19,PPE-004,NICU,21
+2026-04-19,PPE-004,PICU,22
+2026-04-19,PPE-005,General Wards,339
+2026-04-19,PPE-005,Medical-Surgical units,389
+2026-04-19,PPE-005,Oncology units,731
+2026-04-19,PPE-005,Cardiology units,588
+2026-04-19,PPE-005,Pediatrics units,319
+2026-04-19,PPE-005,Geriatrics units,459
+2026-04-19,PPE-005,Emergency Department,931
+2026-04-19,PPE-005,Isolation units,1035
+2026-04-19,PPE-005,Medical ICU,674
+2026-04-19,PPE-005,Surgical ICU,280
+2026-04-19,PPE-005,Cardiac Care Unit,351
+2026-04-19,PPE-005,NICU,744
+2026-04-19,PPE-005,PICU,216
+2026-04-19,PPE-006,General Wards,8
+2026-04-19,PPE-006,Medical-Surgical units,37
+2026-04-19,PPE-006,Oncology units,31
+2026-04-19,PPE-006,Cardiology units,7
+2026-04-19,PPE-006,Pediatrics units,3
+2026-04-19,PPE-006,Geriatrics units,41
+2026-04-19,PPE-006,Emergency Department,39
+2026-04-19,PPE-006,Isolation units,39
+2026-04-19,PPE-006,Medical ICU,15
+2026-04-19,PPE-006,Surgical ICU,132
+2026-04-19,PPE-006,Cardiac Care Unit,5
+2026-04-19,PPE-006,NICU,45
+2026-04-19,PPE-006,PICU,21
+2026-04-19,PPE-007,General Wards,3
+2026-04-19,PPE-007,Medical-Surgical units,28
+2026-04-19,PPE-007,Oncology units,26
+2026-04-19,PPE-007,Cardiology units,5
+2026-04-19,PPE-007,Pediatrics units,3
+2026-04-19,PPE-007,Geriatrics units,16
+2026-04-19,PPE-007,Emergency Department,64
+2026-04-19,PPE-007,Isolation units,76
+2026-04-19,PPE-007,Medical ICU,82
+2026-04-19,PPE-007,Surgical ICU,30
+2026-04-19,PPE-007,Cardiac Care Unit,3
+2026-04-19,PPE-007,NICU,10
+2026-04-19,PPE-007,PICU,17
+2026-04-19,PPE-008,General Wards,2
+2026-04-19,PPE-008,Medical-Surgical units,12
+2026-04-19,PPE-008,Oncology units,7
+2026-04-19,PPE-008,Cardiology units,1
+2026-04-19,PPE-008,Pediatrics units,1
+2026-04-19,PPE-008,Geriatrics units,6
+2026-04-19,PPE-008,Emergency Department,5
+2026-04-19,PPE-008,Isolation units,9
+2026-04-19,PPE-008,Medical ICU,11
+2026-04-19,PPE-008,Surgical ICU,14
+2026-04-19,PPE-008,Cardiac Care Unit,1
+2026-04-19,PPE-008,NICU,6
+2026-04-19,PPE-008,PICU,9
+2026-04-19,PPE-009,General Wards,90
+2026-04-19,PPE-009,Medical-Surgical units,164
+2026-04-19,PPE-009,Oncology units,38
+2026-04-19,PPE-009,Cardiology units,63
+2026-04-19,PPE-009,Pediatrics units,84
+2026-04-19,PPE-009,Geriatrics units,54
+2026-04-19,PPE-009,Emergency Department,53
+2026-04-19,PPE-009,Isolation units,33
+2026-04-19,PPE-009,Medical ICU,22
+2026-04-19,PPE-009,Surgical ICU,130
+2026-04-19,PPE-009,Cardiac Care Unit,51
+2026-04-19,PPE-009,NICU,37
+2026-04-19,PPE-009,PICU,42
+2026-04-19,PPE-010,General Wards,49
+2026-04-19,PPE-010,Medical-Surgical units,161
+2026-04-19,PPE-010,Oncology units,69
+2026-04-19,PPE-010,Cardiology units,112
+2026-04-19,PPE-010,Pediatrics units,119
+2026-04-19,PPE-010,Geriatrics units,54
+2026-04-19,PPE-010,Emergency Department,84
+2026-04-19,PPE-010,Isolation units,64
+2026-04-19,PPE-010,Medical ICU,57
+2026-04-19,PPE-010,Surgical ICU,216
+2026-04-19,PPE-010,Cardiac Care Unit,114
+2026-04-19,PPE-010,NICU,65
+2026-04-19,PPE-010,PICU,93
+2026-04-20,PPE-001,General Wards,46
+2026-04-20,PPE-001,Medical-Surgical units,179
+2026-04-20,PPE-001,Oncology units,189
+2026-04-20,PPE-001,Cardiology units,59
+2026-04-20,PPE-001,Pediatrics units,36
+2026-04-20,PPE-001,Geriatrics units,219
+2026-04-20,PPE-001,Emergency Department,596
+2026-04-20,PPE-001,Isolation units,1021
+2026-04-20,PPE-001,Medical ICU,642
+2026-04-20,PPE-001,Surgical ICU,164
+2026-04-20,PPE-001,Cardiac Care Unit,42
+2026-04-20,PPE-001,NICU,312
+2026-04-20,PPE-001,PICU,156
+2026-04-20,PPE-002,General Wards,629
+2026-04-20,PPE-002,Medical-Surgical units,763
+2026-04-20,PPE-002,Oncology units,591
+2026-04-20,PPE-002,Cardiology units,1071
+2026-04-20,PPE-002,Pediatrics units,676
+2026-04-20,PPE-002,Geriatrics units,1430
+2026-04-20,PPE-002,Emergency Department,265
+2026-04-20,PPE-002,Isolation units,197
+2026-04-20,PPE-002,Medical ICU,270
+2026-04-20,PPE-002,Surgical ICU,368
+2026-04-20,PPE-002,Cardiac Care Unit,660
+2026-04-20,PPE-002,NICU,1026
+2026-04-20,PPE-002,PICU,1532
+2026-04-20,PPE-003,General Wards,162
+2026-04-20,PPE-003,Medical-Surgical units,86
+2026-04-20,PPE-003,Oncology units,264
+2026-04-20,PPE-003,Cardiology units,107
+2026-04-20,PPE-003,Pediatrics units,190
+2026-04-20,PPE-003,Geriatrics units,142
+2026-04-20,PPE-003,Emergency Department,96
+2026-04-20,PPE-003,Isolation units,129
+2026-04-20,PPE-003,Medical ICU,115
+2026-04-20,PPE-003,Surgical ICU,96
+2026-04-20,PPE-003,Cardiac Care Unit,131
+2026-04-20,PPE-003,NICU,141
+2026-04-20,PPE-003,PICU,193
+2026-04-20,PPE-004,General Wards,13
+2026-04-20,PPE-004,Medical-Surgical units,87
+2026-04-20,PPE-004,Oncology units,27
+2026-04-20,PPE-004,Cardiology units,15
+2026-04-20,PPE-004,Pediatrics units,5
+2026-04-20,PPE-004,Geriatrics units,21
+2026-04-20,PPE-004,Emergency Department,47
+2026-04-20,PPE-004,Isolation units,30
+2026-04-20,PPE-004,Medical ICU,72
+2026-04-20,PPE-004,Surgical ICU,277
+2026-04-20,PPE-004,Cardiac Care Unit,16
+2026-04-20,PPE-004,NICU,70
+2026-04-20,PPE-004,PICU,73
+2026-04-20,PPE-005,General Wards,283
+2026-04-20,PPE-005,Medical-Surgical units,105
+2026-04-20,PPE-005,Oncology units,214
+2026-04-20,PPE-005,Cardiology units,498
+2026-04-20,PPE-005,Pediatrics units,193
+2026-04-20,PPE-005,Geriatrics units,265
+2026-04-20,PPE-005,Emergency Department,433
+2026-04-20,PPE-005,Isolation units,859
+2026-04-20,PPE-005,Medical ICU,483
+2026-04-20,PPE-005,Surgical ICU,342
+2026-04-20,PPE-005,Cardiac Care Unit,490
+2026-04-20,PPE-005,NICU,412
+2026-04-20,PPE-005,PICU,450
+2026-04-20,PPE-006,General Wards,9
+2026-04-20,PPE-006,Medical-Surgical units,186
+2026-04-20,PPE-006,Oncology units,36
+2026-04-20,PPE-006,Cardiology units,5
+2026-04-20,PPE-006,Pediatrics units,3
+2026-04-20,PPE-006,Geriatrics units,16
+2026-04-20,PPE-006,Emergency Department,50
+2026-04-20,PPE-006,Isolation units,38
+2026-04-20,PPE-006,Medical ICU,39
+2026-04-20,PPE-006,Surgical ICU,48
+2026-04-20,PPE-006,Cardiac Care Unit,6
+2026-04-20,PPE-006,NICU,16
+2026-04-20,PPE-006,PICU,16
+2026-04-20,PPE-007,General Wards,3
+2026-04-20,PPE-007,Medical-Surgical units,26
+2026-04-20,PPE-007,Oncology units,26
+2026-04-20,PPE-007,Cardiology units,4
+2026-04-20,PPE-007,Pediatrics units,5
+2026-04-20,PPE-007,Geriatrics units,13
+2026-04-20,PPE-007,Emergency Department,60
+2026-04-20,PPE-007,Isolation units,89
+2026-04-20,PPE-007,Medical ICU,42
+2026-04-20,PPE-007,Surgical ICU,21
+2026-04-20,PPE-007,Cardiac Care Unit,4
+2026-04-20,PPE-007,NICU,25
+2026-04-20,PPE-007,PICU,16
+2026-04-20,PPE-008,General Wards,3
+2026-04-20,PPE-008,Medical-Surgical units,13
+2026-04-20,PPE-008,Oncology units,10
+2026-04-20,PPE-008,Cardiology units,2
+2026-04-20,PPE-008,Pediatrics units,1
+2026-04-20,PPE-008,Geriatrics units,8
+2026-04-20,PPE-008,Emergency Department,13
+2026-04-20,PPE-008,Isolation units,9
+2026-04-20,PPE-008,Medical ICU,12
+2026-04-20,PPE-008,Surgical ICU,8
+2026-04-20,PPE-008,Cardiac Care Unit,1
+2026-04-20,PPE-008,NICU,8
+2026-04-20,PPE-008,PICU,7
+2026-04-20,PPE-009,General Wards,56
+2026-04-20,PPE-009,Medical-Surgical units,144
+2026-04-20,PPE-009,Oncology units,60
+2026-04-20,PPE-009,Cardiology units,79
+2026-04-20,PPE-009,Pediatrics units,32
+2026-04-20,PPE-009,Geriatrics units,22
+2026-04-20,PPE-009,Emergency Department,43
+2026-04-20,PPE-009,Isolation units,22
+2026-04-20,PPE-009,Medical ICU,24
+2026-04-20,PPE-009,Surgical ICU,157
+2026-04-20,PPE-009,Cardiac Care Unit,56
+2026-04-20,PPE-009,NICU,59
+2026-04-20,PPE-009,PICU,42
+2026-04-20,PPE-010,General Wards,118
+2026-04-20,PPE-010,Medical-Surgical units,314
+2026-04-20,PPE-010,Oncology units,34
+2026-04-20,PPE-010,Cardiology units,101
+2026-04-20,PPE-010,Pediatrics units,124
+2026-04-20,PPE-010,Geriatrics units,66
+2026-04-20,PPE-010,Emergency Department,35
+2026-04-20,PPE-010,Isolation units,70
+2026-04-20,PPE-010,Medical ICU,36
+2026-04-20,PPE-010,Surgical ICU,179
+2026-04-20,PPE-010,Cardiac Care Unit,60
+2026-04-20,PPE-010,NICU,45
+2026-04-20,PPE-010,PICU,31
+2026-04-21,PPE-001,General Wards,41
+2026-04-21,PPE-001,Medical-Surgical units,208
+2026-04-21,PPE-001,Oncology units,268
+2026-04-21,PPE-001,Cardiology units,37
+2026-04-21,PPE-001,Pediatrics units,63
+2026-04-21,PPE-001,Geriatrics units,151
+2026-04-21,PPE-001,Emergency Department,547
+2026-04-21,PPE-001,Isolation units,748
+2026-04-21,PPE-001,Medical ICU,426
+2026-04-21,PPE-001,Surgical ICU,246
+2026-04-21,PPE-001,Cardiac Care Unit,41
+2026-04-21,PPE-001,NICU,194
+2026-04-21,PPE-001,PICU,121
+2026-04-21,PPE-002,General Wards,675
+2026-04-21,PPE-002,Medical-Surgical units,691
+2026-04-21,PPE-002,Oncology units,1397
+2026-04-21,PPE-002,Cardiology units,731
+2026-04-21,PPE-002,Pediatrics units,1229
+2026-04-21,PPE-002,Geriatrics units,688
+2026-04-21,PPE-002,Emergency Department,172
+2026-04-21,PPE-002,Isolation units,230
+2026-04-21,PPE-002,Medical ICU,319
+2026-04-21,PPE-002,Surgical ICU,461
+2026-04-21,PPE-002,Cardiac Care Unit,687
+2026-04-21,PPE-002,NICU,1094
+2026-04-21,PPE-002,PICU,1003
+2026-04-21,PPE-003,General Wards,156
+2026-04-21,PPE-003,Medical-Surgical units,126
+2026-04-21,PPE-003,Oncology units,115
+2026-04-21,PPE-003,Cardiology units,134
+2026-04-21,PPE-003,Pediatrics units,133
+2026-04-21,PPE-003,Geriatrics units,134
+2026-04-21,PPE-003,Emergency Department,138
+2026-04-21,PPE-003,Isolation units,117
+2026-04-21,PPE-003,Medical ICU,93
+2026-04-21,PPE-003,Surgical ICU,118
+2026-04-21,PPE-003,Cardiac Care Unit,180
+2026-04-21,PPE-003,NICU,219
+2026-04-21,PPE-003,PICU,162
+2026-04-21,PPE-004,General Wards,9
+2026-04-21,PPE-004,Medical-Surgical units,305
+2026-04-21,PPE-004,Oncology units,42
+2026-04-21,PPE-004,Cardiology units,14
+2026-04-21,PPE-004,Pediatrics units,7
+2026-04-21,PPE-004,Geriatrics units,68
+2026-04-21,PPE-004,Emergency Department,32
+2026-04-21,PPE-004,Isolation units,49
+2026-04-21,PPE-004,Medical ICU,55
+2026-04-21,PPE-004,Surgical ICU,285
+2026-04-21,PPE-004,Cardiac Care Unit,14
+2026-04-21,PPE-004,NICU,50
+2026-04-21,PPE-004,PICU,53
+2026-04-21,PPE-005,General Wards,578
+2026-04-21,PPE-005,Medical-Surgical units,230
+2026-04-21,PPE-005,Oncology units,504
+2026-04-21,PPE-005,Cardiology units,525
+2026-04-21,PPE-005,Pediatrics units,505
+2026-04-21,PPE-005,Geriatrics units,612
+2026-04-21,PPE-005,Emergency Department,557
+2026-04-21,PPE-005,Isolation units,774
+2026-04-21,PPE-005,Medical ICU,978
+2026-04-21,PPE-005,Surgical ICU,248
+2026-04-21,PPE-005,Cardiac Care Unit,501
+2026-04-21,PPE-005,NICU,408
+2026-04-21,PPE-005,PICU,392
+2026-04-21,PPE-006,General Wards,9
+2026-04-21,PPE-006,Medical-Surgical units,67
+2026-04-21,PPE-006,Oncology units,30
+2026-04-21,PPE-006,Cardiology units,7
+2026-04-21,PPE-006,Pediatrics units,7
+2026-04-21,PPE-006,Geriatrics units,50
+2026-04-21,PPE-006,Emergency Department,21
+2026-04-21,PPE-006,Isolation units,27
+2026-04-21,PPE-006,Medical ICU,37
+2026-04-21,PPE-006,Surgical ICU,42
+2026-04-21,PPE-006,Cardiac Care Unit,3
+2026-04-21,PPE-006,NICU,43
+2026-04-21,PPE-006,PICU,20
+2026-04-21,PPE-007,General Wards,3
+2026-04-21,PPE-007,Medical-Surgical units,10
+2026-04-21,PPE-007,Oncology units,28
+2026-04-21,PPE-007,Cardiology units,5
+2026-04-21,PPE-007,Pediatrics units,4
+2026-04-21,PPE-007,Geriatrics units,9
+2026-04-21,PPE-007,Emergency Department,76
+2026-04-21,PPE-007,Isolation units,71
+2026-04-21,PPE-007,Medical ICU,89
+2026-04-21,PPE-007,Surgical ICU,29
+2026-04-21,PPE-007,Cardiac Care Unit,4
+2026-04-21,PPE-007,NICU,18
+2026-04-21,PPE-007,PICU,26
+2026-04-21,PPE-008,General Wards,2
+2026-04-21,PPE-008,Medical-Surgical units,5
+2026-04-21,PPE-008,Oncology units,10
+2026-04-21,PPE-008,Cardiology units,2
+2026-04-21,PPE-008,Pediatrics units,2
+2026-04-21,PPE-008,Geriatrics units,14
+2026-04-21,PPE-008,Emergency Department,8
+2026-04-21,PPE-008,Isolation units,11
+2026-04-21,PPE-008,Medical ICU,13
+2026-04-21,PPE-008,Surgical ICU,8
+2026-04-21,PPE-008,Cardiac Care Unit,2
+2026-04-21,PPE-008,NICU,15
+2026-04-21,PPE-008,PICU,7
+2026-04-21,PPE-009,General Wards,35
+2026-04-21,PPE-009,Medical-Surgical units,165
+2026-04-21,PPE-009,Oncology units,22
+2026-04-21,PPE-009,Cardiology units,37
+2026-04-21,PPE-009,Pediatrics units,40
+2026-04-21,PPE-009,Geriatrics units,27
+2026-04-21,PPE-009,Emergency Department,25
+2026-04-21,PPE-009,Isolation units,28
+2026-04-21,PPE-009,Medical ICU,30
+2026-04-21,PPE-009,Surgical ICU,132
+2026-04-21,PPE-009,Cardiac Care Unit,47
+2026-04-21,PPE-009,NICU,29
+2026-04-21,PPE-009,PICU,21
+2026-04-21,PPE-010,General Wards,125
+2026-04-21,PPE-010,Medical-Surgical units,292
+2026-04-21,PPE-010,Oncology units,54
+2026-04-21,PPE-010,Cardiology units,62
+2026-04-21,PPE-010,Pediatrics units,53
+2026-04-21,PPE-010,Geriatrics units,50
+2026-04-21,PPE-010,Emergency Department,47
+2026-04-21,PPE-010,Isolation units,43
+2026-04-21,PPE-010,Medical ICU,56
+2026-04-21,PPE-010,Surgical ICU,279
+2026-04-21,PPE-010,Cardiac Care Unit,126
+2026-04-21,PPE-010,NICU,80
+2026-04-21,PPE-010,PICU,41
+2026-04-22,PPE-001,General Wards,59
+2026-04-22,PPE-001,Medical-Surgical units,142
+2026-04-22,PPE-001,Oncology units,211
+2026-04-22,PPE-001,Cardiology units,51
+2026-04-22,PPE-001,Pediatrics units,39
+2026-04-22,PPE-001,Geriatrics units,296
+2026-04-22,PPE-001,Emergency Department,370
+2026-04-22,PPE-001,Isolation units,723
+2026-04-22,PPE-001,Medical ICU,436
+2026-04-22,PPE-001,Surgical ICU,242
+2026-04-22,PPE-001,Cardiac Care Unit,52
+2026-04-22,PPE-001,NICU,190
+2026-04-22,PPE-001,PICU,142
+2026-04-22,PPE-002,General Wards,758
+2026-04-22,PPE-002,Medical-Surgical units,479
+2026-04-22,PPE-002,Oncology units,622
+2026-04-22,PPE-002,Cardiology units,975
+2026-04-22,PPE-002,Pediatrics units,673
+2026-04-22,PPE-002,Geriatrics units,1289
+2026-04-22,PPE-002,Emergency Department,243
+2026-04-22,PPE-002,Isolation units,154
+2026-04-22,PPE-002,Medical ICU,327
+2026-04-22,PPE-002,Surgical ICU,641
+2026-04-22,PPE-002,Cardiac Care Unit,678
+2026-04-22,PPE-002,NICU,713
+2026-04-22,PPE-002,PICU,728
+2026-04-22,PPE-003,General Wards,233
+2026-04-22,PPE-003,Medical-Surgical units,108
+2026-04-22,PPE-003,Oncology units,306
+2026-04-22,PPE-003,Cardiology units,166
+2026-04-22,PPE-003,Pediatrics units,76
+2026-04-22,PPE-003,Geriatrics units,250
+2026-04-22,PPE-003,Emergency Department,119
+2026-04-22,PPE-003,Isolation units,48
+2026-04-22,PPE-003,Medical ICU,58
+2026-04-22,PPE-003,Surgical ICU,132
+2026-04-22,PPE-003,Cardiac Care Unit,175
+2026-04-22,PPE-003,NICU,191
+2026-04-22,PPE-003,PICU,183
+2026-04-22,PPE-004,General Wards,13
+2026-04-22,PPE-004,Medical-Surgical units,224
+2026-04-22,PPE-004,Oncology units,35
+2026-04-22,PPE-004,Cardiology units,5
+2026-04-22,PPE-004,Pediatrics units,4
+2026-04-22,PPE-004,Geriatrics units,57
+2026-04-22,PPE-004,Emergency Department,69
+2026-04-22,PPE-004,Isolation units,46
+2026-04-22,PPE-004,Medical ICU,82
+2026-04-22,PPE-004,Surgical ICU,171
+2026-04-22,PPE-004,Cardiac Care Unit,15
+2026-04-22,PPE-004,NICU,31
+2026-04-22,PPE-004,PICU,47
+2026-04-22,PPE-005,General Wards,555
+2026-04-22,PPE-005,Medical-Surgical units,169
+2026-04-22,PPE-005,Oncology units,313
+2026-04-22,PPE-005,Cardiology units,400
+2026-04-22,PPE-005,Pediatrics units,521
+2026-04-22,PPE-005,Geriatrics units,806
+2026-04-22,PPE-005,Emergency Department,605
+2026-04-22,PPE-005,Isolation units,643
+2026-04-22,PPE-005,Medical ICU,1020
+2026-04-22,PPE-005,Surgical ICU,125
+2026-04-22,PPE-005,Cardiac Care Unit,457
+2026-04-22,PPE-005,NICU,383
+2026-04-22,PPE-005,PICU,381
+2026-04-22,PPE-006,General Wards,5
+2026-04-22,PPE-006,Medical-Surgical units,107
+2026-04-22,PPE-006,Oncology units,24
+2026-04-22,PPE-006,Cardiology units,2
+2026-04-22,PPE-006,Pediatrics units,9
+2026-04-22,PPE-006,Geriatrics units,14
+2026-04-22,PPE-006,Emergency Department,33
+2026-04-22,PPE-006,Isolation units,26
+2026-04-22,PPE-006,Medical ICU,43
+2026-04-22,PPE-006,Surgical ICU,60
+2026-04-22,PPE-006,Cardiac Care Unit,1
+2026-04-22,PPE-006,NICU,45
+2026-04-22,PPE-006,PICU,32
+2026-04-22,PPE-007,General Wards,3
+2026-04-22,PPE-007,Medical-Surgical units,10
+2026-04-22,PPE-007,Oncology units,9
+2026-04-22,PPE-007,Cardiology units,1
+2026-04-22,PPE-007,Pediatrics units,2
+2026-04-22,PPE-007,Geriatrics units,20
+2026-04-22,PPE-007,Emergency Department,36
+2026-04-22,PPE-007,Isolation units,66
+2026-04-22,PPE-007,Medical ICU,48
+2026-04-22,PPE-007,Surgical ICU,10
+2026-04-22,PPE-007,Cardiac Care Unit,3
+2026-04-22,PPE-007,NICU,25
+2026-04-22,PPE-007,PICU,26
+2026-04-22,PPE-008,Medical-Surgical units,11
+2026-04-22,PPE-008,Oncology units,5
+2026-04-22,PPE-008,Cardiology units,2
+2026-04-22,PPE-008,Pediatrics units,2
+2026-04-22,PPE-008,Geriatrics units,8
+2026-04-22,PPE-008,Emergency Department,11
+2026-04-22,PPE-008,Isolation units,11
+2026-04-22,PPE-008,Medical ICU,10
+2026-04-22,PPE-008,Surgical ICU,8
+2026-04-22,PPE-008,Cardiac Care Unit,1
+2026-04-22,PPE-008,NICU,9
+2026-04-22,PPE-008,PICU,11
+2026-04-22,PPE-009,General Wards,50
+2026-04-22,PPE-009,Medical-Surgical units,96
+2026-04-22,PPE-009,Oncology units,39
+2026-04-22,PPE-009,Cardiology units,38
+2026-04-22,PPE-009,Pediatrics units,64
+2026-04-22,PPE-009,Geriatrics units,24
+2026-04-22,PPE-009,Emergency Department,52
+2026-04-22,PPE-009,Isolation units,51
+2026-04-22,PPE-009,Medical ICU,41
+2026-04-22,PPE-009,Surgical ICU,226
+2026-04-22,PPE-009,Cardiac Care Unit,67
+2026-04-22,PPE-009,NICU,34
+2026-04-22,PPE-009,PICU,39
+2026-04-22,PPE-010,General Wards,121
+2026-04-22,PPE-010,Medical-Surgical units,131
+2026-04-22,PPE-010,Oncology units,46
+2026-04-22,PPE-010,Cardiology units,102
+2026-04-22,PPE-010,Pediatrics units,47
+2026-04-22,PPE-010,Geriatrics units,53
+2026-04-22,PPE-010,Emergency Department,32
+2026-04-22,PPE-010,Isolation units,58
+2026-04-22,PPE-010,Medical ICU,42
+2026-04-22,PPE-010,Surgical ICU,299
+2026-04-22,PPE-010,Cardiac Care Unit,62
+2026-04-22,PPE-010,NICU,70
+2026-04-22,PPE-010,PICU,65
+2026-04-23,PPE-001,General Wards,61
+2026-04-23,PPE-001,Medical-Surgical units,276
+2026-04-23,PPE-001,Oncology units,198
+2026-04-23,PPE-001,Cardiology units,31
+2026-04-23,PPE-001,Pediatrics units,35
+2026-04-23,PPE-001,Geriatrics units,202
+2026-04-23,PPE-001,Emergency Department,358
+2026-04-23,PPE-001,Isolation units,630
+2026-04-23,PPE-001,Medical ICU,609
+2026-04-23,PPE-001,Surgical ICU,209
+2026-04-23,PPE-001,Cardiac Care Unit,51
+2026-04-23,PPE-001,NICU,144
+2026-04-23,PPE-001,PICU,231
+2026-04-23,PPE-002,General Wards,539
+2026-04-23,PPE-002,Medical-Surgical units,667
+2026-04-23,PPE-002,Oncology units,1383
+2026-04-23,PPE-002,Cardiology units,912
+2026-04-23,PPE-002,Pediatrics units,470
+2026-04-23,PPE-002,Geriatrics units,906
+2026-04-23,PPE-002,Emergency Department,170
+2026-04-23,PPE-002,Isolation units,188
+2026-04-23,PPE-002,Medical ICU,348
+2026-04-23,PPE-002,Surgical ICU,416
+2026-04-23,PPE-002,Cardiac Care Unit,1034
+2026-04-23,PPE-002,NICU,775
+2026-04-23,PPE-002,PICU,1323
+2026-04-23,PPE-003,General Wards,135
+2026-04-23,PPE-003,Medical-Surgical units,129
+2026-04-23,PPE-003,Oncology units,168
+2026-04-23,PPE-003,Cardiology units,126
+2026-04-23,PPE-003,Pediatrics units,75
+2026-04-23,PPE-003,Geriatrics units,207
+2026-04-23,PPE-003,Emergency Department,54
+2026-04-23,PPE-003,Isolation units,152
+2026-04-23,PPE-003,Medical ICU,68
+2026-04-23,PPE-003,Surgical ICU,128
+2026-04-23,PPE-003,Cardiac Care Unit,173
+2026-04-23,PPE-003,NICU,205
+2026-04-23,PPE-003,PICU,213
+2026-04-23,PPE-004,General Wards,9
+2026-04-23,PPE-004,Medical-Surgical units,191
+2026-04-23,PPE-004,Oncology units,64
+2026-04-23,PPE-004,Cardiology units,14
+2026-04-23,PPE-004,Pediatrics units,11
+2026-04-23,PPE-004,Geriatrics units,30
+2026-04-23,PPE-004,Emergency Department,41
+2026-04-23,PPE-004,Isolation units,43
+2026-04-23,PPE-004,Medical ICU,30
+2026-04-23,PPE-004,Surgical ICU,254
+2026-04-23,PPE-004,Cardiac Care Unit,10
+2026-04-23,PPE-004,NICU,39
+2026-04-23,PPE-004,PICU,75
+2026-04-23,PPE-005,General Wards,511
+2026-04-23,PPE-005,Medical-Surgical units,224
+2026-04-23,PPE-005,Oncology units,457
+2026-04-23,PPE-005,Cardiology units,520
+2026-04-23,PPE-005,Pediatrics units,272
+2026-04-23,PPE-005,Geriatrics units,572
+2026-04-23,PPE-005,Emergency Department,944
+2026-04-23,PPE-005,Isolation units,609
+2026-04-23,PPE-005,Medical ICU,1365
+2026-04-23,PPE-005,Surgical ICU,336
+2026-04-23,PPE-005,Cardiac Care Unit,255
+2026-04-23,PPE-005,NICU,237
+2026-04-23,PPE-005,PICU,580
+2026-04-23,PPE-006,General Wards,5
+2026-04-23,PPE-006,Medical-Surgical units,69
+2026-04-23,PPE-006,Oncology units,35
+2026-04-23,PPE-006,Cardiology units,9
+2026-04-23,PPE-006,Pediatrics units,7
+2026-04-23,PPE-006,Geriatrics units,35
+2026-04-23,PPE-006,Emergency Department,37
+2026-04-23,PPE-006,Isolation units,40
+2026-04-23,PPE-006,Medical ICU,11
+2026-04-23,PPE-006,Surgical ICU,113
+2026-04-23,PPE-006,Cardiac Care Unit,8
+2026-04-23,PPE-006,NICU,11
+2026-04-23,PPE-006,PICU,34
+2026-04-23,PPE-007,General Wards,6
+2026-04-23,PPE-007,Medical-Surgical units,15
+2026-04-23,PPE-007,Oncology units,13
+2026-04-23,PPE-007,Cardiology units,1
+2026-04-23,PPE-007,Pediatrics units,3
+2026-04-23,PPE-007,Geriatrics units,24
+2026-04-23,PPE-007,Emergency Department,54
+2026-04-23,PPE-007,Isolation units,87
+2026-04-23,PPE-007,Medical ICU,58
+2026-04-23,PPE-007,Surgical ICU,18
+2026-04-23,PPE-007,Cardiac Care Unit,4
+2026-04-23,PPE-007,NICU,21
+2026-04-23,PPE-007,PICU,13
+2026-04-23,PPE-008,General Wards,3
+2026-04-23,PPE-008,Medical-Surgical units,5
+2026-04-23,PPE-008,Oncology units,5
+2026-04-23,PPE-008,Cardiology units,2
+2026-04-23,PPE-008,Pediatrics units,2
+2026-04-23,PPE-008,Geriatrics units,7
+2026-04-23,PPE-008,Emergency Department,15
+2026-04-23,PPE-008,Isolation units,10
+2026-04-23,PPE-008,Medical ICU,5
+2026-04-23,PPE-008,Surgical ICU,6
+2026-04-23,PPE-008,Cardiac Care Unit,2
+2026-04-23,PPE-008,NICU,7
+2026-04-23,PPE-008,PICU,6
+2026-04-23,PPE-009,General Wards,37
+2026-04-23,PPE-009,Medical-Surgical units,203
+2026-04-23,PPE-009,Oncology units,33
+2026-04-23,PPE-009,Cardiology units,70
+2026-04-23,PPE-009,Pediatrics units,88
+2026-04-23,PPE-009,Geriatrics units,36
+2026-04-23,PPE-009,Emergency Department,49
+2026-04-23,PPE-009,Isolation units,59
+2026-04-23,PPE-009,Medical ICU,22
+2026-04-23,PPE-009,Surgical ICU,82
+2026-04-23,PPE-009,Cardiac Care Unit,66
+2026-04-23,PPE-009,NICU,28
+2026-04-23,PPE-009,PICU,45
+2026-04-23,PPE-010,General Wards,74
+2026-04-23,PPE-010,Medical-Surgical units,213
+2026-04-23,PPE-010,Oncology units,71
+2026-04-23,PPE-010,Cardiology units,83
+2026-04-23,PPE-010,Pediatrics units,137
+2026-04-23,PPE-010,Geriatrics units,44
+2026-04-23,PPE-010,Emergency Department,67
+2026-04-23,PPE-010,Isolation units,75
+2026-04-23,PPE-010,Medical ICU,40
+2026-04-23,PPE-010,Surgical ICU,194
+2026-04-23,PPE-010,Cardiac Care Unit,90
+2026-04-23,PPE-010,NICU,37
+2026-04-23,PPE-010,PICU,66
+2026-04-24,PPE-001,General Wards,42
+2026-04-24,PPE-001,Medical-Surgical units,240
+2026-04-24,PPE-001,Oncology units,273
+2026-04-24,PPE-001,Cardiology units,23
+2026-04-24,PPE-001,Pediatrics units,36
+2026-04-24,PPE-001,Geriatrics units,231
+2026-04-24,PPE-001,Emergency Department,918
+2026-04-24,PPE-001,Isolation units,834
+2026-04-24,PPE-001,Medical ICU,357
+2026-04-24,PPE-001,Surgical ICU,223
+2026-04-24,PPE-001,Cardiac Care Unit,23
+2026-04-24,PPE-001,NICU,197
+2026-04-24,PPE-001,PICU,202
+2026-04-24,PPE-002,General Wards,502
+2026-04-24,PPE-002,Medical-Surgical units,516
+2026-04-24,PPE-002,Oncology units,830
+2026-04-24,PPE-002,Cardiology units,1266
+2026-04-24,PPE-002,Pediatrics units,755
+2026-04-24,PPE-002,Geriatrics units,1336
+2026-04-24,PPE-002,Emergency Department,384
+2026-04-24,PPE-002,Isolation units,242
+2026-04-24,PPE-002,Medical ICU,183
+2026-04-24,PPE-002,Surgical ICU,672
+2026-04-24,PPE-002,Cardiac Care Unit,682
+2026-04-24,PPE-002,NICU,1182
+2026-04-24,PPE-002,PICU,1169
+2026-04-24,PPE-003,General Wards,105
+2026-04-24,PPE-003,Medical-Surgical units,128
+2026-04-24,PPE-003,Oncology units,175
+2026-04-24,PPE-003,Cardiology units,171
+2026-04-24,PPE-003,Pediatrics units,194
+2026-04-24,PPE-003,Geriatrics units,310
+2026-04-24,PPE-003,Emergency Department,85
+2026-04-24,PPE-003,Isolation units,98
+2026-04-24,PPE-003,Medical ICU,74
+2026-04-24,PPE-003,Surgical ICU,65
+2026-04-24,PPE-003,Cardiac Care Unit,149
+2026-04-24,PPE-003,NICU,251
+2026-04-24,PPE-003,PICU,228
+2026-04-24,PPE-004,General Wards,11
+2026-04-24,PPE-004,Medical-Surgical units,136
+2026-04-24,PPE-004,Oncology units,50
+2026-04-24,PPE-004,Cardiology units,11
+2026-04-24,PPE-004,Pediatrics units,15
+2026-04-24,PPE-004,Geriatrics units,44
+2026-04-24,PPE-004,Emergency Department,47
+2026-04-24,PPE-004,Isolation units,28
+2026-04-24,PPE-004,Medical ICU,74
+2026-04-24,PPE-004,Surgical ICU,311
+2026-04-24,PPE-004,Cardiac Care Unit,10
+2026-04-24,PPE-004,NICU,59
+2026-04-24,PPE-004,PICU,62
+2026-04-24,PPE-005,General Wards,471
+2026-04-24,PPE-005,Medical-Surgical units,360
+2026-04-24,PPE-005,Oncology units,591
+2026-04-24,PPE-005,Cardiology units,559
+2026-04-24,PPE-005,Pediatrics units,189
+2026-04-24,PPE-005,Geriatrics units,194
+2026-04-24,PPE-005,Emergency Department,934
+2026-04-24,PPE-005,Isolation units,1268
+2026-04-24,PPE-005,Medical ICU,718
+2026-04-24,PPE-005,Surgical ICU,366
+2026-04-24,PPE-005,Cardiac Care Unit,339
+2026-04-24,PPE-005,NICU,377
+2026-04-24,PPE-005,PICU,644
+2026-04-24,PPE-006,General Wards,3
+2026-04-24,PPE-006,Medical-Surgical units,127
+2026-04-24,PPE-006,Oncology units,32
+2026-04-24,PPE-006,Cardiology units,3
+2026-04-24,PPE-006,Pediatrics units,9
+2026-04-24,PPE-006,Geriatrics units,21
+2026-04-24,PPE-006,Emergency Department,20
+2026-04-24,PPE-006,Isolation units,22
+2026-04-24,PPE-006,Medical ICU,16
+2026-04-24,PPE-006,Surgical ICU,157
+2026-04-24,PPE-006,Cardiac Care Unit,4
+2026-04-24,PPE-006,NICU,29
+2026-04-24,PPE-006,PICU,12
+2026-04-24,PPE-007,General Wards,3
+2026-04-24,PPE-007,Medical-Surgical units,23
+2026-04-24,PPE-007,Oncology units,28
+2026-04-24,PPE-007,Cardiology units,3
+2026-04-24,PPE-007,Pediatrics units,4
+2026-04-24,PPE-007,Geriatrics units,13
+2026-04-24,PPE-007,Emergency Department,60
+2026-04-24,PPE-007,Isolation units,71
+2026-04-24,PPE-007,Medical ICU,79
+2026-04-24,PPE-007,Surgical ICU,18
+2026-04-24,PPE-007,Cardiac Care Unit,5
+2026-04-24,PPE-007,NICU,11
+2026-04-24,PPE-007,PICU,21
+2026-04-24,PPE-008,General Wards,2
+2026-04-24,PPE-008,Medical-Surgical units,13
+2026-04-24,PPE-008,Oncology units,13
+2026-04-24,PPE-008,Cardiology units,1
+2026-04-24,PPE-008,Pediatrics units,2
+2026-04-24,PPE-008,Geriatrics units,9
+2026-04-24,PPE-008,Emergency Department,12
+2026-04-24,PPE-008,Isolation units,9
+2026-04-24,PPE-008,Medical ICU,6
+2026-04-24,PPE-008,Surgical ICU,13
+2026-04-24,PPE-008,Cardiac Care Unit,1
+2026-04-24,PPE-008,NICU,11
+2026-04-24,PPE-008,PICU,10
+2026-04-24,PPE-009,General Wards,84
+2026-04-24,PPE-009,Medical-Surgical units,120
+2026-04-24,PPE-009,Oncology units,38
+2026-04-24,PPE-009,Cardiology units,83
+2026-04-24,PPE-009,Pediatrics units,34
+2026-04-24,PPE-009,Geriatrics units,32
+2026-04-24,PPE-009,Emergency Department,31
+2026-04-24,PPE-009,Isolation units,22
+2026-04-24,PPE-009,Medical ICU,18
+2026-04-24,PPE-009,Surgical ICU,166
+2026-04-24,PPE-009,Cardiac Care Unit,74
+2026-04-24,PPE-009,NICU,52
+2026-04-24,PPE-009,PICU,60
+2026-04-24,PPE-010,General Wards,51
+2026-04-24,PPE-010,Medical-Surgical units,154
+2026-04-24,PPE-010,Oncology units,46
+2026-04-24,PPE-010,Cardiology units,73
+2026-04-24,PPE-010,Pediatrics units,90
+2026-04-24,PPE-010,Geriatrics units,83
+2026-04-24,PPE-010,Emergency Department,80
+2026-04-24,PPE-010,Isolation units,90
+2026-04-24,PPE-010,Medical ICU,86
+2026-04-24,PPE-010,Surgical ICU,364
+2026-04-24,PPE-010,Cardiac Care Unit,65
+2026-04-24,PPE-010,NICU,44
+2026-04-24,PPE-010,PICU,72
+2026-04-25,PPE-001,General Wards,61
+2026-04-25,PPE-001,Medical-Surgical units,198
+2026-04-25,PPE-001,Oncology units,203
+2026-04-25,PPE-001,Cardiology units,27
+2026-04-25,PPE-001,Pediatrics units,63
+2026-04-25,PPE-001,Geriatrics units,243
+2026-04-25,PPE-001,Emergency Department,894
+2026-04-25,PPE-001,Isolation units,957
+2026-04-25,PPE-001,Medical ICU,905
+2026-04-25,PPE-001,Surgical ICU,242
+2026-04-25,PPE-001,Cardiac Care Unit,36
+2026-04-25,PPE-001,NICU,135
+2026-04-25,PPE-001,PICU,161
+2026-04-25,PPE-002,General Wards,1214
+2026-04-25,PPE-002,Medical-Surgical units,624
+2026-04-25,PPE-002,Oncology units,1022
+2026-04-25,PPE-002,Cardiology units,536
+2026-04-25,PPE-002,Pediatrics units,716
+2026-04-25,PPE-002,Geriatrics units,1120
+2026-04-25,PPE-002,Emergency Department,278
+2026-04-25,PPE-002,Isolation units,372
+2026-04-25,PPE-002,Medical ICU,160
+2026-04-25,PPE-002,Surgical ICU,773
+2026-04-25,PPE-002,Cardiac Care Unit,970
+2026-04-25,PPE-002,NICU,854
+2026-04-25,PPE-002,PICU,706
+2026-04-25,PPE-003,General Wards,184
+2026-04-25,PPE-003,Medical-Surgical units,69
+2026-04-25,PPE-003,Oncology units,198
+2026-04-25,PPE-003,Cardiology units,154
+2026-04-25,PPE-003,Pediatrics units,129
+2026-04-25,PPE-003,Geriatrics units,143
+2026-04-25,PPE-003,Emergency Department,75
+2026-04-25,PPE-003,Isolation units,147
+2026-04-25,PPE-003,Medical ICU,92
+2026-04-25,PPE-003,Surgical ICU,59
+2026-04-25,PPE-003,Cardiac Care Unit,171
+2026-04-25,PPE-003,NICU,213
+2026-04-25,PPE-003,PICU,306
+2026-04-25,PPE-004,General Wards,16
+2026-04-25,PPE-004,Medical-Surgical units,281
+2026-04-25,PPE-004,Oncology units,78
+2026-04-25,PPE-004,Cardiology units,4
+2026-04-25,PPE-004,Pediatrics units,7
+2026-04-25,PPE-004,Geriatrics units,72
+2026-04-25,PPE-004,Emergency Department,57
+2026-04-25,PPE-004,Isolation units,23
+2026-04-25,PPE-004,Medical ICU,49
+2026-04-25,PPE-004,Surgical ICU,92
+2026-04-25,PPE-004,Cardiac Care Unit,12
+2026-04-25,PPE-004,NICU,67
+2026-04-25,PPE-004,PICU,57
+2026-04-25,PPE-005,General Wards,464
+2026-04-25,PPE-005,Medical-Surgical units,287
+2026-04-25,PPE-005,Oncology units,393
+2026-04-25,PPE-005,Cardiology units,611
+2026-04-25,PPE-005,Pediatrics units,303
+2026-04-25,PPE-005,Geriatrics units,306
+2026-04-25,PPE-005,Emergency Department,367
+2026-04-25,PPE-005,Isolation units,1236
+2026-04-25,PPE-005,Medical ICU,731
+2026-04-25,PPE-005,Surgical ICU,347
+2026-04-25,PPE-005,Cardiac Care Unit,290
+2026-04-25,PPE-005,NICU,539
+2026-04-25,PPE-005,PICU,602
+2026-04-25,PPE-006,General Wards,3
+2026-04-25,PPE-006,Medical-Surgical units,137
+2026-04-25,PPE-006,Oncology units,24
+2026-04-25,PPE-006,Cardiology units,5
+2026-04-25,PPE-006,Pediatrics units,5
+2026-04-25,PPE-006,Geriatrics units,18
+2026-04-25,PPE-006,Emergency Department,28
+2026-04-25,PPE-006,Isolation units,40
+2026-04-25,PPE-006,Medical ICU,21
+2026-04-25,PPE-006,Surgical ICU,178
+2026-04-25,PPE-006,Cardiac Care Unit,5
+2026-04-25,PPE-006,NICU,27
+2026-04-25,PPE-006,PICU,9
+2026-04-25,PPE-007,General Wards,3
+2026-04-25,PPE-007,Medical-Surgical units,28
+2026-04-25,PPE-007,Oncology units,27
+2026-04-25,PPE-007,Cardiology units,5
+2026-04-25,PPE-007,Pediatrics units,4
+2026-04-25,PPE-007,Geriatrics units,10
+2026-04-25,PPE-007,Emergency Department,87
+2026-04-25,PPE-007,Isolation units,67
+2026-04-25,PPE-007,Medical ICU,74
+2026-04-25,PPE-007,Surgical ICU,30
+2026-04-25,PPE-007,Cardiac Care Unit,2
+2026-04-25,PPE-007,NICU,13
+2026-04-25,PPE-007,PICU,19
+2026-04-25,PPE-008,General Wards,1
+2026-04-25,PPE-008,Medical-Surgical units,7
+2026-04-25,PPE-008,Oncology units,10
+2026-04-25,PPE-008,Cardiology units,2
+2026-04-25,PPE-008,Pediatrics units,2
+2026-04-25,PPE-008,Geriatrics units,13
+2026-04-25,PPE-008,Emergency Department,5
+2026-04-25,PPE-008,Isolation units,10
+2026-04-25,PPE-008,Medical ICU,14
+2026-04-25,PPE-008,Surgical ICU,14
+2026-04-25,PPE-008,Cardiac Care Unit,2
+2026-04-25,PPE-008,NICU,7
+2026-04-25,PPE-008,PICU,10
+2026-04-25,PPE-009,General Wards,72
+2026-04-25,PPE-009,Medical-Surgical units,250
+2026-04-25,PPE-009,Oncology units,56
+2026-04-25,PPE-009,Cardiology units,52
+2026-04-25,PPE-009,Pediatrics units,83
+2026-04-25,PPE-009,Geriatrics units,23
+2026-04-25,PPE-009,Emergency Department,44
+2026-04-25,PPE-009,Isolation units,20
+2026-04-25,PPE-009,Medical ICU,46
+2026-04-25,PPE-009,Surgical ICU,98
+2026-04-25,PPE-009,Cardiac Care Unit,29
+2026-04-25,PPE-009,NICU,60
+2026-04-25,PPE-009,PICU,26
+2026-04-25,PPE-010,General Wards,95
+2026-04-25,PPE-010,Medical-Surgical units,224
+2026-04-25,PPE-010,Oncology units,48
+2026-04-25,PPE-010,Cardiology units,53
+2026-04-25,PPE-010,Pediatrics units,101
+2026-04-25,PPE-010,Geriatrics units,82
+2026-04-25,PPE-010,Emergency Department,74
+2026-04-25,PPE-010,Isolation units,57
+2026-04-25,PPE-010,Medical ICU,56
+2026-04-25,PPE-010,Surgical ICU,138
+2026-04-25,PPE-010,Cardiac Care Unit,61
+2026-04-25,PPE-010,NICU,43
+2026-04-25,PPE-010,PICU,71
+2026-04-26,PPE-001,General Wards,18
+2026-04-26,PPE-001,Medical-Surgical units,263
+2026-04-26,PPE-001,Oncology units,198
+2026-04-26,PPE-001,Cardiology units,23
+2026-04-26,PPE-001,Pediatrics units,60
+2026-04-26,PPE-001,Geriatrics units,283
+2026-04-26,PPE-001,Emergency Department,610
+2026-04-26,PPE-001,Isolation units,439
+2026-04-26,PPE-001,Medical ICU,563
+2026-04-26,PPE-001,Surgical ICU,111
+2026-04-26,PPE-001,Cardiac Care Unit,38
+2026-04-26,PPE-001,NICU,219
+2026-04-26,PPE-001,PICU,244
+2026-04-26,PPE-002,General Wards,978
+2026-04-26,PPE-002,Medical-Surgical units,323
+2026-04-26,PPE-002,Oncology units,843
+2026-04-26,PPE-002,Cardiology units,1034
+2026-04-26,PPE-002,Pediatrics units,499
+2026-04-26,PPE-002,Geriatrics units,740
+2026-04-26,PPE-002,Emergency Department,380
+2026-04-26,PPE-002,Isolation units,275
+2026-04-26,PPE-002,Medical ICU,153
+2026-04-26,PPE-002,Surgical ICU,725
+2026-04-26,PPE-002,Cardiac Care Unit,966
+2026-04-26,PPE-002,NICU,880
+2026-04-26,PPE-002,PICU,1301
+2026-04-26,PPE-003,General Wards,215
+2026-04-26,PPE-003,Medical-Surgical units,92
+2026-04-26,PPE-003,Oncology units,276
+2026-04-26,PPE-003,Cardiology units,197
+2026-04-26,PPE-003,Pediatrics units,212
+2026-04-26,PPE-003,Geriatrics units,201
+2026-04-26,PPE-003,Emergency Department,75
+2026-04-26,PPE-003,Isolation units,48
+2026-04-26,PPE-003,Medical ICU,79
+2026-04-26,PPE-003,Surgical ICU,84
+2026-04-26,PPE-003,Cardiac Care Unit,207
+2026-04-26,PPE-003,NICU,237
+2026-04-26,PPE-003,PICU,213
+2026-04-26,PPE-004,General Wards,7
+2026-04-26,PPE-004,Medical-Surgical units,296
+2026-04-26,PPE-004,Oncology units,56
+2026-04-26,PPE-004,Cardiology units,10
+2026-04-26,PPE-004,Pediatrics units,6
+2026-04-26,PPE-004,Geriatrics units,73
+2026-04-26,PPE-004,Emergency Department,61
+2026-04-26,PPE-004,Isolation units,44
+2026-04-26,PPE-004,Medical ICU,45
+2026-04-26,PPE-004,Surgical ICU,173
+2026-04-26,PPE-004,Cardiac Care Unit,4
+2026-04-26,PPE-004,NICU,66
+2026-04-26,PPE-004,PICU,26
+2026-04-26,PPE-005,General Wards,533
+2026-04-26,PPE-005,Medical-Surgical units,336
+2026-04-26,PPE-005,Oncology units,515
+2026-04-26,PPE-005,Cardiology units,433
+2026-04-26,PPE-005,Pediatrics units,411
+2026-04-26,PPE-005,Geriatrics units,215
+2026-04-26,PPE-005,Emergency Department,486
+2026-04-26,PPE-005,Isolation units,754
+2026-04-26,PPE-005,Medical ICU,1104
+2026-04-26,PPE-005,Surgical ICU,117
+2026-04-26,PPE-005,Cardiac Care Unit,330
+2026-04-26,PPE-005,NICU,348
+2026-04-26,PPE-005,PICU,432
+2026-04-26,PPE-006,General Wards,2
+2026-04-26,PPE-006,Medical-Surgical units,181
+2026-04-26,PPE-006,Oncology units,50
+2026-04-26,PPE-006,Cardiology units,9
+2026-04-26,PPE-006,Pediatrics units,2
+2026-04-26,PPE-006,Geriatrics units,17
+2026-04-26,PPE-006,Emergency Department,10
+2026-04-26,PPE-006,Isolation units,51
+2026-04-26,PPE-006,Medical ICU,18
+2026-04-26,PPE-006,Surgical ICU,180
+2026-04-26,PPE-006,Cardiac Care Unit,3
+2026-04-26,PPE-006,NICU,11
+2026-04-26,PPE-006,PICU,36
+2026-04-26,PPE-007,General Wards,4
+2026-04-26,PPE-007,Medical-Surgical units,19
+2026-04-26,PPE-007,Oncology units,12
+2026-04-26,PPE-007,Cardiology units,4
+2026-04-26,PPE-007,Pediatrics units,2
+2026-04-26,PPE-007,Geriatrics units,25
+2026-04-26,PPE-007,Emergency Department,86
+2026-04-26,PPE-007,Isolation units,39
+2026-04-26,PPE-007,Medical ICU,52
+2026-04-26,PPE-007,Surgical ICU,16
+2026-04-26,PPE-007,Cardiac Care Unit,3
+2026-04-26,PPE-007,NICU,10
+2026-04-26,PPE-007,PICU,13
+2026-04-26,PPE-008,General Wards,1
+2026-04-26,PPE-008,Medical-Surgical units,9
+2026-04-26,PPE-008,Oncology units,8
+2026-04-26,PPE-008,Cardiology units,1
+2026-04-26,PPE-008,Pediatrics units,2
+2026-04-26,PPE-008,Geriatrics units,14
+2026-04-26,PPE-008,Emergency Department,9
+2026-04-26,PPE-008,Isolation units,7
+2026-04-26,PPE-008,Medical ICU,8
+2026-04-26,PPE-008,Surgical ICU,10
+2026-04-26,PPE-008,Cardiac Care Unit,1
+2026-04-26,PPE-008,NICU,9
+2026-04-26,PPE-008,PICU,8
+2026-04-26,PPE-009,General Wards,40
+2026-04-26,PPE-009,Medical-Surgical units,175
+2026-04-26,PPE-009,Oncology units,44
+2026-04-26,PPE-009,Cardiology units,71
+2026-04-26,PPE-009,Pediatrics units,65
+2026-04-26,PPE-009,Geriatrics units,26
+2026-04-26,PPE-009,Emergency Department,47
+2026-04-26,PPE-009,Isolation units,21
+2026-04-26,PPE-009,Medical ICU,50
+2026-04-26,PPE-009,Surgical ICU,116
+2026-04-26,PPE-009,Cardiac Care Unit,60
+2026-04-26,PPE-009,NICU,22
+2026-04-26,PPE-009,PICU,26
+2026-04-26,PPE-010,General Wards,135
+2026-04-26,PPE-010,Medical-Surgical units,220
+2026-04-26,PPE-010,Oncology units,53
+2026-04-26,PPE-010,Cardiology units,111
+2026-04-26,PPE-010,Pediatrics units,75
+2026-04-26,PPE-010,Geriatrics units,45
+2026-04-26,PPE-010,Emergency Department,74
+2026-04-26,PPE-010,Isolation units,55
+2026-04-26,PPE-010,Medical ICU,33
+2026-04-26,PPE-010,Surgical ICU,150
+2026-04-26,PPE-010,Cardiac Care Unit,99
+2026-04-26,PPE-010,NICU,39
+2026-04-26,PPE-010,PICU,41
+2026-04-27,PPE-001,General Wards,23
+2026-04-27,PPE-001,Medical-Surgical units,120
+2026-04-27,PPE-001,Oncology units,303
+2026-04-27,PPE-001,Cardiology units,23
+2026-04-27,PPE-001,Pediatrics units,23
+2026-04-27,PPE-001,Geriatrics units,231
+2026-04-27,PPE-001,Emergency Department,576
+2026-04-27,PPE-001,Isolation units,746
+2026-04-27,PPE-001,Medical ICU,764
+2026-04-27,PPE-001,Surgical ICU,280
+2026-04-27,PPE-001,Cardiac Care Unit,31
+2026-04-27,PPE-001,NICU,114
+2026-04-27,PPE-001,PICU,239
+2026-04-27,PPE-002,General Wards,533
+2026-04-27,PPE-002,Medical-Surgical units,636
+2026-04-27,PPE-002,Oncology units,869
+2026-04-27,PPE-002,Cardiology units,679
+2026-04-27,PPE-002,Pediatrics units,492
+2026-04-27,PPE-002,Geriatrics units,913
+2026-04-27,PPE-002,Emergency Department,218
+2026-04-27,PPE-002,Isolation units,155
+2026-04-27,PPE-002,Medical ICU,258
+2026-04-27,PPE-002,Surgical ICU,404
+2026-04-27,PPE-002,Cardiac Care Unit,630
+2026-04-27,PPE-002,NICU,1059
+2026-04-27,PPE-002,PICU,1433
+2026-04-27,PPE-003,General Wards,208
+2026-04-27,PPE-003,Medical-Surgical units,80
+2026-04-27,PPE-003,Oncology units,254
+2026-04-27,PPE-003,Cardiology units,131
+2026-04-27,PPE-003,Pediatrics units,178
+2026-04-27,PPE-003,Geriatrics units,190
+2026-04-27,PPE-003,Emergency Department,81
+2026-04-27,PPE-003,Isolation units,137
+2026-04-27,PPE-003,Medical ICU,129
+2026-04-27,PPE-003,Surgical ICU,120
+2026-04-27,PPE-003,Cardiac Care Unit,137
+2026-04-27,PPE-003,NICU,200
+2026-04-27,PPE-003,PICU,224
+2026-04-27,PPE-004,General Wards,15
+2026-04-27,PPE-004,Medical-Surgical units,284
+2026-04-27,PPE-004,Oncology units,19
+2026-04-27,PPE-004,Cardiology units,8
+2026-04-27,PPE-004,Pediatrics units,7
+2026-04-27,PPE-004,Geriatrics units,30
+2026-04-27,PPE-004,Emergency Department,32
+2026-04-27,PPE-004,Isolation units,54
+2026-04-27,PPE-004,Medical ICU,83
+2026-04-27,PPE-004,Surgical ICU,126
+2026-04-27,PPE-004,Cardiac Care Unit,5
+2026-04-27,PPE-004,NICU,28
+2026-04-27,PPE-004,PICU,50
+2026-04-27,PPE-005,General Wards,154
+2026-04-27,PPE-005,Medical-Surgical units,131
+2026-04-27,PPE-005,Oncology units,466
+2026-04-27,PPE-005,Cardiology units,365
+2026-04-27,PPE-005,Pediatrics units,552
+2026-04-27,PPE-005,Geriatrics units,585
+2026-04-27,PPE-005,Emergency Department,627
+2026-04-27,PPE-005,Isolation units,759
+2026-04-27,PPE-005,Medical ICU,635
+2026-04-27,PPE-005,Surgical ICU,334
+2026-04-27,PPE-005,Cardiac Care Unit,189
+2026-04-27,PPE-005,NICU,579
+2026-04-27,PPE-005,PICU,361
+2026-04-27,PPE-006,General Wards,3
+2026-04-27,PPE-006,Medical-Surgical units,51
+2026-04-27,PPE-006,Oncology units,38
+2026-04-27,PPE-006,Cardiology units,8
+2026-04-27,PPE-006,Pediatrics units,2
+2026-04-27,PPE-006,Geriatrics units,22
+2026-04-27,PPE-006,Emergency Department,34
+2026-04-27,PPE-006,Isolation units,35
+2026-04-27,PPE-006,Medical ICU,12
+2026-04-27,PPE-006,Surgical ICU,51
+2026-04-27,PPE-006,Cardiac Care Unit,4
+2026-04-27,PPE-006,NICU,46
+2026-04-27,PPE-006,PICU,16
+2026-04-27,PPE-007,General Wards,3
+2026-04-27,PPE-007,Medical-Surgical units,22
+2026-04-27,PPE-007,Oncology units,25
+2026-04-27,PPE-007,Cardiology units,2
+2026-04-27,PPE-007,Pediatrics units,4
+2026-04-27,PPE-007,Geriatrics units,19
+2026-04-27,PPE-007,Emergency Department,39
+2026-04-27,PPE-007,Isolation units,51
+2026-04-27,PPE-007,Medical ICU,46
+2026-04-27,PPE-007,Surgical ICU,15
+2026-04-27,PPE-007,Cardiac Care Unit,5
+2026-04-27,PPE-007,NICU,27
+2026-04-27,PPE-007,PICU,20
+2026-04-27,PPE-008,General Wards,2
+2026-04-27,PPE-008,Medical-Surgical units,7
+2026-04-27,PPE-008,Oncology units,9
+2026-04-27,PPE-008,Cardiology units,1
+2026-04-27,PPE-008,Pediatrics units,2
+2026-04-27,PPE-008,Geriatrics units,12
+2026-04-27,PPE-008,Emergency Department,12
+2026-04-27,PPE-008,Isolation units,8
+2026-04-27,PPE-008,Medical ICU,12
+2026-04-27,PPE-008,Surgical ICU,12
+2026-04-27,PPE-008,Cardiac Care Unit,1
+2026-04-27,PPE-008,NICU,14
+2026-04-27,PPE-008,PICU,12
+2026-04-27,PPE-009,General Wards,87
+2026-04-27,PPE-009,Medical-Surgical units,148
+2026-04-27,PPE-009,Oncology units,42
+2026-04-27,PPE-009,Cardiology units,38
+2026-04-27,PPE-009,Pediatrics units,64
+2026-04-27,PPE-009,Geriatrics units,45
+2026-04-27,PPE-009,Emergency Department,36
+2026-04-27,PPE-009,Isolation units,52
+2026-04-27,PPE-009,Medical ICU,51
+2026-04-27,PPE-009,Surgical ICU,212
+2026-04-27,PPE-009,Cardiac Care Unit,52
+2026-04-27,PPE-009,NICU,44
+2026-04-27,PPE-009,PICU,54
+2026-04-27,PPE-010,General Wards,55
+2026-04-27,PPE-010,Medical-Surgical units,241
+2026-04-27,PPE-010,Oncology units,47
+2026-04-27,PPE-010,Cardiology units,56
+2026-04-27,PPE-010,Pediatrics units,68
+2026-04-27,PPE-010,Geriatrics units,55
+2026-04-27,PPE-010,Emergency Department,41
+2026-04-27,PPE-010,Isolation units,34
+2026-04-27,PPE-010,Medical ICU,42
+2026-04-27,PPE-010,Surgical ICU,220
+2026-04-27,PPE-010,Cardiac Care Unit,112
+2026-04-27,PPE-010,NICU,85
+2026-04-27,PPE-010,PICU,49
+2026-04-28,PPE-001,General Wards,53
+2026-04-28,PPE-001,Medical-Surgical units,176
+2026-04-28,PPE-001,Oncology units,273
+2026-04-28,PPE-001,Cardiology units,32
+2026-04-28,PPE-001,Pediatrics units,26
+2026-04-28,PPE-001,Geriatrics units,234
+2026-04-28,PPE-001,Emergency Department,987
+2026-04-28,PPE-001,Isolation units,793
+2026-04-28,PPE-001,Medical ICU,679
+2026-04-28,PPE-001,Surgical ICU,253
+2026-04-28,PPE-001,Cardiac Care Unit,45
+2026-04-28,PPE-001,NICU,323
+2026-04-28,PPE-001,PICU,195
+2026-04-28,PPE-002,General Wards,702
+2026-04-28,PPE-002,Medical-Surgical units,575
+2026-04-28,PPE-002,Oncology units,926
+2026-04-28,PPE-002,Cardiology units,473
+2026-04-28,PPE-002,Pediatrics units,1079
+2026-04-28,PPE-002,Geriatrics units,1155
+2026-04-28,PPE-002,Emergency Department,368
+2026-04-28,PPE-002,Isolation units,217
+2026-04-28,PPE-002,Medical ICU,184
+2026-04-28,PPE-002,Surgical ICU,545
+2026-04-28,PPE-002,Cardiac Care Unit,766
+2026-04-28,PPE-002,NICU,1048
+2026-04-28,PPE-002,PICU,1130
+2026-04-28,PPE-003,General Wards,127
+2026-04-28,PPE-003,Medical-Surgical units,82
+2026-04-28,PPE-003,Oncology units,266
+2026-04-28,PPE-003,Cardiology units,132
+2026-04-28,PPE-003,Pediatrics units,178
+2026-04-28,PPE-003,Geriatrics units,130
+2026-04-28,PPE-003,Emergency Department,126
+2026-04-28,PPE-003,Isolation units,111
+2026-04-28,PPE-003,Medical ICU,119
+2026-04-28,PPE-003,Surgical ICU,92
+2026-04-28,PPE-003,Cardiac Care Unit,145
+2026-04-28,PPE-003,NICU,172
+2026-04-28,PPE-003,PICU,110
+2026-04-28,PPE-004,General Wards,5
+2026-04-28,PPE-004,Medical-Surgical units,275
+2026-04-28,PPE-004,Oncology units,45
+2026-04-28,PPE-004,Cardiology units,8
+2026-04-28,PPE-004,Pediatrics units,10
+2026-04-28,PPE-004,Geriatrics units,21
+2026-04-28,PPE-004,Emergency Department,49
+2026-04-28,PPE-004,Isolation units,58
+2026-04-28,PPE-004,Medical ICU,47
+2026-04-28,PPE-004,Surgical ICU,111
+2026-04-28,PPE-004,Cardiac Care Unit,4
+2026-04-28,PPE-004,NICU,49
+2026-04-28,PPE-004,PICU,59
+2026-04-28,PPE-005,General Wards,212
+2026-04-28,PPE-005,Medical-Surgical units,118
+2026-04-28,PPE-005,Oncology units,283
+2026-04-28,PPE-005,Cardiology units,186
+2026-04-28,PPE-005,Pediatrics units,186
+2026-04-28,PPE-005,Geriatrics units,652
+2026-04-28,PPE-005,Emergency Department,1353
+2026-04-28,PPE-005,Isolation units,479
+2026-04-28,PPE-005,Medical ICU,1370
+2026-04-28,PPE-005,Surgical ICU,366
+2026-04-28,PPE-005,Cardiac Care Unit,413
+2026-04-28,PPE-005,NICU,332
+2026-04-28,PPE-005,PICU,740
+2026-04-28,PPE-006,General Wards,6
+2026-04-28,PPE-006,Medical-Surgical units,91
+2026-04-28,PPE-006,Oncology units,20
+2026-04-28,PPE-006,Cardiology units,10
+2026-04-28,PPE-006,Pediatrics units,8
+2026-04-28,PPE-006,Geriatrics units,16
+2026-04-28,PPE-006,Emergency Department,29
+2026-04-28,PPE-006,Isolation units,24
+2026-04-28,PPE-006,Medical ICU,43
+2026-04-28,PPE-006,Surgical ICU,165
+2026-04-28,PPE-006,Cardiac Care Unit,2
+2026-04-28,PPE-006,NICU,20
+2026-04-28,PPE-006,PICU,28
+2026-04-28,PPE-007,General Wards,2
+2026-04-28,PPE-007,Medical-Surgical units,24
+2026-04-28,PPE-007,Oncology units,26
+2026-04-28,PPE-007,Cardiology units,4
+2026-04-28,PPE-007,Pediatrics units,2
+2026-04-28,PPE-007,Geriatrics units,25
+2026-04-28,PPE-007,Emergency Department,76
+2026-04-28,PPE-007,Isolation units,80
+2026-04-28,PPE-007,Medical ICU,103
+2026-04-28,PPE-007,Surgical ICU,23
+2026-04-28,PPE-007,Cardiac Care Unit,4
+2026-04-28,PPE-007,NICU,16
+2026-04-28,PPE-007,PICU,10
+2026-04-28,PPE-008,General Wards,2
+2026-04-28,PPE-008,Medical-Surgical units,10
+2026-04-28,PPE-008,Oncology units,9
+2026-04-28,PPE-008,Cardiology units,2
+2026-04-28,PPE-008,Pediatrics units,2
+2026-04-28,PPE-008,Geriatrics units,13
+2026-04-28,PPE-008,Emergency Department,4
+2026-04-28,PPE-008,Isolation units,7
+2026-04-28,PPE-008,Medical ICU,10
+2026-04-28,PPE-008,Surgical ICU,6
+2026-04-28,PPE-008,Cardiac Care Unit,1
+2026-04-28,PPE-008,NICU,4
+2026-04-28,PPE-008,PICU,9
+2026-04-28,PPE-009,General Wards,61
+2026-04-28,PPE-009,Medical-Surgical units,116
+2026-04-28,PPE-009,Oncology units,56
+2026-04-28,PPE-009,Cardiology units,35
+2026-04-28,PPE-009,Pediatrics units,32
+2026-04-28,PPE-009,Geriatrics units,53
+2026-04-28,PPE-009,Emergency Department,47
+2026-04-28,PPE-009,Isolation units,25
+2026-04-28,PPE-009,Medical ICU,48
+2026-04-28,PPE-009,Surgical ICU,191
+2026-04-28,PPE-009,Cardiac Care Unit,71
+2026-04-28,PPE-009,NICU,55
+2026-04-28,PPE-009,PICU,46
+2026-04-28,PPE-010,General Wards,130
+2026-04-28,PPE-010,Medical-Surgical units,381
+2026-04-28,PPE-010,Oncology units,43
+2026-04-28,PPE-010,Cardiology units,103
+2026-04-28,PPE-010,Pediatrics units,132
+2026-04-28,PPE-010,Geriatrics units,35
+2026-04-28,PPE-010,Emergency Department,71
+2026-04-28,PPE-010,Isolation units,54
+2026-04-28,PPE-010,Medical ICU,62
+2026-04-28,PPE-010,Surgical ICU,169
+2026-04-28,PPE-010,Cardiac Care Unit,117
+2026-04-28,PPE-010,NICU,56
+2026-04-28,PPE-010,PICU,41
+2026-04-29,PPE-001,General Wards,52
+2026-04-29,PPE-001,Medical-Surgical units,129
+2026-04-29,PPE-001,Oncology units,243
+2026-04-29,PPE-001,Cardiology units,33
+2026-04-29,PPE-001,Pediatrics units,48
+2026-04-29,PPE-001,Geriatrics units,272
+2026-04-29,PPE-001,Emergency Department,665
+2026-04-29,PPE-001,Isolation units,867
+2026-04-29,PPE-001,Medical ICU,814
+2026-04-29,PPE-001,Surgical ICU,251
+2026-04-29,PPE-001,Cardiac Care Unit,51
+2026-04-29,PPE-001,NICU,240
+2026-04-29,PPE-001,PICU,257
+2026-04-29,PPE-002,General Wards,760
+2026-04-29,PPE-002,Medical-Surgical units,566
+2026-04-29,PPE-002,Oncology units,754
+2026-04-29,PPE-002,Cardiology units,508
+2026-04-29,PPE-002,Pediatrics units,503
+2026-04-29,PPE-002,Geriatrics units,582
+2026-04-29,PPE-002,Emergency Department,192
+2026-04-29,PPE-002,Isolation units,322
+2026-04-29,PPE-002,Medical ICU,316
+2026-04-29,PPE-002,Surgical ICU,349
+2026-04-29,PPE-002,Cardiac Care Unit,940
+2026-04-29,PPE-002,NICU,921
+2026-04-29,PPE-002,PICU,823
+2026-04-29,PPE-003,General Wards,91
+2026-04-29,PPE-003,Medical-Surgical units,138
+2026-04-29,PPE-003,Oncology units,316
+2026-04-29,PPE-003,Cardiology units,192
+2026-04-29,PPE-003,Pediatrics units,226
+2026-04-29,PPE-003,Geriatrics units,221
+2026-04-29,PPE-003,Emergency Department,72
+2026-04-29,PPE-003,Isolation units,133
+2026-04-29,PPE-003,Medical ICU,75
+2026-04-29,PPE-003,Surgical ICU,83
+2026-04-29,PPE-003,Cardiac Care Unit,171
+2026-04-29,PPE-003,NICU,104
+2026-04-29,PPE-003,PICU,284
+2026-04-29,PPE-004,General Wards,8
+2026-04-29,PPE-004,Medical-Surgical units,256
+2026-04-29,PPE-004,Oncology units,30
+2026-04-29,PPE-004,Cardiology units,8
+2026-04-29,PPE-004,Pediatrics units,11
+2026-04-29,PPE-004,Geriatrics units,56
+2026-04-29,PPE-004,Emergency Department,71
+2026-04-29,PPE-004,Isolation units,43
+2026-04-29,PPE-004,Medical ICU,39
+2026-04-29,PPE-004,Surgical ICU,309
+2026-04-29,PPE-004,Cardiac Care Unit,9
+2026-04-29,PPE-004,NICU,32
+2026-04-29,PPE-004,PICU,44
+2026-04-29,PPE-005,General Wards,300
+2026-04-29,PPE-005,Medical-Surgical units,209
+2026-04-29,PPE-005,Oncology units,773
+2026-04-29,PPE-005,Cardiology units,236
+2026-04-29,PPE-005,Pediatrics units,623
+2026-04-29,PPE-005,Geriatrics units,443
+2026-04-29,PPE-005,Emergency Department,987
+2026-04-29,PPE-005,Isolation units,491
+2026-04-29,PPE-005,Medical ICU,739
+2026-04-29,PPE-005,Surgical ICU,211
+2026-04-29,PPE-005,Cardiac Care Unit,534
+2026-04-29,PPE-005,NICU,629
+2026-04-29,PPE-005,PICU,745
+2026-04-29,PPE-006,General Wards,3
+2026-04-29,PPE-006,Medical-Surgical units,138
+2026-04-29,PPE-006,Oncology units,14
+2026-04-29,PPE-006,Cardiology units,5
+2026-04-29,PPE-006,Pediatrics units,5
+2026-04-29,PPE-006,Geriatrics units,35
+2026-04-29,PPE-006,Emergency Department,33
+2026-04-29,PPE-006,Isolation units,23
+2026-04-29,PPE-006,Medical ICU,45
+2026-04-29,PPE-006,Surgical ICU,52
+2026-04-29,PPE-006,Cardiac Care Unit,7
+2026-04-29,PPE-006,NICU,21
+2026-04-29,PPE-006,PICU,18
+2026-04-29,PPE-007,General Wards,2
+2026-04-29,PPE-007,Medical-Surgical units,28
+2026-04-29,PPE-007,Oncology units,10
+2026-04-29,PPE-007,Cardiology units,2
+2026-04-29,PPE-007,Pediatrics units,3
+2026-04-29,PPE-007,Geriatrics units,11
+2026-04-29,PPE-007,Emergency Department,38
+2026-04-29,PPE-007,Isolation units,67
+2026-04-29,PPE-007,Medical ICU,56
+2026-04-29,PPE-007,Surgical ICU,10
+2026-04-29,PPE-007,Cardiac Care Unit,4
+2026-04-29,PPE-007,NICU,22
+2026-04-29,PPE-007,PICU,10
+2026-04-29,PPE-008,Medical-Surgical units,8
+2026-04-29,PPE-008,Oncology units,13
+2026-04-29,PPE-008,Cardiology units,1
+2026-04-29,PPE-008,Pediatrics units,2
+2026-04-29,PPE-008,Geriatrics units,11
+2026-04-29,PPE-008,Emergency Department,10
+2026-04-29,PPE-008,Isolation units,12
+2026-04-29,PPE-008,Medical ICU,11
+2026-04-29,PPE-008,Surgical ICU,5
+2026-04-29,PPE-008,Cardiac Care Unit,2
+2026-04-29,PPE-008,NICU,7
+2026-04-29,PPE-008,PICU,10
+2026-04-29,PPE-009,General Wards,81
+2026-04-29,PPE-009,Medical-Surgical units,229
+2026-04-29,PPE-009,Oncology units,36
+2026-04-29,PPE-009,Cardiology units,58
+2026-04-29,PPE-009,Pediatrics units,50
+2026-04-29,PPE-009,Geriatrics units,56
+2026-04-29,PPE-009,Emergency Department,48
+2026-04-29,PPE-009,Isolation units,36
+2026-04-29,PPE-009,Medical ICU,25
+2026-04-29,PPE-009,Surgical ICU,129
+2026-04-29,PPE-009,Cardiac Care Unit,38
+2026-04-29,PPE-009,NICU,22
+2026-04-29,PPE-009,PICU,26
+2026-04-29,PPE-010,General Wards,128
+2026-04-29,PPE-010,Medical-Surgical units,316
+2026-04-29,PPE-010,Oncology units,77
+2026-04-29,PPE-010,Cardiology units,94
+2026-04-29,PPE-010,Pediatrics units,42
+2026-04-29,PPE-010,Geriatrics units,35
+2026-04-29,PPE-010,Emergency Department,38
+2026-04-29,PPE-010,Isolation units,43
+2026-04-29,PPE-010,Medical ICU,71
+2026-04-29,PPE-010,Surgical ICU,140
+2026-04-29,PPE-010,Cardiac Care Unit,51
+2026-04-29,PPE-010,NICU,41
+2026-04-29,PPE-010,PICU,90
+2026-04-30,PPE-001,General Wards,40
+2026-04-30,PPE-001,Medical-Surgical units,211
+2026-04-30,PPE-001,Oncology units,202
+2026-04-30,PPE-001,Cardiology units,38
+2026-04-30,PPE-001,Pediatrics units,42
+2026-04-30,PPE-001,Geriatrics units,265
+2026-04-30,PPE-001,Emergency Department,653
+2026-04-30,PPE-001,Isolation units,861
+2026-04-30,PPE-001,Medical ICU,894
+2026-04-30,PPE-001,Surgical ICU,134
+2026-04-30,PPE-001,Cardiac Care Unit,45
+2026-04-30,PPE-001,NICU,140
+2026-04-30,PPE-001,PICU,244
+2026-04-30,PPE-002,General Wards,525
+2026-04-30,PPE-002,Medical-Surgical units,690
+2026-04-30,PPE-002,Oncology units,820
+2026-04-30,PPE-002,Cardiology units,585
+2026-04-30,PPE-002,Pediatrics units,866
+2026-04-30,PPE-002,Geriatrics units,1219
+2026-04-30,PPE-002,Emergency Department,221
+2026-04-30,PPE-002,Isolation units,331
+2026-04-30,PPE-002,Medical ICU,171
+2026-04-30,PPE-002,Surgical ICU,722
+2026-04-30,PPE-002,Cardiac Care Unit,567
+2026-04-30,PPE-002,NICU,716
+2026-04-30,PPE-002,PICU,706
+2026-04-30,PPE-003,General Wards,203
+2026-04-30,PPE-003,Medical-Surgical units,85
+2026-04-30,PPE-003,Oncology units,179
+2026-04-30,PPE-003,Cardiology units,110
+2026-04-30,PPE-003,Pediatrics units,117
+2026-04-30,PPE-003,Geriatrics units,243
+2026-04-30,PPE-003,Emergency Department,144
+2026-04-30,PPE-003,Isolation units,59
+2026-04-30,PPE-003,Medical ICU,68
+2026-04-30,PPE-003,Surgical ICU,54
+2026-04-30,PPE-003,Cardiac Care Unit,146
+2026-04-30,PPE-003,NICU,271
+2026-04-30,PPE-003,PICU,175
+2026-04-30,PPE-004,General Wards,14
+2026-04-30,PPE-004,Medical-Surgical units,107
+2026-04-30,PPE-004,Oncology units,65
+2026-04-30,PPE-004,Cardiology units,9
+2026-04-30,PPE-004,Pediatrics units,6
+2026-04-30,PPE-004,Geriatrics units,82
+2026-04-30,PPE-004,Emergency Department,64
+2026-04-30,PPE-004,Isolation units,57
+2026-04-30,PPE-004,Medical ICU,70
+2026-04-30,PPE-004,Surgical ICU,144
+2026-04-30,PPE-004,Cardiac Care Unit,8
+2026-04-30,PPE-004,NICU,42
+2026-04-30,PPE-004,PICU,54
+2026-04-30,PPE-005,General Wards,423
+2026-04-30,PPE-005,Medical-Surgical units,195
+2026-04-30,PPE-005,Oncology units,452
+2026-04-30,PPE-005,Cardiology units,461
+2026-04-30,PPE-005,Pediatrics units,226
+2026-04-30,PPE-005,Geriatrics units,223
+2026-04-30,PPE-005,Emergency Department,914
+2026-04-30,PPE-005,Isolation units,1382
+2026-04-30,PPE-005,Medical ICU,700
+2026-04-30,PPE-005,Surgical ICU,224
+2026-04-30,PPE-005,Cardiac Care Unit,181
+2026-04-30,PPE-005,NICU,384
+2026-04-30,PPE-005,PICU,263
+2026-04-30,PPE-006,General Wards,2
+2026-04-30,PPE-006,Medical-Surgical units,45
+2026-04-30,PPE-006,Oncology units,28
+2026-04-30,PPE-006,Cardiology units,8
+2026-04-30,PPE-006,Pediatrics units,3
+2026-04-30,PPE-006,Geriatrics units,28
+2026-04-30,PPE-006,Emergency Department,32
+2026-04-30,PPE-006,Isolation units,47
+2026-04-30,PPE-006,Medical ICU,43
+2026-04-30,PPE-006,Surgical ICU,199
+2026-04-30,PPE-006,Cardiac Care Unit,9
+2026-04-30,PPE-006,NICU,24
+2026-04-30,PPE-006,PICU,19
+2026-04-30,PPE-007,General Wards,5
+2026-04-30,PPE-007,Medical-Surgical units,27
+2026-04-30,PPE-007,Oncology units,22
+2026-04-30,PPE-007,Cardiology units,3
+2026-04-30,PPE-007,Pediatrics units,5
+2026-04-30,PPE-007,Geriatrics units,14
+2026-04-30,PPE-007,Emergency Department,92
+2026-04-30,PPE-007,Isolation units,69
+2026-04-30,PPE-007,Medical ICU,34
+2026-04-30,PPE-007,Surgical ICU,15
+2026-04-30,PPE-007,Cardiac Care Unit,3
+2026-04-30,PPE-007,NICU,28
+2026-04-30,PPE-007,PICU,14
+2026-04-30,PPE-008,General Wards,2
+2026-04-30,PPE-008,Medical-Surgical units,11
+2026-04-30,PPE-008,Oncology units,8
+2026-04-30,PPE-008,Cardiology units,2
+2026-04-30,PPE-008,Pediatrics units,1
+2026-04-30,PPE-008,Geriatrics units,10
+2026-04-30,PPE-008,Emergency Department,5
+2026-04-30,PPE-008,Isolation units,10
+2026-04-30,PPE-008,Medical ICU,5
+2026-04-30,PPE-008,Surgical ICU,12
+2026-04-30,PPE-008,Cardiac Care Unit,2
+2026-04-30,PPE-008,NICU,6
+2026-04-30,PPE-008,PICU,10
+2026-04-30,PPE-009,General Wards,56
+2026-04-30,PPE-009,Medical-Surgical units,139
+2026-04-30,PPE-009,Oncology units,28
+2026-04-30,PPE-009,Cardiology units,29
+2026-04-30,PPE-009,Pediatrics units,48
+2026-04-30,PPE-009,Geriatrics units,41
+2026-04-30,PPE-009,Emergency Department,62
+2026-04-30,PPE-009,Isolation units,43
+2026-04-30,PPE-009,Medical ICU,21
+2026-04-30,PPE-009,Surgical ICU,106
+2026-04-30,PPE-009,Cardiac Care Unit,81
+2026-04-30,PPE-009,NICU,48
+2026-04-30,PPE-009,PICU,45
+2026-04-30,PPE-010,General Wards,45
+2026-04-30,PPE-010,Medical-Surgical units,197
+2026-04-30,PPE-010,Oncology units,38
+2026-04-30,PPE-010,Cardiology units,62
+2026-04-30,PPE-010,Pediatrics units,40
+2026-04-30,PPE-010,Geriatrics units,42
+2026-04-30,PPE-010,Emergency Department,58
+2026-04-30,PPE-010,Isolation units,75
+2026-04-30,PPE-010,Medical ICU,70
+2026-04-30,PPE-010,Surgical ICU,334
+2026-04-30,PPE-010,Cardiac Care Unit,79
+2026-04-30,PPE-010,NICU,47
+2026-04-30,PPE-010,PICU,69

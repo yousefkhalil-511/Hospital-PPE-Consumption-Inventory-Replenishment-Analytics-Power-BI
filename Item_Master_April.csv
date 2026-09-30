@@ -1,0 +1,11 @@
+ItemID,Category,UnitCost,ReorderPoint
+PPE-001,N95 Respirators,1.25,3000
+PPE-002,Surgical Masks,0.15,10000
+PPE-003,Nitrile Exam Gloves (Box of 100),8.5,2500
+PPE-004,Sterile Surgical Gloves (Pairs),2.5,1500
+PPE-005,Isolation Gowns,2.1,4000
+PPE-006,Surgical Gowns,4.5,1000
+PPE-007,Face Shields,3.75,800
+PPE-008,Safety Goggles,5.0,500
+PPE-009,Bouffant Caps (Box of 100),4.0,1000
+PPE-010,Shoe Covers (Box of 100),6.0,1200
